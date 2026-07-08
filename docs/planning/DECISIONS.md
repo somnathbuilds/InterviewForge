@@ -26,5 +26,4 @@ The primary value comes from:
 - AI-powered guidance
 
 ### Status
-
-✅ Approved
+[Approved]
