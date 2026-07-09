@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import logo from "../../assets/images/logo.png";
 
 function Navbar() {
@@ -38,13 +39,13 @@ function Navbar() {
       {/* Right Section */}
       <div className="flex items-center gap-4">
 
-        <button className="px-5 py-2 text-blue-600 font-medium hover:text-blue-700">
+        <Link to="/login" className="px-5 py-2 text-blue-600 font-medium hover:text-blue-700">
           Login
-        </button>
+        </Link>
 
-        <button className="px-5 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition">
+        <Link to="/register" className="px-5 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition">
           Register
-        </button>
+        </Link>
 
       </div>
 
