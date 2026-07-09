@@ -5,7 +5,7 @@ import Register from "./pages/Register/Register";
 import Dashboard from "./pages/Dashboard/Dashboard";
 import DashboardLayout from "./pages/Dashboard/components/DashboardLayout";
 import DSADashboard from "./pages/DSA/DSADashboard";
-import DSACompanyWise from "./pages/DSA/DSACompanyWise";
+import CompanyWise from "./pages/DSA/CompanyWise";
 import DSARoadmaps from "./pages/DSA/DSARoadmaps";
 import DSATopics from "./pages/DSA/DSATopics";
 import DSAFavorites from "./pages/DSA/DSAFavorites";
@@ -31,7 +31,7 @@ function App() {
         
         {/* DSA Subpages nested routing */}
         <Route path="/dsa" element={<DashboardLayout><DSADashboard /></DashboardLayout>} />
-        <Route path="/dsa/companies" element={<DashboardLayout><DSACompanyWise /></DashboardLayout>} />
+        <Route path="/dsa/company-wise" element={<DashboardLayout><CompanyWise /></DashboardLayout>} />
         <Route path="/dsa/roadmaps" element={<DashboardLayout><DSARoadmaps /></DashboardLayout>} />
         <Route path="/dsa/topics" element={<DashboardLayout><DSATopics /></DashboardLayout>} />
         <Route path="/dsa/favorites" element={<DashboardLayout><DSAFavorites /></DashboardLayout>} />
