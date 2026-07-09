@@ -1,9 +1,11 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import logo from "../../assets/images/logo.png";
+import { useAuth } from "../../context/AuthContext";
 
 function Register() {
   const navigate = useNavigate();
+  const { register, user } = useAuth();
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
@@ -15,7 +17,14 @@ function Register() {
   const [validationError, setValidationError] = useState("");
   const [isLoading, setIsLoading] = useState(false);
 
-  const handleSubmit = (e) => {
+  // Redirect if already authenticated
+  useEffect(() => {
+    if (user) {
+      navigate("/dashboard");
+    }
+  }, [user, navigate]);
+
+  const handleSubmit = async (e) => {
     e.preventDefault();
     setValidationError("");
 
@@ -30,10 +39,14 @@ function Register() {
     }
 
     setIsLoading(true);
-    setTimeout(() => {
-      setIsLoading(false);
+    const result = await register(name, email, password, "Amazon");
+    setIsLoading(false);
+
+    if (result.success) {
       navigate("/dashboard");
-    }, 1200);
+    } else {
+      setValidationError(result.message);
+    }
   };
 
   return (
@@ -115,7 +128,7 @@ function Register() {
             <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">
               Create an account
             </h2>
-            <p className="text-slate-500 text-xs sm:text-sm mt-1.5">
+            <p className="text-slate-550 text-xs sm:text-sm mt-1.5">
               Sign up today and accelerate your placement preparation.
             </p>
           </div>
@@ -262,7 +275,7 @@ function Register() {
                 id="terms"
                 type="checkbox"
                 required
-                className="mt-0.5 w-4 h-4 rounded border-slate-300 text-blue-600 focus:ring-blue-500 cursor-pointer"
+                className="mt-0.5 w-4.5 h-4.5 rounded border-slate-300 text-blue-600 focus:ring-blue-500 cursor-pointer"
               />
               <label htmlFor="terms" className="text-xs text-slate-500 font-medium cursor-pointer leading-normal">
                 I agree to the{" "}

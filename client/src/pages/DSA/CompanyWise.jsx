@@ -21,47 +21,81 @@ const allCompaniesData = Object.entries(companyModules).map(([filePath, module])
     else if (q.difficulty === "Hard") hardCount++;
   });
 
+  // Calculate a deterministic readiness score based on questions metrics
+  const readinessScore = Math.round(((easyCount * 0.4 + mediumCount * 0.75 + hardCount * 1.0) / (questions.length || 1)) * 30 + 65);
+  const constrainedReadiness = Math.min(Math.max(readinessScore, 68), 98);
+
   return {
     key: fileKey,
     name: companyName,
     totalQuestions: questions.length,
+    readiness: constrainedReadiness,
     difficulty: {
       easy: easyCount,
       medium: mediumCount,
       hard: hardCount
     }
   };
-}).sort((a, b) => a.name.localeCompare(b.name)); // Sort alphabetically by name
+});
+
+// Explicit top 20 popular list order
+const popularKeys = [
+  "amazon", "google", "microsoft", "meta", "adobe", "apple", "uber",
+  "atlassian", "goldman-sachs", "oracle", "flipkart", "walmart-labs",
+  "netflix", "paypal", "linkedin", "salesforce", "cisco", "bloomberg",
+  "vmware", "intuit"
+];
+
+// Alphabetical sort fallback for non-popular lists
+const sortedAlphabetical = [...allCompaniesData].sort((a, b) => a.name.localeCompare(b.name));
+
+// Get pre-sorted popular list matching the explicit index
+const popularCompanies = popularKeys
+  .map((key) => allCompaniesData.find((c) => c.key === key))
+  .filter(Boolean);
 
 function CompanyWise() {
   const [searchQuery, setSearchQuery] = useState("");
+  const [showAll, setShowAll] = useState(false);
   const [visibleCount, setVisibleCount] = useState(24);
 
-  // Filter based on search query
-  const filteredCompanies = allCompaniesData.filter((comp) =>
-    comp.name.toLowerCase().includes(searchQuery.toLowerCase())
-  );
+  // Filter and display list
+  const getFilteredList = () => {
+    if (searchQuery) {
+      // Search filters across all 654 companies
+      return sortedAlphabetical.filter((comp) =>
+        comp.name.toLowerCase().includes(searchQuery.toLowerCase())
+      );
+    }
+    
+    if (showAll) {
+      return sortedAlphabetical;
+    }
 
-  const displayedCompanies = filteredCompanies.slice(0, visibleCount);
+    return popularCompanies;
+  };
+
+  const filteredList = getFilteredList();
+  const displayedCompanies = showAll || searchQuery ? filteredList.slice(0, visibleCount) : filteredList;
 
   return (
     <div className="space-y-6">
       
-      {/* Header Block */}
-      <div className="flex flex-col md:flex-row justify-between md:items-center gap-4 bg-white p-6 rounded-2xl border border-slate-200/80 shadow-sm">
-        <div>
+      {/* Header Panel */}
+      <div className="flex flex-col xl:flex-row justify-between xl:items-center gap-6 bg-white p-6 rounded-2xl border border-slate-200/80 shadow-sm">
+        <div className="space-y-1.5">
           <span className="text-[10px] font-bold text-blue-600 uppercase tracking-widest bg-blue-50 px-2.5 py-1 rounded-full">
-            Company Tracking
+            Placement Targets
           </span>
-          <h1 className="text-2xl sm:text-3xl font-extrabold text-slate-800 tracking-tight mt-3">
-            Company Wise Questions
+          <h1 className="text-2xl sm:text-3xl font-extrabold text-slate-800 tracking-tight mt-1.5">
+            Company Wise DSA
           </h1>
           <p className="text-slate-500 text-xs sm:text-sm">
-            Practice target corporate assessment sheets containing frequently tagged questions.
+            Solve problems asked by target recruiters and test mock match levels.
           </p>
         </div>
 
-        {/* Search Input */}
+        {/* Search Field */}
         <div className="relative shrink-0">
           <span className="absolute inset-y-0 left-0 pl-3.5 flex items-center text-slate-400 pointer-events-none">
             <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2.5">
@@ -70,23 +104,45 @@ function CompanyWise() {
           </span>
           <input
             type="text"
-            placeholder="Search company (e.g. Google)..."
+            placeholder="Search company..."
             value={searchQuery}
             onChange={(e) => {
               setSearchQuery(e.target.value);
-              setVisibleCount(24); // Reset pagination on search
+              setVisibleCount(24); // Reset pagination limits on search
             }}
-            className="bg-slate-50 border border-slate-200 focus:border-blue-500 rounded-xl pl-10 pr-4 py-2 text-xs sm:text-sm outline-none transition focus:ring-1 focus:ring-blue-500 text-slate-800 w-full md:w-64"
+            className="bg-slate-50 border border-slate-200 focus:border-blue-500 rounded-xl pl-10 pr-4 py-2 text-xs sm:text-sm outline-none transition focus:ring-1 focus:ring-blue-500 text-slate-800 w-full sm:w-64"
           />
         </div>
       </div>
 
-      {/* Meta indicators */}
-      <div className="flex items-center justify-between text-xs text-slate-500 font-semibold px-1">
-        <span>Total Companies: <span className="text-blue-600 font-bold">{filteredCompanies.length}</span></span>
-        {searchQuery && (
-          <span>Showing matches for "{searchQuery}"</span>
-        )}
+      {/* Meta indicators: Difficulty Legend & Totals */}
+      <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 bg-white p-4.5 rounded-2xl border border-slate-200/80 shadow-sm text-xs text-slate-500 font-semibold">
+        
+        {/* Total index */}
+        <div className="flex items-center gap-1.5">
+          <span>Total Companies:</span>
+          <span className="text-blue-600 font-extrabold bg-blue-50 px-2 py-0.5 rounded border border-blue-100">
+            {allCompaniesData.length}
+          </span>
+        </div>
+
+        {/* Difficulty Legend */}
+        <div className="flex items-center flex-wrap gap-4 select-none">
+          <span className="text-[10px] uppercase font-bold text-slate-450 tracking-wider">Difficulty Legend:</span>
+          <span className="flex items-center gap-1.5 font-bold">
+            <span className="w-2.5 h-2.5 bg-emerald-500 rounded-full"></span>
+            Easy
+          </span>
+          <span className="flex items-center gap-1.5 font-bold">
+            <span className="w-2.5 h-2.5 bg-amber-500 rounded-full"></span>
+            Medium
+          </span>
+          <span className="flex items-center gap-1.5 font-bold">
+            <span className="w-2.5 h-2.5 bg-rose-500 rounded-full"></span>
+            Hard
+          </span>
+        </div>
+
       </div>
 
       {/* Responsive Grid */}
@@ -97,23 +153,45 @@ function CompanyWise() {
             className="group bg-white border border-slate-200/80 rounded-2xl p-6 shadow-sm hover:shadow-md hover:-translate-y-1 transition-all duration-300 flex flex-col justify-between"
           >
             <div>
-              {/* Logo & Total Questions */}
-              <div className="flex justify-between items-start mb-4">
+              {/* Header inside card: Logo initial & Circular Readiness Ring */}
+              <div className="flex justify-between items-start mb-4.5">
                 <div className="w-12 h-12 bg-blue-50 text-blue-600 rounded-full flex items-center justify-center font-extrabold text-lg shadow-sm border border-blue-100 shrink-0">
                   {comp.name.charAt(0)}
                 </div>
-                <span className="text-[10px] font-bold px-2.5 py-1 rounded-full bg-slate-100 text-slate-600 border border-slate-200/50 self-center">
-                  {comp.totalQuestions} Questions
-                </span>
+                
+                {/* Circular progress Readiness ring */}
+                <div className="relative flex items-center justify-center w-12 h-12 shrink-0 select-none">
+                  <svg className="w-12 h-12 transform -rotate-90">
+                    <circle cx="24" cy="24" r="20" stroke="#f1f5f9" strokeWidth="3.5" fill="transparent" />
+                    <circle
+                      cx="24"
+                      cy="24"
+                      r="20"
+                      stroke="#2563eb"
+                      strokeWidth="3.5"
+                      fill="transparent"
+                      strokeDasharray={125.6}
+                      strokeDashoffset={125.6 * (1 - comp.readiness / 100)}
+                      strokeLinecap="round"
+                    />
+                  </svg>
+                  <div className="absolute text-center flex flex-col items-center">
+                    <span className="text-[10px] font-extrabold text-slate-800 leading-none">{comp.readiness}%</span>
+                    <span className="text-[5px] font-bold text-slate-400 uppercase tracking-tight mt-0.5 leading-none">Match</span>
+                  </div>
+                </div>
               </div>
 
-              {/* Company Info */}
-              <h3 className="text-base font-extrabold text-slate-800 leading-tight group-hover:text-blue-650 transition">
+              {/* Company Meta */}
+              <h3 className="text-base font-extrabold text-slate-800 leading-tight group-hover:text-blue-600 transition">
                 {comp.name}
               </h3>
+              <span className="text-[10px] text-slate-400 font-semibold tracking-wider block mt-1">
+                {comp.totalQuestions} Questions total
+              </span>
               
-              {/* Difficulty Distribution strip */}
-              <div className="grid grid-cols-3 gap-2 mt-4.5 bg-slate-50/50 p-2.5 rounded-xl border border-slate-100 text-center text-[10px] font-bold">
+              {/* Difficulty stats strip */}
+              <div className="grid grid-cols-3 gap-2 mt-4 bg-slate-50 p-2.5 rounded-xl border border-slate-100 text-center text-[10px] font-bold">
                 <div>
                   <span className="text-emerald-600 block">Easy</span>
                   <span className="text-slate-700 font-extrabold mt-0.5 block">{comp.difficulty.easy}</span>
@@ -129,7 +207,7 @@ function CompanyWise() {
               </div>
             </div>
 
-            {/* Link button to questions page */}
+            {/* CTA Practice Sheet button */}
             <div className="mt-6 pt-4 border-t border-slate-100/60">
               <Link
                 to={`/dsa/company-wise/${comp.key}`}
@@ -142,22 +220,33 @@ function CompanyWise() {
         ))}
       </div>
 
-      {/* Pagination Load More trigger */}
-      {filteredCompanies.length > visibleCount && (
-        <div className="text-center pt-6">
+      {/* Toggles and pagination controls */}
+      {!showAll && !searchQuery && (
+        <div className="text-center pt-8">
+          <button
+            onClick={() => setShowAll(true)}
+            className="bg-white hover:bg-slate-50 text-blue-600 border border-slate-200 text-xs sm:text-sm font-bold px-8 py-3.5 rounded-xl shadow-sm hover:shadow active:scale-95 transition cursor-pointer select-none"
+          >
+            View All Companies
+          </button>
+        </div>
+      )}
+
+      {(showAll || searchQuery) && filteredList.length > visibleCount && (
+        <div className="text-center pt-8">
           <button
             onClick={() => setVisibleCount((prev) => prev + 24)}
-            className="bg-white hover:bg-slate-50 text-blue-600 border border-slate-200 text-xs sm:text-sm font-bold px-8 py-3 rounded-xl shadow-sm hover:shadow active:scale-95 transition cursor-pointer"
+            className="bg-white hover:bg-slate-50 text-blue-600 border border-slate-200 text-xs sm:text-sm font-bold px-8 py-3.5 rounded-xl shadow-sm hover:shadow active:scale-95 transition cursor-pointer select-none"
           >
             Load More Companies
           </button>
         </div>
       )}
 
-      {/* Empty State */}
-      {filteredCompanies.length === 0 && (
+      {/* Empty Search panel */}
+      {filteredList.length === 0 && (
         <div className="border-2 border-dashed border-slate-200 rounded-3xl p-16 text-center text-slate-400 bg-white/50">
-          <svg className="w-12 h-12 text-slate-300 mx-auto mb-3" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="1.5">
+          <svg className="w-12 h-12 text-slate-350 mx-auto mb-3" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="1.5">
             <path strokeLinecap="round" strokeLinejoin="round" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
           </svg>
           <h4 className="text-sm font-bold text-slate-650">No company sheets found.</h4>

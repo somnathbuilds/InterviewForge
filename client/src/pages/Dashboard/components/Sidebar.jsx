@@ -1,12 +1,15 @@
 import { Link, useLocation } from "react-router-dom";
 import logo from "../../../assets/images/logo.png";
+import { useAuth } from "../../../context/AuthContext";
 
 function Sidebar({ isCollapsed, toggleCollapse }) {
   const location = useLocation();
+  const { logout } = useAuth();
 
   const menuItems = [
     { name: "Dashboard", path: "/dashboard", icon: <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2"><path strokeLinecap="round" strokeLinejoin="round" d="M4 6a2 2 0 012-2h2a2 2 0 012 2v4a2 2 0 01-2 2H6a2 2 0 01-2-2V6zM14 6a2 2 0 012-2h2a2 2 0 012 2v4a2 2 0 01-2 2h-2a2 2 0 01-2-2V6zM4 16a2 2 0 012-2h2a2 2 0 012 2v4a2 2 0 01-2 2H6a2 2 0 01-2-2v-4zM14 16a2 2 0 012-2h2a2 2 0 012 2v4a2 2 0 01-2 2h-2a2 2 0 01-2-2v-4z" /></svg> },
     { name: "DSA", path: "/dsa", icon: <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2"><path strokeLinecap="round" strokeLinejoin="round" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" /></svg> },
+    { name: "Company Wise", path: "/dsa/company-wise", icon: <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2"><path strokeLinecap="round" strokeLinejoin="round" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" /></svg> },
     { name: "Aptitude", path: "/aptitude", icon: <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2"><path strokeLinecap="round" strokeLinejoin="round" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" /></svg> },
     { name: "Core Subjects", path: "/core-subjects", icon: <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2"><path strokeLinecap="round" strokeLinejoin="round" d="M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4m0 5c0 2.21-3.582 4-8 4s-8-1.79-8-4" /></svg> },
     { name: "Mock Interview", path: "/mock-interview", icon: <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2"><path strokeLinecap="round" strokeLinejoin="round" d="M15 10l4.553-2.276A1 1 0 0121 8.618v6.764a1 1 0 01-1.447.894L15 14M5 18h8a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v8a2 2 0 002 2z" /></svg> },
@@ -42,12 +45,12 @@ function Sidebar({ isCollapsed, toggleCollapse }) {
             </svg>
           </button>
         </div>
-
+ 
         {/* Menu Navigation */}
         <nav className="p-4 space-y-1.5">
           {menuItems.map((item) => {
             const isActive = location.pathname === item.path;
-
+ 
             return (
               <Link
                 key={item.name}
@@ -65,12 +68,12 @@ function Sidebar({ isCollapsed, toggleCollapse }) {
           })}
         </nav>
       </div>
-
+ 
       {/* Logout Row */}
       <div className="p-4 border-t border-slate-800">
-        <Link
-          to="/"
-          className={`flex items-center gap-3.5 px-4 py-3 rounded-xl text-xs sm:text-sm font-semibold text-rose-400 hover:bg-rose-500/10 transition-colors cursor-pointer ${
+        <button
+          onClick={logout}
+          className={`w-full flex items-center gap-3.5 px-4 py-3 rounded-xl text-xs sm:text-sm font-semibold text-rose-400 hover:bg-rose-500/10 transition-colors cursor-pointer border-0 text-left bg-transparent ${
             isCollapsed ? "justify-center" : ""
           }`}
         >
@@ -78,7 +81,7 @@ function Sidebar({ isCollapsed, toggleCollapse }) {
             <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2"><path strokeLinecap="round" strokeLinejoin="round" d="M17 16l4-4m0 0l-4-4m4 4H7m6 4v1a3 3 0 01-3 3H6a3 3 0 01-3-3V7a3 3 0 013-3h4a3 3 0 013 3v1" /></svg>
           </div>
           {!isCollapsed && <span>Logout</span>}
-        </Link>
+        </button>
       </div>
 
     </aside>

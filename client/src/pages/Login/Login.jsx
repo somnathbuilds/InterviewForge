@@ -1,20 +1,36 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import logo from "../../assets/images/logo.png";
+import { useAuth } from "../../context/AuthContext";
 
 function Login() {
   const navigate = useNavigate();
+  const { login, user } = useAuth();
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [isLoading, setIsLoading] = useState(false);
+  const [error, setError] = useState("");
 
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    setIsLoading(true);
-    setTimeout(() => {
-      setIsLoading(false);
+  // Redirect if already authenticated
+  useEffect(() => {
+    if (user) {
       navigate("/dashboard");
-    }, 1200);
+    }
+  }, [user, navigate]);
+
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+    setError("");
+    setIsLoading(true);
+
+    const result = await login(email, password);
+    setIsLoading(false);
+
+    if (result.success) {
+      navigate("/dashboard");
+    } else {
+      setError(result.message);
+    }
   };
 
   return (
@@ -96,10 +112,20 @@ function Login() {
             <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">
               Welcome back
             </h2>
-            <p className="text-slate-500 text-xs sm:text-sm mt-2">
+            <p className="text-slate-550 text-xs sm:text-sm mt-2">
               Enter your details below to access your workspace.
             </p>
           </div>
+
+          {/* Error Message Box */}
+          {error && (
+            <div className="mb-5 bg-rose-50 border border-rose-200 text-rose-700 text-xs font-semibold rounded-xl p-3.5 flex items-center gap-2">
+              <svg className="w-4.5 h-4.5 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2.5">
+                <path strokeLinecap="round" strokeLinejoin="round" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
+              </svg>
+              <span>{error}</span>
+            </div>
+          )}
 
           {/* Social Sign In Options */}
           <div className="grid grid-cols-2 gap-3 mb-6">
@@ -166,7 +192,7 @@ function Login() {
               <input
                 id="remember"
                 type="checkbox"
-                className="w-4 h-4 rounded border-slate-300 text-blue-600 focus:ring-blue-500 cursor-pointer"
+                className="w-4.5 h-4.5 rounded border-slate-300 text-blue-600 focus:ring-blue-500 cursor-pointer"
               />
               <label htmlFor="remember" className="text-xs text-slate-500 font-medium cursor-pointer">
                 Keep me logged in for 30 days
@@ -196,9 +222,9 @@ function Login() {
           {/* Footer Navigation */}
           <p className="text-xs text-slate-500 text-center mt-8">
             Don't have an account?{" "}
-            <a href="#" className="font-semibold text-blue-600 hover:text-blue-700 transition">
+            <Link to="/register" className="font-semibold text-blue-600 hover:text-blue-700 transition">
               Create an account
-            </a>
+            </Link>
           </p>
 
         </div>

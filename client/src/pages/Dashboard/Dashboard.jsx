@@ -6,6 +6,8 @@ import AIRecommendations from "./components/AIRecommendations";
 import UpcomingCompanies from "./components/UpcomingCompanies";
 import RecentActivity from "./components/RecentActivity";
 import WeeklyChart from "./components/WeeklyChart";
+import TodaysFocus from "./components/TodaysFocus";
+import TopicMastery from "./components/TopicMastery";
 
 function Dashboard() {
   return (
@@ -23,7 +25,13 @@ function Dashboard() {
         </div>
       </div>
 
-      {/* Grid Row 2: AI Advice, Companies, & Timeline Activity */}
+      {/* Grid Row 2: Today's Focus & Topic Mastery */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <TodaysFocus />
+        <TopicMastery />
+      </div>
+
+      {/* Grid Row 3: AI Advice, Companies, & Timeline Activity */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         <AIRecommendations />
         <UpcomingCompanies />

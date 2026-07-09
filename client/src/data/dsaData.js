@@ -13,7 +13,10 @@ export const dsaProblems = [
     topic: "Arrays",
     companies: ["Google", "Amazon", "Microsoft"],
     favorite: true,
-    solved: true
+    solved: true,
+    leetcodeUrl: "https://leetcode.com/problems/two-sum",
+    acceptance: "57.5%",
+    frequency: "100.0%"
   },
   {
     id: 2,
@@ -22,7 +25,10 @@ export const dsaProblems = [
     topic: "Strings",
     companies: ["Amazon", "Microsoft"],
     favorite: false,
-    solved: true
+    solved: true,
+    leetcodeUrl: "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    acceptance: "39.1%",
+    frequency: "87.5%"
   },
   {
     id: 3,
@@ -31,7 +37,10 @@ export const dsaProblems = [
     topic: "Arrays",
     companies: ["Google", "Apple"],
     favorite: true,
-    solved: false
+    solved: false,
+    leetcodeUrl: "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    acceptance: "46.6%",
+    frequency: "75.0%"
   },
   {
     id: 4,
@@ -40,7 +49,10 @@ export const dsaProblems = [
     topic: "LinkedLists",
     companies: ["Microsoft", "Adobe", "Amazon"],
     favorite: false,
-    solved: true
+    solved: true,
+    leetcodeUrl: "https://leetcode.com/problems/reverse-linked-list",
+    acceptance: "76.4%",
+    frequency: "82.5%"
   },
   {
     id: 5,
@@ -49,7 +61,10 @@ export const dsaProblems = [
     topic: "LinkedLists",
     companies: ["Google", "Amazon", "Facebook"],
     favorite: true,
-    solved: false
+    solved: false,
+    leetcodeUrl: "https://leetcode.com/problems/merge-k-sorted-lists",
+    acceptance: "51.2%",
+    frequency: "69.0%"
   },
   {
     id: 6,
@@ -58,7 +73,10 @@ export const dsaProblems = [
     topic: "Strings",
     companies: ["Amazon", "Meta", "Google"],
     favorite: false,
-    solved: true
+    solved: true,
+    leetcodeUrl: "https://leetcode.com/problems/longest-palindromic-substring",
+    acceptance: "37.8%",
+    frequency: "75.0%"
   },
   {
     id: 7,
@@ -67,7 +85,10 @@ export const dsaProblems = [
     topic: "Arrays",
     companies: ["Google", "Amazon"],
     favorite: true,
-    solved: false
+    solved: false,
+    leetcodeUrl: "https://leetcode.com/problems/container-with-most-water",
+    acceptance: "60.0%",
+    frequency: "75.0%"
   },
   {
     id: 8,
@@ -76,7 +97,10 @@ export const dsaProblems = [
     topic: "Dynamic Programming",
     companies: ["Google", "Microsoft"],
     favorite: false,
-    solved: false
+    solved: false,
+    leetcodeUrl: "https://leetcode.com/problems/edit-distance",
+    acceptance: "44.8%",
+    frequency: "58.0%"
   },
   {
     id: 9,
@@ -85,7 +109,10 @@ export const dsaProblems = [
     topic: "Graphs",
     companies: ["Google", "Meta"],
     favorite: true,
-    solved: false
+    solved: false,
+    leetcodeUrl: "https://leetcode.com/problems/course-schedule",
+    acceptance: "48.2%",
+    frequency: "62.5%"
   },
   {
     id: 10,
@@ -94,7 +121,10 @@ export const dsaProblems = [
     topic: "Graphs",
     companies: ["Amazon", "Microsoft", "Google"],
     favorite: true,
-    solved: true
+    solved: true,
+    leetcodeUrl: "https://leetcode.com/problems/number-of-islands",
+    acceptance: "49.6%",
+    frequency: "72.0%"
   }
 ];
 
@@ -104,7 +134,7 @@ export const dsaSidebarData = {
     { day: "Mon", count: 2 },
     { day: "Tue", count: 4 },
     { day: "Wed", count: 1 },
-    { day: "Thu", count: 3 },
+    { day: "Thu", stroke: 3 },
     { day: "Fri", count: 5 },
     { day: "Sat", count: 2 },
     { day: "Sun", count: 4 }
