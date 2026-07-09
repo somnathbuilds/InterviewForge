@@ -5,6 +5,7 @@ import DailyGoals from "./components/DailyGoals";
 import AIRecommendations from "./components/AIRecommendations";
 import UpcomingCompanies from "./components/UpcomingCompanies";
 import RecentActivity from "./components/RecentActivity";
+import WeeklyChart from "./components/WeeklyChart";
 
 function Dashboard() {
   return (
@@ -12,14 +13,19 @@ function Dashboard() {
       <WelcomeCard />
       <ProgressOverview />
 
-      {/* Grid panel 1: Goals and AI Advice */}
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-        <DailyGoals />
-        <AIRecommendations />
+      {/* Grid Row 1: Weekly Progress Chart & Daily Goals */}
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+        <div className="lg:col-span-2">
+          <WeeklyChart />
+        </div>
+        <div>
+          <DailyGoals />
+        </div>
       </div>
 
-      {/* Grid panel 2: Recruitment and Activities */}
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+      {/* Grid Row 2: AI Advice, Companies, & Timeline Activity */}
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <AIRecommendations />
         <UpcomingCompanies />
         <RecentActivity />
       </div>

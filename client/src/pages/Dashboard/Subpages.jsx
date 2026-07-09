@@ -33,26 +33,7 @@ function SubpagePlaceholder({ title, message, icon }) {
   );
 }
 
-export function DSAPage() {
-  return (
-    <div>
-      <SubpageHeader
-        category="DSA Arena"
-        title="Data Structures & Algorithms"
-        description="Solve topic-wise problem sheets, practice dynamic programming, and run execution tests."
-      />
-      <SubpagePlaceholder
-        title="DSA Coding Panel"
-        message="Your coding environment and compiled list of 450 DSA problems are loading. Master arrays, strings, and trees next."
-        icon={
-          <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
-            <path strokeLinecap="round" strokeLinejoin="round" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" />
-          </svg>
-        }
-      />
-    </div>
-  );
-}
+// Secondary Subpages placeholder declarations
 
 export function AptitudePage() {
   return (

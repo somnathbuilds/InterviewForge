@@ -4,8 +4,8 @@ import Login from "./pages/Login/Login";
 import Register from "./pages/Register/Register";
 import Dashboard from "./pages/Dashboard/Dashboard";
 import DashboardLayout from "./pages/Dashboard/components/DashboardLayout";
+import DSA from "./pages/DSA/DSA";
 import {
-  DSAPage,
   AptitudePage,
   CoreSubjectsPage,
   MockInterviewPage,
@@ -23,7 +23,7 @@ function App() {
         <Route path="/dashboard" element={<Dashboard />} />
         
         {/* Dashboard Subpages */}
-        <Route path="/dsa" element={<DashboardLayout><DSAPage /></DashboardLayout>} />
+        <Route path="/dsa" element={<DashboardLayout><DSA /></DashboardLayout>} />
         <Route path="/aptitude" element={<DashboardLayout><AptitudePage /></DashboardLayout>} />
         <Route path="/core-subjects" element={<DashboardLayout><CoreSubjectsPage /></DashboardLayout>} />
         <Route path="/mock-interview" element={<DashboardLayout><MockInterviewPage /></DashboardLayout>} />

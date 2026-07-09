@@ -57,3 +57,13 @@ export const aiRecommendations = [
     badgeType: "blue"
   }
 ];
+
+export const weeklyProgressData = [
+  { day: "Mon", solved: 4 },
+  { day: "Tue", solved: 7 },
+  { day: "Wed", solved: 5 },
+  { day: "Thu", solved: 9 },
+  { day: "Fri", solved: 12 },
+  { day: "Sat", solved: 8 },
+  { day: "Sun", solved: 15 }
+];
