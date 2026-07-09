@@ -1,12 +1,8 @@
 import { useState } from "react";
+import { dailyGoalsData } from "../../../data/dashboardData";
 
 function DailyGoals() {
-  const [tasks, setTasks] = useState([
-    { id: 1, name: "Solve 2 Binary Tree problems (DFS/BFS)", category: "DSA", completed: false },
-    { id: 2, name: "Revise Operating Systems Page Replacement algorithms", category: "Core Subjects", completed: false },
-    { id: 3, name: "Solve 1 quantitative aptitude practice test", category: "Aptitude", completed: true },
-    { id: 4, name: "Review Amazon Online Assessment guides", category: "Company", completed: false },
-  ]);
+  const [tasks, setTasks] = useState(dailyGoalsData);
 
   const handleToggle = (id) => {
     setTasks(
@@ -82,7 +78,7 @@ function DailyGoals() {
       {/* Footer Banner */}
       <div className="mt-6 pt-4.5 border-t border-slate-100/60 flex items-center justify-between text-xs text-slate-400">
         <span>Resets at midnight</span>
-        <button className="text-blue-600 font-bold hover:text-blue-700 transition">
+        <button className="text-blue-600 font-bold hover:text-blue-700 transition cursor-pointer">
           + Add Custom Task
         </button>
       </div>

@@ -1,4 +1,5 @@
 import logo from "../../../assets/images/logo.png";
+import { studentData } from "../../../data/dashboardData";
 
 function WelcomeCard() {
   return (
@@ -17,19 +18,19 @@ function WelcomeCard() {
               Dashboard Workspace
             </span>
             <span className="text-xs bg-amber-400/20 text-amber-200 font-bold px-2.5 py-1 rounded-full flex items-center gap-1 backdrop-blur-sm border border-amber-400/10">
-              🔥 7 Day Streak
+              🔥 {studentData.streak} Day Streak
             </span>
             <span className="text-xs bg-emerald-400/20 text-emerald-200 font-bold px-2.5 py-1 rounded-full flex items-center gap-1 backdrop-blur-sm border border-emerald-400/10">
-              🎯 82% Placement Readiness
+              🎯 {studentData.readiness}% Placement Readiness
             </span>
           </div>
 
           <div>
             <h1 className="text-2xl sm:text-3xl font-extrabold tracking-tight">
-              Welcome back, Somnath 👋
+              Welcome back, {studentData.name} 👋
             </h1>
             <p className="text-blue-100 text-xs sm:text-sm mt-2 max-w-xl leading-relaxed">
-              <strong>Today's Goal:</strong> Solve 2 DSA + Revise DBMS
+              <strong>Today's Goal:</strong> {studentData.goalsSummary}
             </p>
           </div>
 

@@ -1,36 +1,29 @@
-import { useState } from "react";
-import Sidebar from "./components/Sidebar";
-import Topbar from "./components/Topbar";
 import WelcomeCard from "./components/WelcomeCard";
 import ProgressOverview from "./components/ProgressOverview";
+import DashboardLayout from "./components/DashboardLayout";
+import DailyGoals from "./components/DailyGoals";
+import AIRecommendations from "./components/AIRecommendations";
+import UpcomingCompanies from "./components/UpcomingCompanies";
+import RecentActivity from "./components/RecentActivity";
 
 function Dashboard() {
-  const [isSidebarCollapsed, setIsSidebarCollapsed] = useState(false);
-
   return (
-    <div className="min-h-screen bg-slate-50 flex overflow-hidden">
-      
-      {/* Collapsible left navigation panel */}
-      <Sidebar
-        isCollapsed={isSidebarCollapsed}
-        toggleCollapse={() => setIsSidebarCollapsed(!isSidebarCollapsed)}
-      />
+    <DashboardLayout>
+      <WelcomeCard />
+      <ProgressOverview />
 
-      {/* Main Workspace Frame */}
-      <div className="flex-1 flex flex-col min-w-0 h-screen overflow-hidden">
-        
-        {/* Top Navbar */}
-        <Topbar />
-
-        {/* Workspace content scroll area */}
-        <main className="flex-1 p-6 lg:p-8 space-y-6 overflow-y-auto">
-          <WelcomeCard />
-          <ProgressOverview />
-        </main>
-
+      {/* Grid panel 1: Goals and AI Advice */}
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+        <DailyGoals />
+        <AIRecommendations />
       </div>
 
-    </div>
+      {/* Grid panel 2: Recruitment and Activities */}
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+        <UpcomingCompanies />
+        <RecentActivity />
+      </div>
+    </DashboardLayout>
   );
 }
 
