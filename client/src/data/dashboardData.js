@@ -2,7 +2,7 @@ export const studentData = {
   name: "Somnath",
   streak: 7,
   readiness: 82,
-  goalsSummary: "Solve 2 DSA + Revise DBMS"
+  goalsSummary: "Solve 2 Binary Search + Revise DBMS Transactions (Est: 2h 30m)"
 };
 
 export const progressStats = [
@@ -37,10 +37,9 @@ export const progressStats = [
 ];
 
 export const dailyGoalsData = [
-  { id: 1, name: "Solve 2 Binary Tree problems (DFS/BFS)", category: "DSA", completed: false },
-  { id: 2, name: "Revise Operating Systems Page Replacement algorithms", category: "Core Subjects", completed: false },
-  { id: 3, name: "Solve 1 quantitative aptitude practice test", category: "Aptitude", completed: true },
-  { id: 4, name: "Review Amazon Online Assessment guides", category: "Company", completed: false }
+  { id: 1, name: "Solve 2 Binary Search problems", category: "DSA", completed: false },
+  { id: 2, name: "Revise DBMS Transactions", category: "Core Subjects", completed: false },
+  { id: 3, name: "Take 1 Aptitude Quiz", category: "Aptitude", completed: true }
 ];
 
 export const aiRecommendations = [

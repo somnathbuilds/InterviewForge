@@ -4,9 +4,9 @@ function AIMentorSection() {
   const [activeTask, setActiveTask] = useState(null);
 
   const mockTasks = [
-    { id: 1, name: "Solve 2 DSA problems (BFS / DFS)", status: "pending" },
-    { id: 2, name: "Revise DBMS Normalization (1NF, 2NF, 3NF)", status: "pending" },
-    { id: 3, name: "Complete 1 Aptitude Quiz (Time & Distance)", status: "pending" },
+    { id: 1, name: "Solve 2 Binary Search problems", status: "pending" },
+    { id: 2, name: "Revise DBMS Transactions", status: "pending" },
+    { id: 3, name: "Take 1 Aptitude Quiz", status: "pending" },
   ];
 
   return (
@@ -72,12 +72,15 @@ function AIMentorSection() {
                 <div className="flex justify-start">
                   <div className="max-w-[90%] bg-slate-800 text-slate-100 rounded-2xl px-4 py-3.5 text-xs sm:text-sm font-medium shadow-md flex flex-col gap-3">
                     <p className="leading-relaxed text-slate-200">
-                      Based on your progress, complete 2 DSA problems, revise DBMS Normalization, and take one Aptitude quiz.
+                      Hello Somnath! Based on your target match-rates today, you should focus on Binary Search, Transactions, and Aptitude.
                     </p>
                     
                     {/* Actionable items inside bubble */}
                     <div className="bg-slate-900/60 rounded-xl p-3 border border-slate-800 space-y-2 mt-1">
-                      <p className="text-[10px] text-slate-400 font-bold uppercase tracking-wider mb-2">Today's Goals</p>
+                      <div className="flex justify-between items-center mb-2">
+                        <p className="text-[10px] text-slate-400 font-bold uppercase tracking-wider">Today's Goals</p>
+                        <span className="text-[9px] bg-blue-600/20 text-blue-400 px-1.5 py-0.5 rounded font-semibold">Est: 2h 30m</span>
+                      </div>
                       {mockTasks.map((task) => (
                         <div key={task.id} className="flex items-start gap-2.5">
                           <input
