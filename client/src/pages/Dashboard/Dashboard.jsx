@@ -2,6 +2,7 @@ import { useState } from "react";
 import Sidebar from "./components/Sidebar";
 import Topbar from "./components/Topbar";
 import WelcomeCard from "./components/WelcomeCard";
+import ProgressOverview from "./components/ProgressOverview";
 
 function Dashboard() {
   const [isSidebarCollapsed, setIsSidebarCollapsed] = useState(false);
@@ -24,6 +25,7 @@ function Dashboard() {
         {/* Workspace content scroll area */}
         <main className="flex-1 p-6 lg:p-8 space-y-6 overflow-y-auto">
           <WelcomeCard />
+          <ProgressOverview />
         </main>
 
       </div>
