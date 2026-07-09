@@ -30,7 +30,7 @@ export const progressStats = [
   {
     title: "Mock Interviews",
     value: "8 Completed",
-    description: "Next Interview: Amazon",
+    description: "Next Company: Amazon",
     progress: null,
     type: "mocks"
   }
