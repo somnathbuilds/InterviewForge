@@ -1,0 +1,293 @@
+{
+  "company": "Rubrik",
+  "questions": [
+    {
+      "id": 18,
+      "title": "4Sum",
+      "difficulty": "Medium",
+      "acceptance": "40.6%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/4sum"
+    },
+    {
+      "id": 31,
+      "title": "Next Permutation",
+      "difficulty": "Medium",
+      "acceptance": "45.3%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/next-permutation"
+    },
+    {
+      "id": 87,
+      "title": "Scramble String",
+      "difficulty": "Hard",
+      "acceptance": "44.6%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/scramble-string"
+    },
+    {
+      "id": 621,
+      "title": "Task Scheduler",
+      "difficulty": "Medium",
+      "acceptance": "63.1%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/task-scheduler"
+    },
+    {
+      "id": 2928,
+      "title": "Distribute Candies Among Children I",
+      "difficulty": "Easy",
+      "acceptance": "76.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/distribute-candies-among-children-i"
+    },
+    {
+      "id": 2929,
+      "title": "Distribute Candies Among Children II",
+      "difficulty": "Medium",
+      "acceptance": "55.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/distribute-candies-among-children-ii"
+    },
+    {
+      "id": 2927,
+      "title": "Distribute Candies Among Children III",
+      "difficulty": "Hard",
+      "acceptance": "57.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/distribute-candies-among-children-iii"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 2132,
+      "title": "Stamping the Grid",
+      "difficulty": "Hard",
+      "acceptance": "35.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/stamping-the-grid"
+    },
+    {
+      "id": 3021,
+      "title": "Alice and Bob Playing Flower Game",
+      "difficulty": "Medium",
+      "acceptance": "60.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/alice-and-bob-playing-flower-game"
+    },
+    {
+      "id": 211,
+      "title": "Design Add and Search Words Data Structure",
+      "difficulty": "Medium",
+      "acceptance": "48.5%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-add-and-search-words-data-structure"
+    },
+    {
+      "id": 723,
+      "title": "Candy Crush",
+      "difficulty": "Medium",
+      "acceptance": "77.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/candy-crush"
+    },
+    {
+      "id": 3098,
+      "title": "Find the Sum of Subsequence Powers",
+      "difficulty": "Hard",
+      "acceptance": "25.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-sum-of-subsequence-powers"
+    },
+    {
+      "id": 3083,
+      "title": "Existence of a Substring in a String and Its Reverse",
+      "difficulty": "Easy",
+      "acceptance": "66.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse"
+    },
+    {
+      "id": 2249,
+      "title": "Count Lattice Points Inside a Circle",
+      "difficulty": "Medium",
+      "acceptance": "56.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-lattice-points-inside-a-circle"
+    },
+    {
+      "id": 1242,
+      "title": "Web Crawler Multithreaded",
+      "difficulty": "Medium",
+      "acceptance": "51.2%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/web-crawler-multithreaded"
+    },
+    {
+      "id": 380,
+      "title": "Insert Delete GetRandom O(1)",
+      "difficulty": "Medium",
+      "acceptance": "55.4%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+    },
+    {
+      "id": 528,
+      "title": "Random Pick with Weight",
+      "difficulty": "Medium",
+      "acceptance": "49.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/random-pick-with-weight"
+    },
+    {
+      "id": 1463,
+      "title": "Cherry Pickup II",
+      "difficulty": "Hard",
+      "acceptance": "72.4%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/cherry-pickup-ii"
+    },
+    {
+      "id": 3207,
+      "title": "Maximum Points After Enemy Battles",
+      "difficulty": "Medium",
+      "acceptance": "33.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-points-after-enemy-battles"
+    },
+    {
+      "id": 2982,
+      "title": "Find Longest Special Substring That Occurs Thrice II",
+      "difficulty": "Medium",
+      "acceptance": "39.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-ii"
+    },
+    {
+      "id": 301,
+      "title": "Remove Invalid Parentheses",
+      "difficulty": "Hard",
+      "acceptance": "49.9%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-invalid-parentheses"
+    },
+    {
+      "id": 3410,
+      "title": "Maximize Subarray Sum After Removing All Occurrences of One Element",
+      "difficulty": "Hard",
+      "acceptance": "23.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element"
+    },
+    {
+      "id": 3426,
+      "title": "Manhattan Distances of All Arrangements of Pieces",
+      "difficulty": "Hard",
+      "acceptance": "35.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces"
+    },
+    {
+      "id": 1236,
+      "title": "Web Crawler",
+      "difficulty": "Medium",
+      "acceptance": "68.8%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/web-crawler"
+    },
+    {
+      "id": 1146,
+      "title": "Snapshot Array",
+      "difficulty": "Medium",
+      "acceptance": "36.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/snapshot-array"
+    },
+    {
+      "id": 3525,
+      "title": "Find X Value of Array II",
+      "difficulty": "Hard",
+      "acceptance": "31.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-x-value-of-array-ii"
+    },
+    {
+      "id": 3524,
+      "title": "Find X Value of Array I",
+      "difficulty": "Medium",
+      "acceptance": "37.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-x-value-of-array-i"
+    },
+    {
+      "id": 2502,
+      "title": "Design Memory Allocator",
+      "difficulty": "Medium",
+      "acceptance": "50.1%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-memory-allocator"
+    },
+    {
+      "id": 2365,
+      "title": "Task Scheduler II",
+      "difficulty": "Medium",
+      "acceptance": "54.8%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/task-scheduler-ii"
+    },
+    {
+      "id": 622,
+      "title": "Design Circular Queue",
+      "difficulty": "Medium",
+      "acceptance": "54.7%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-circular-queue"
+    },
+    {
+      "id": 761,
+      "title": "Special Binary String",
+      "difficulty": "Hard",
+      "acceptance": "79.3%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/special-binary-string"
+    },
+    {
+      "id": 2193,
+      "title": "Minimum Number of Moves to Make Palindrome",
+      "difficulty": "Hard",
+      "acceptance": "52.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome"
+    },
+    {
+      "id": 2747,
+      "title": "Count Zero Request Servers",
+      "difficulty": "Medium",
+      "acceptance": "35.9%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-zero-request-servers"
+    },
+    {
+      "id": 276,
+      "title": "Paint Fence",
+      "difficulty": "Medium",
+      "acceptance": "48.4%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/paint-fence"
+    },
+    {
+      "id": 1202,
+      "title": "Smallest String With Swaps",
+      "difficulty": "Medium",
+      "acceptance": "60.6%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-string-with-swaps"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "company": "Nykaa",
+  "questions": [
+    {
+      "id": 179,
+      "title": "Largest Number",
+      "difficulty": "Medium",
+      "acceptance": "43.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-number"
+    },
+    {
+      "id": 32,
+      "title": "Longest Valid Parentheses",
+      "difficulty": "Hard",
+      "acceptance": "38.8%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-valid-parentheses"
+    },
+    {
+      "id": 73,
+      "title": "Set Matrix Zeroes",
+      "difficulty": "Medium",
+      "acceptance": "62.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/set-matrix-zeroes"
+    },
+    {
+      "id": 151,
+      "title": "Reverse Words in a String",
+      "difficulty": "Medium",
+      "acceptance": "56.4%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-words-in-a-string"
+    }
+  ]
+}

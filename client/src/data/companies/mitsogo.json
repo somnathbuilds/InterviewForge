@@ -1,0 +1,133 @@
+{
+  "company": "Mitsogo",
+  "questions": [
+    {
+      "id": 3131,
+      "title": "Find the Integer Added to Array I",
+      "difficulty": "Easy",
+      "acceptance": "82.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-integer-added-to-array-i"
+    },
+    {
+      "id": 3132,
+      "title": "Find the Integer Added to Array II",
+      "difficulty": "Medium",
+      "acceptance": "33.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-integer-added-to-array-ii"
+    },
+    {
+      "id": 3144,
+      "title": "Minimum Substring Partition of Equal Character Frequency",
+      "difficulty": "Medium",
+      "acceptance": "40.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency"
+    },
+    {
+      "id": 3213,
+      "title": "Construct String with Minimum Cost",
+      "difficulty": "Hard",
+      "acceptance": "19.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-string-with-minimum-cost"
+    },
+    {
+      "id": 3180,
+      "title": "Maximum Total Reward Using Operations I",
+      "difficulty": "Medium",
+      "acceptance": "30.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-total-reward-using-operations-i"
+    },
+    {
+      "id": 3181,
+      "title": "Maximum Total Reward Using Operations II",
+      "difficulty": "Hard",
+      "acceptance": "21.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-total-reward-using-operations-ii"
+    },
+    {
+      "id": 3097,
+      "title": "Shortest Subarray With OR at Least K II",
+      "difficulty": "Medium",
+      "acceptance": "50.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii"
+    },
+    {
+      "id": 3095,
+      "title": "Shortest Subarray With OR at Least K I",
+      "difficulty": "Easy",
+      "acceptance": "44.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i"
+    },
+    {
+      "id": 3128,
+      "title": "Right Triangles",
+      "difficulty": "Medium",
+      "acceptance": "48.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/right-triangles"
+    },
+    {
+      "id": 556,
+      "title": "Next Greater Element III",
+      "difficulty": "Medium",
+      "acceptance": "35.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-iii"
+    },
+    {
+      "id": 2978,
+      "title": "Symmetric Coordinates",
+      "difficulty": "Medium",
+      "acceptance": "41.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/symmetric-coordinates"
+    },
+    {
+      "id": 118,
+      "title": "Pascal's Triangle",
+      "difficulty": "Easy",
+      "acceptance": "78.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle"
+    },
+    {
+      "id": 6,
+      "title": "Zigzag Conversion",
+      "difficulty": "Medium",
+      "acceptance": "54.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/zigzag-conversion"
+    },
+    {
+      "id": 31,
+      "title": "Next Permutation",
+      "difficulty": "Medium",
+      "acceptance": "45.3%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/next-permutation"
+    },
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "44.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses"
+    },
+    {
+      "id": 3837,
+      "title": "Delayed Count of Equal Elements",
+      "difficulty": "Medium",
+      "acceptance": "80.0%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/delayed-count-of-equal-elements"
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "company": "Arista Networks",
+  "questions": [
+    {
+      "id": 997,
+      "title": "Find the Town Judge",
+      "difficulty": "Easy",
+      "acceptance": "50.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-town-judge"
+    },
+    {
+      "id": 21,
+      "title": "Merge Two Sorted Lists",
+      "difficulty": "Easy",
+      "acceptance": "68.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists"
+    },
+    {
+      "id": 25,
+      "title": "Reverse Nodes in k-Group",
+      "difficulty": "Hard",
+      "acceptance": "66.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-nodes-in-k-group"
+    },
+    {
+      "id": 92,
+      "title": "Reverse Linked List II",
+      "difficulty": "Medium",
+      "acceptance": "51.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list-ii"
+    },
+    {
+      "id": 93,
+      "title": "Restore IP Addresses",
+      "difficulty": "Medium",
+      "acceptance": "56.0%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/restore-ip-addresses"
+    },
+    {
+      "id": 143,
+      "title": "Reorder List",
+      "difficulty": "Medium",
+      "acceptance": "65.3%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/reorder-list"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 219,
+      "title": "Contains Duplicate II",
+      "difficulty": "Easy",
+      "acceptance": "51.3%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-ii"
+    },
+    {
+      "id": 2182,
+      "title": "Construct String With Repeat Limit",
+      "difficulty": "Medium",
+      "acceptance": "70.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-string-with-repeat-limit"
+    },
+    {
+      "id": 268,
+      "title": "Missing Number",
+      "difficulty": "Easy",
+      "acceptance": "72.0%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/missing-number"
+    },
+    {
+      "id": 788,
+      "title": "Rotated Digits",
+      "difficulty": "Medium",
+      "acceptance": "64.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/rotated-digits"
+    },
+    {
+      "id": 510,
+      "title": "Inorder Successor in BST II",
+      "difficulty": "Medium",
+      "acceptance": "61.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/inorder-successor-in-bst-ii"
+    },
+    {
+      "id": 1669,
+      "title": "Merge In Between Linked Lists",
+      "difficulty": "Medium",
+      "acceptance": "83.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-in-between-linked-lists"
+    },
+    {
+      "id": 203,
+      "title": "Remove Linked List Elements",
+      "difficulty": "Easy",
+      "acceptance": "54.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-linked-list-elements"
+    },
+    {
+      "id": 1710,
+      "title": "Maximum Units on a Truck",
+      "difficulty": "Easy",
+      "acceptance": "74.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-units-on-a-truck"
+    },
+    {
+      "id": 703,
+      "title": "Kth Largest Element in a Stream",
+      "difficulty": "Easy",
+      "acceptance": "61.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-a-stream"
+    },
+    {
+      "id": 647,
+      "title": "Palindromic Substrings",
+      "difficulty": "Medium",
+      "acceptance": "72.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/palindromic-substrings"
+    },
+    {
+      "id": 210,
+      "title": "Course Schedule II",
+      "difficulty": "Medium",
+      "acceptance": "55.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii"
+    },
+    {
+      "id": 104,
+      "title": "Maximum Depth of Binary Tree",
+      "difficulty": "Easy",
+      "acceptance": "78.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-depth-of-binary-tree"
+    },
+    {
+      "id": 33,
+      "title": "Search in Rotated Sorted Array",
+      "difficulty": "Medium",
+      "acceptance": "44.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+    },
+    {
+      "id": 113,
+      "title": "Path Sum II",
+      "difficulty": "Medium",
+      "acceptance": "62.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/path-sum-ii"
+    },
+    {
+      "id": 79,
+      "title": "Word Search",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-search"
+    },
+    {
+      "id": 5,
+      "title": "Longest Palindromic Substring",
+      "difficulty": "Medium",
+      "acceptance": "37.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring"
+    },
+    {
+      "id": 46,
+      "title": "Permutations",
+      "difficulty": "Medium",
+      "acceptance": "81.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/permutations"
+    },
+    {
+      "id": 138,
+      "title": "Copy List with Random Pointer",
+      "difficulty": "Medium",
+      "acceptance": "62.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/copy-list-with-random-pointer"
+    },
+    {
+      "id": 53,
+      "title": "Maximum Subarray",
+      "difficulty": "Medium",
+      "acceptance": "53.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray"
+    },
+    {
+      "id": 71,
+      "title": "Simplify Path",
+      "difficulty": "Medium",
+      "acceptance": "50.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/simplify-path"
+    },
+    {
+      "id": 139,
+      "title": "Word Break",
+      "difficulty": "Medium",
+      "acceptance": "49.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break"
+    },
+    {
+      "id": 1910,
+      "title": "Remove All Occurrences of a Substring",
+      "difficulty": "Medium",
+      "acceptance": "78.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-all-occurrences-of-a-substring"
+    },
+    {
+      "id": 82,
+      "title": "Remove Duplicates from Sorted List II",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii"
+    },
+    {
+      "id": 347,
+      "title": "Top K Frequent Elements",
+      "difficulty": "Medium",
+      "acceptance": "66.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements"
+    },
+    {
+      "id": 72,
+      "title": "Edit Distance",
+      "difficulty": "Medium",
+      "acceptance": "60.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/edit-distance"
+    },
+    {
+      "id": 125,
+      "title": "Valid Palindrome",
+      "difficulty": "Easy",
+      "acceptance": "53.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome"
+    },
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+      "id": 24,
+      "title": "Swap Nodes in Pairs",
+      "difficulty": "Medium",
+      "acceptance": "69.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/swap-nodes-in-pairs"
+    },
+    {
+      "id": 394,
+      "title": "Decode String",
+      "difficulty": "Medium",
+      "acceptance": "62.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-string"
+    },
+    {
+      "id": 1351,
+      "title": "Count Negative Numbers in a Sorted Matrix",
+      "difficulty": "Easy",
+      "acceptance": "79.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix"
+    },
+    {
+      "id": 346,
+      "title": "Moving Average from Data Stream",
+      "difficulty": "Easy",
+      "acceptance": "80.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/moving-average-from-data-stream"
+    }
+  ]
+}

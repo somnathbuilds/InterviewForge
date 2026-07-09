@@ -1,0 +1,173 @@
+{
+  "company": "Geico",
+  "questions": [
+    {
+      "id": 545,
+      "title": "Boundary of Binary Tree",
+      "difficulty": "Medium",
+      "acceptance": "48.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/boundary-of-binary-tree"
+    },
+    {
+      "id": 36,
+      "title": "Valid Sudoku",
+      "difficulty": "Medium",
+      "acceptance": "64.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-sudoku"
+    },
+    {
+      "id": 41,
+      "title": "First Missing Positive",
+      "difficulty": "Hard",
+      "acceptance": "42.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/first-missing-positive"
+    },
+    {
+      "id": 1404,
+      "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+      "difficulty": "Medium",
+      "acceptance": "63.7%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one"
+    },
+    {
+      "id": 1219,
+      "title": "Path with Maximum Gold",
+      "difficulty": "Medium",
+      "acceptance": "68.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/path-with-maximum-gold"
+    },
+    {
+      "id": 394,
+      "title": "Decode String",
+      "difficulty": "Medium",
+      "acceptance": "62.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-string"
+    },
+    {
+      "id": 1405,
+      "title": "Longest Happy String",
+      "difficulty": "Medium",
+      "acceptance": "65.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-happy-string"
+    },
+    {
+      "id": 2384,
+      "title": "Largest Palindromic Number",
+      "difficulty": "Medium",
+      "acceptance": "37.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-palindromic-number"
+    },
+    {
+      "id": 3119,
+      "title": "Maximum Number of Potholes That Can Be Fixed",
+      "difficulty": "Medium",
+      "acceptance": "53.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed"
+    },
+    {
+      "id": 2061,
+      "title": "Number of Spaces Cleaning Robot Cleaned",
+      "difficulty": "Medium",
+      "acceptance": "64.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned"
+    },
+    {
+      "id": 2850,
+      "title": "Minimum Moves to Spread Stones Over Grid",
+      "difficulty": "Medium",
+      "acceptance": "45.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid"
+    },
+    {
+      "id": 2086,
+      "title": "Minimum Number of Food Buckets to Feed the Hamsters",
+      "difficulty": "Medium",
+      "acceptance": "48.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters"
+    },
+    {
+      "id": 122,
+      "title": "Best Time to Buy and Sell Stock II",
+      "difficulty": "Medium",
+      "acceptance": "71.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii"
+    },
+    {
+      "id": 322,
+      "title": "Coin Change",
+      "difficulty": "Medium",
+      "acceptance": "48.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/coin-change"
+    },
+    {
+      "id": 309,
+      "title": "Best Time to Buy and Sell Stock with Cooldown",
+      "difficulty": "Medium",
+      "acceptance": "62.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown"
+    },
+    {
+      "id": 1386,
+      "title": "Cinema Seat Allocation",
+      "difficulty": "Medium",
+      "acceptance": "44.6%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/cinema-seat-allocation"
+    },
+    {
+      "id": 1047,
+      "title": "Remove All Adjacent Duplicates In String",
+      "difficulty": "Easy",
+      "acceptance": "73.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string"
+    },
+    {
+      "id": 1102,
+      "title": "Path With Maximum Minimum Value",
+      "difficulty": "Medium",
+      "acceptance": "54.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/path-with-maximum-minimum-value"
+    },
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals"
+    },
+    {
+      "id": 12,
+      "title": "Integer to Roman",
+      "difficulty": "Medium",
+      "acceptance": "71.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/integer-to-roman"
+    },
+    {
+      "id": 1910,
+      "title": "Remove All Occurrences of a Substring",
+      "difficulty": "Medium",
+      "acceptance": "78.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-all-occurrences-of-a-substring"
+    }
+  ]
+}

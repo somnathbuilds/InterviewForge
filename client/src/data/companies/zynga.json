@@ -1,0 +1,21 @@
+{
+  "company": "Zynga",
+  "questions": [
+    {
+      "id": 206,
+      "title": "Reverse Linked List",
+      "difficulty": "Easy",
+      "acceptance": "80.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list"
+    },
+    {
+      "id": 692,
+      "title": "Top K Frequent Words",
+      "difficulty": "Medium",
+      "acceptance": "60.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-words"
+    }
+  ]
+}

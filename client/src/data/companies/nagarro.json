@@ -1,0 +1,69 @@
+{
+  "company": "Nagarro",
+  "questions": [
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+      "id": 2320,
+      "title": "Count Number of Ways to Place Houses",
+      "difficulty": "Medium",
+      "acceptance": "43.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-number-of-ways-to-place-houses"
+    },
+    {
+      "id": 242,
+      "title": "Valid Anagram",
+      "difficulty": "Easy",
+      "acceptance": "68.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram"
+    },
+    {
+      "id": 225,
+      "title": "Implement Stack using Queues",
+      "difficulty": "Easy",
+      "acceptance": "69.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/implement-stack-using-queues"
+    },
+    {
+      "id": 75,
+      "title": "Sort Colors",
+      "difficulty": "Medium",
+      "acceptance": "69.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors"
+    },
+    {
+      "id": 3852,
+      "title": "Smallest Pair With Different Frequencies",
+      "difficulty": "Easy",
+      "acceptance": "69.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-pair-with-different-frequencies"
+    },
+    {
+      "id": 141,
+      "title": "Linked List Cycle",
+      "difficulty": "Easy",
+      "acceptance": "54.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle"
+    },
+    {
+      "id": 2434,
+      "title": "Using a Robot to Print the Lexicographically Smallest String",
+      "difficulty": "Medium",
+      "acceptance": "62.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "company": "Athenahealth",
+  "questions": [
+    {
+      "id": 2082,
+      "title": "The Number of Rich Customers",
+      "difficulty": "Easy",
+      "acceptance": "77.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/the-number-of-rich-customers"
+    },
+    {
+      "id": 49,
+      "title": "Group Anagrams",
+      "difficulty": "Medium",
+      "acceptance": "72.6%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams"
+    },
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals"
+    },
+    {
+      "id": 5,
+      "title": "Longest Palindromic Substring",
+      "difficulty": "Medium",
+      "acceptance": "37.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring"
+    }
+  ]
+}

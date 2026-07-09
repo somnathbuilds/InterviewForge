@@ -1,0 +1,13 @@
+{
+  "company": "Cyware",
+  "questions": [
+    {
+      "id": 1547,
+      "title": "Minimum Cost to Cut a Stick",
+      "difficulty": "Hard",
+      "acceptance": "63.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick"
+    }
+  ]
+}

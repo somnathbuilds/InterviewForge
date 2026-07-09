@@ -1,0 +1,21 @@
+{
+  "company": "Smartnews",
+  "questions": [
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 1647,
+      "title": "Minimum Deletions to Make Character Frequencies Unique",
+      "difficulty": "Medium",
+      "acceptance": "61.5%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique"
+    }
+  ]
+}

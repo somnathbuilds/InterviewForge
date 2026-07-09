@@ -1,0 +1,45 @@
+{
+  "company": "Earnin",
+  "questions": [
+    {
+      "id": 5,
+      "title": "Longest Palindromic Substring",
+      "difficulty": "Medium",
+      "acceptance": "37.8%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring"
+    },
+    {
+      "id": 2,
+      "title": "Add Two Numbers",
+      "difficulty": "Medium",
+      "acceptance": "48.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers"
+    },
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 36,
+      "title": "Valid Sudoku",
+      "difficulty": "Medium",
+      "acceptance": "64.5%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-sudoku"
+    },
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals"
+    }
+  ]
+}

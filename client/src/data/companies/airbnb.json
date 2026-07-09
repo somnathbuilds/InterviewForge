@@ -1,0 +1,493 @@
+{
+  "company": "Airbnb",
+  "questions": [
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 2,
+      "title": "Add Two Numbers",
+      "difficulty": "Medium",
+      "acceptance": "48.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers"
+    },
+    {
+      "id": 10,
+      "title": "Regular Expression Matching",
+      "difficulty": "Hard",
+      "acceptance": "31.0%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/regular-expression-matching"
+    },
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "44.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses"
+    },
+    {
+      "id": 23,
+      "title": "Merge k Sorted Lists",
+      "difficulty": "Hard",
+      "acceptance": "59.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists"
+    },
+    {
+      "id": 1058,
+      "title": "Minimize Rounding Error to Meet Target",
+      "difficulty": "Medium",
+      "acceptance": "45.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimize-rounding-error-to-meet-target"
+    },
+    {
+      "id": 39,
+      "title": "Combination Sum",
+      "difficulty": "Medium",
+      "acceptance": "76.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum"
+    },
+    {
+      "id": 42,
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "acceptance": "67.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water"
+    },
+    {
+      "id": 1017,
+      "title": "Convert to Base -2",
+      "difficulty": "Medium",
+      "acceptance": "61.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-to-base-2"
+    },
+    {
+      "id": 68,
+      "title": "Text Justification",
+      "difficulty": "Hard",
+      "acceptance": "51.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/text-justification"
+    },
+    {
+      "id": 76,
+      "title": "Minimum Window Substring",
+      "difficulty": "Hard",
+      "acceptance": "47.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-window-substring"
+    },
+    {
+      "id": 1166,
+      "title": "Design File System",
+      "difficulty": "Medium",
+      "acceptance": "65.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-file-system"
+    },
+    {
+      "id": 108,
+      "title": "Convert Sorted Array to Binary Search Tree",
+      "difficulty": "Easy",
+      "acceptance": "75.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree"
+    },
+    {
+      "id": 2043,
+      "title": "Simple Bank System",
+      "difficulty": "Medium",
+      "acceptance": "69.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/simple-bank-system"
+    },
+    {
+      "id": 136,
+      "title": "Single Number",
+      "difficulty": "Easy",
+      "acceptance": "77.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/single-number"
+    },
+    {
+      "id": 160,
+      "title": "Intersection of Two Linked Lists",
+      "difficulty": "Easy",
+      "acceptance": "63.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-linked-lists"
+    },
+    {
+      "id": 1257,
+      "title": "Smallest Common Region",
+      "difficulty": "Medium",
+      "acceptance": "68.3%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-common-region"
+    },
+    {
+      "id": 190,
+      "title": "Reverse Bits",
+      "difficulty": "Easy",
+      "acceptance": "68.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-bits"
+    },
+    {
+      "id": 198,
+      "title": "House Robber",
+      "difficulty": "Medium",
+      "acceptance": "53.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/house-robber"
+    },
+    {
+      "id": 202,
+      "title": "Happy Number",
+      "difficulty": "Easy",
+      "acceptance": "59.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/happy-number"
+    },
+    {
+      "id": 212,
+      "title": "Word Search II",
+      "difficulty": "Hard",
+      "acceptance": "38.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-search-ii"
+    },
+    {
+      "id": 217,
+      "title": "Contains Duplicate",
+      "difficulty": "Easy",
+      "acceptance": "64.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate"
+    },
+    {
+      "id": 219,
+      "title": "Contains Duplicate II",
+      "difficulty": "Easy",
+      "acceptance": "51.3%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-ii"
+    },
+    {
+      "id": 220,
+      "title": "Contains Duplicate III",
+      "difficulty": "Hard",
+      "acceptance": "24.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-iii"
+    },
+    {
+      "id": 221,
+      "title": "Maximal Square",
+      "difficulty": "Medium",
+      "acceptance": "50.3%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximal-square"
+    },
+    {
+      "id": 227,
+      "title": "Basic Calculator II",
+      "difficulty": "Medium",
+      "acceptance": "46.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/basic-calculator-ii"
+    },
+    {
+      "id": 251,
+      "title": "Flatten 2D Vector",
+      "difficulty": "Medium",
+      "acceptance": "50.5%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/flatten-2d-vector"
+    },
+    {
+      "id": 269,
+      "title": "Alien Dictionary",
+      "difficulty": "Hard",
+      "acceptance": "37.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/alien-dictionary"
+    },
+    {
+      "id": 3076,
+      "title": "Shortest Uncommon Substring in an Array",
+      "difficulty": "Medium",
+      "acceptance": "50.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array"
+    },
+    {
+      "id": 1235,
+      "title": "Maximum Profit in Job Scheduling",
+      "difficulty": "Hard",
+      "acceptance": "54.7%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-profit-in-job-scheduling"
+    },
+    {
+      "id": 336,
+      "title": "Palindrome Pairs",
+      "difficulty": "Hard",
+      "acceptance": "37.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-pairs"
+    },
+    {
+      "id": 348,
+      "title": "Design Tic-Tac-Toe",
+      "difficulty": "Medium",
+      "acceptance": "58.7%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-tic-tac-toe"
+    },
+    {
+      "id": 2189,
+      "title": "Number of Ways to Build House of Cards",
+      "difficulty": "Medium",
+      "acceptance": "62.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-build-house-of-cards"
+    },
+    {
+      "id": 385,
+      "title": "Mini Parser",
+      "difficulty": "Medium",
+      "acceptance": "42.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/mini-parser"
+    },
+    {
+      "id": 1284,
+      "title": "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix",
+      "difficulty": "Hard",
+      "acceptance": "72.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix"
+    },
+    {
+      "id": 1298,
+      "title": "Maximum Candies You Can Get from Boxes",
+      "difficulty": "Hard",
+      "acceptance": "67.5%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes"
+    },
+    {
+      "id": 415,
+      "title": "Add Strings",
+      "difficulty": "Easy",
+      "acceptance": "52.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/add-strings"
+    },
+    {
+      "id": 1041,
+      "title": "Robot Bounded In Circle",
+      "difficulty": "Medium",
+      "acceptance": "56.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/robot-bounded-in-circle"
+    },
+    {
+      "id": 1557,
+      "title": "Minimum Number of Vertices to Reach All Nodes",
+      "difficulty": "Medium",
+      "acceptance": "81.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes"
+    },
+    {
+      "id": 1554,
+      "title": "Strings Differ by One Character",
+      "difficulty": "Medium",
+      "acceptance": "39.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/strings-differ-by-one-character"
+    },
+    {
+      "id": 751,
+      "title": "IP to CIDR",
+      "difficulty": "Medium",
+      "acceptance": "53.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/ip-to-cidr"
+    },
+    {
+      "id": 755,
+      "title": "Pour Water",
+      "difficulty": "Medium",
+      "acceptance": "49.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/pour-water"
+    },
+    {
+      "id": 756,
+      "title": "Pyramid Transition Matrix",
+      "difficulty": "Medium",
+      "acceptance": "60.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/pyramid-transition-matrix"
+    },
+    {
+      "id": 759,
+      "title": "Employee Free Time",
+      "difficulty": "Hard",
+      "acceptance": "72.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/employee-free-time"
+    },
+    {
+      "id": 773,
+      "title": "Sliding Puzzle",
+      "difficulty": "Hard",
+      "acceptance": "74.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-puzzle"
+    },
+    {
+      "id": 787,
+      "title": "Cheapest Flights Within K Stops",
+      "difficulty": "Medium",
+      "acceptance": "41.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/cheapest-flights-within-k-stops"
+    },
+    {
+      "id": 864,
+      "title": "Shortest Path to Get All Keys",
+      "difficulty": "Hard",
+      "acceptance": "54.6%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-path-to-get-all-keys"
+    },
+    {
+      "id": 981,
+      "title": "Time Based Key-Value Store",
+      "difficulty": "Medium",
+      "acceptance": "49.9%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/time-based-key-value-store"
+    },
+    {
+      "id": 1091,
+      "title": "Shortest Path in Binary Matrix",
+      "difficulty": "Medium",
+      "acceptance": "51.5%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-path-in-binary-matrix"
+    },
+    {
+      "id": 827,
+      "title": "Making A Large Island",
+      "difficulty": "Hard",
+      "acceptance": "56.6%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/making-a-large-island"
+    },
+    {
+      "id": 713,
+      "title": "Subarray Product Less Than K",
+      "difficulty": "Medium",
+      "acceptance": "54.3%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-product-less-than-k"
+    },
+    {
+      "id": 432,
+      "title": "All O`one Data Structure",
+      "difficulty": "Hard",
+      "acceptance": "44.3%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/all-oone-data-structure"
+    },
+    {
+      "id": 605,
+      "title": "Can Place Flowers",
+      "difficulty": "Easy",
+      "acceptance": "29.1%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/can-place-flowers"
+    },
+    {
+      "id": 631,
+      "title": "Design Excel Sum Formula",
+      "difficulty": "Hard",
+      "acceptance": "39.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-excel-sum-formula"
+    },
+    {
+      "id": 400,
+      "title": "Nth Digit",
+      "difficulty": "Medium",
+      "acceptance": "38.2%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/nth-digit"
+    },
+    {
+      "id": 638,
+      "title": "Shopping Offers",
+      "difficulty": "Medium",
+      "acceptance": "52.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/shopping-offers"
+    },
+    {
+      "id": 53,
+      "title": "Maximum Subarray",
+      "difficulty": "Medium",
+      "acceptance": "53.3%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray"
+    },
+    {
+      "id": 721,
+      "title": "Accounts Merge",
+      "difficulty": "Medium",
+      "acceptance": "61.3%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/accounts-merge"
+    },
+    {
+      "id": 727,
+      "title": "Minimum Window Subsequence",
+      "difficulty": "Hard",
+      "acceptance": "43.8%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-window-subsequence"
+    },
+    {
+      "id": 829,
+      "title": "Consecutive Numbers Sum",
+      "difficulty": "Hard",
+      "acceptance": "42.7%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/consecutive-numbers-sum"
+    },
+    {
+      "id": 1928,
+      "title": "Minimum Cost to Reach Destination in Time",
+      "difficulty": "Hard",
+      "acceptance": "41.6%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time"
+    }
+  ]
+}

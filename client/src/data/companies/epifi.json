@@ -1,0 +1,13 @@
+{
+  "company": "Epifi",
+  "questions": [
+    {
+      "id": 2354,
+      "title": "Number of Excellent Pairs",
+      "difficulty": "Hard",
+      "acceptance": "49.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-excellent-pairs"
+    }
+  ]
+}

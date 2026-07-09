@@ -1,0 +1,53 @@
+{
+  "company": "Careem",
+  "questions": [
+    {
+      "id": 362,
+      "title": "Design Hit Counter",
+      "difficulty": "Medium",
+      "acceptance": "69.7%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-hit-counter"
+    },
+    {
+      "id": 1094,
+      "title": "Car Pooling",
+      "difficulty": "Medium",
+      "acceptance": "56.4%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/car-pooling"
+    },
+    {
+      "id": 485,
+      "title": "Max Consecutive Ones",
+      "difficulty": "Easy",
+      "acceptance": "65.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones"
+    },
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 122,
+      "title": "Best Time to Buy and Sell Stock II",
+      "difficulty": "Medium",
+      "acceptance": "71.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii"
+    },
+    {
+      "id": 11,
+      "title": "Container With Most Water",
+      "difficulty": "Medium",
+      "acceptance": "60.0%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/container-with-most-water"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "company": "Impetus",
+  "questions": [
+    {
+      "id": 26,
+      "title": "Remove Duplicates from Sorted Array",
+      "difficulty": "Easy",
+      "acceptance": "62.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array"
+    }
+  ]
+}

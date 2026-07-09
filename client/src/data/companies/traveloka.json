@@ -1,0 +1,13 @@
+{
+  "company": "Traveloka",
+  "questions": [
+    {
+      "id": 3468,
+      "title": "Find the Number of Copy Arrays",
+      "difficulty": "Medium",
+      "acceptance": "47.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-number-of-copy-arrays"
+    }
+  ]
+}

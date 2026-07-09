@@ -1,0 +1,45 @@
+{
+  "company": "Godaddy",
+  "questions": [
+    {
+      "id": 441,
+      "title": "Arranging Coins",
+      "difficulty": "Easy",
+      "acceptance": "48.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/arranging-coins"
+    },
+    {
+      "id": 443,
+      "title": "String Compression",
+      "difficulty": "Medium",
+      "acceptance": "60.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/string-compression"
+    },
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals"
+    },
+    {
+      "id": 1761,
+      "title": "Minimum Degree of a Connected Trio in a Graph",
+      "difficulty": "Hard",
+      "acceptance": "44.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph"
+    },
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "44.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses"
+    }
+  ]
+}

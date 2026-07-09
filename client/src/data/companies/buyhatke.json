@@ -1,0 +1,29 @@
+{
+  "company": "Buyhatke",
+  "questions": [
+    {
+      "id": 139,
+      "title": "Word Break",
+      "difficulty": "Medium",
+      "acceptance": "49.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break"
+    },
+    {
+      "id": 25,
+      "title": "Reverse Nodes in k-Group",
+      "difficulty": "Hard",
+      "acceptance": "66.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-nodes-in-k-group"
+    },
+    {
+      "id": 42,
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "acceptance": "67.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "company": "Zalando",
+  "questions": [
+    {
+      "id": 984,
+      "title": "String Without AAA or BBB",
+      "difficulty": "Medium",
+      "acceptance": "45.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/string-without-aaa-or-bbb"
+    },
+    {
+      "id": 860,
+      "title": "Lemonade Change",
+      "difficulty": "Easy",
+      "acceptance": "59.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/lemonade-change"
+    },
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals"
+    }
+  ]
+}

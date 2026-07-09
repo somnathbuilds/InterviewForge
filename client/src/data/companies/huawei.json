@@ -1,0 +1,141 @@
+{
+  "company": "Huawei",
+  "questions": [
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "44.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses"
+    },
+    {
+      "id": 2617,
+      "title": "Minimum Number of Visited Cells in a Grid",
+      "difficulty": "Hard",
+      "acceptance": "23.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid"
+    },
+    {
+      "id": 200,
+      "title": "Number of Islands",
+      "difficulty": "Medium",
+      "acceptance": "64.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands"
+    },
+    {
+      "id": 1702,
+      "title": "Maximum Binary String After Change",
+      "difficulty": "Medium",
+      "acceptance": "47.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-binary-string-after-change"
+    },
+    {
+      "id": 394,
+      "title": "Decode String",
+      "difficulty": "Medium",
+      "acceptance": "62.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-string"
+    },
+    {
+      "id": 22,
+      "title": "Generate Parentheses",
+      "difficulty": "Medium",
+      "acceptance": "78.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses"
+    },
+    {
+      "id": 21,
+      "title": "Merge Two Sorted Lists",
+      "difficulty": "Easy",
+      "acceptance": "68.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists"
+    },
+    {
+      "id": 53,
+      "title": "Maximum Subarray",
+      "difficulty": "Medium",
+      "acceptance": "53.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray"
+    },
+    {
+      "id": 5,
+      "title": "Longest Palindromic Substring",
+      "difficulty": "Medium",
+      "acceptance": "37.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring"
+    },
+    {
+      "id": 51,
+      "title": "N-Queens",
+      "difficulty": "Hard",
+      "acceptance": "75.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/n-queens"
+    },
+    {
+      "id": 402,
+      "title": "Remove K Digits",
+      "difficulty": "Medium",
+      "acceptance": "36.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-k-digits"
+    },
+    {
+      "id": 300,
+      "title": "Longest Increasing Subsequence",
+      "difficulty": "Medium",
+      "acceptance": "59.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence"
+    },
+    {
+      "id": 42,
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "acceptance": "67.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water"
+    },
+    {
+      "id": 11,
+      "title": "Container With Most Water",
+      "difficulty": "Medium",
+      "acceptance": "60.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/container-with-most-water"
+    },
+    {
+      "id": 23,
+      "title": "Merge k Sorted Lists",
+      "difficulty": "Hard",
+      "acceptance": "59.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists"
+    },
+    {
+      "id": 141,
+      "title": "Linked List Cycle",
+      "difficulty": "Easy",
+      "acceptance": "54.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle"
+    }
+  ]
+}

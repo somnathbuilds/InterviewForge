@@ -1,0 +1,21 @@
+{
+  "company": "Redbus",
+  "questions": [
+    {
+      "id": 42,
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "acceptance": "67.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water"
+    },
+    {
+      "id": 1653,
+      "title": "Minimum Deletions to Make String Balanced",
+      "difficulty": "Medium",
+      "acceptance": "68.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-deletions-to-make-string-balanced"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "company": "Flexport",
+  "questions": [
+    {
+      "id": 729,
+      "title": "My Calendar I",
+      "difficulty": "Medium",
+      "acceptance": "58.3%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/my-calendar-i"
+    },
+    {
+      "id": 981,
+      "title": "Time Based Key-Value Store",
+      "difficulty": "Medium",
+      "acceptance": "49.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/time-based-key-value-store"
+    },
+    {
+      "id": 17,
+      "title": "Letter Combinations of a Phone Number",
+      "difficulty": "Medium",
+      "acceptance": "66.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+    },
+    {
+      "id": 300,
+      "title": "Longest Increasing Subsequence",
+      "difficulty": "Medium",
+      "acceptance": "59.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence"
+    },
+    {
+      "id": 713,
+      "title": "Subarray Product Less Than K",
+      "difficulty": "Medium",
+      "acceptance": "54.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-product-less-than-k"
+    },
+    {
+      "id": 948,
+      "title": "Bag of Tokens",
+      "difficulty": "Medium",
+      "acceptance": "59.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/bag-of-tokens"
+    },
+    {
+      "id": 468,
+      "title": "Validate IP Address",
+      "difficulty": "Medium",
+      "acceptance": "28.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/validate-ip-address"
+    },
+    {
+      "id": 394,
+      "title": "Decode String",
+      "difficulty": "Medium",
+      "acceptance": "62.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-string"
+    },
+    {
+      "id": 133,
+      "title": "Clone Graph",
+      "difficulty": "Medium",
+      "acceptance": "65.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/clone-graph"
+    },
+    {
+      "id": 299,
+      "title": "Bulls and Cows",
+      "difficulty": "Medium",
+      "acceptance": "52.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/bulls-and-cows"
+    }
+  ]
+}

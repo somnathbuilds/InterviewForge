@@ -1,0 +1,133 @@
+{
+  "company": "Fractal Analytics",
+  "questions": [
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 322,
+      "title": "Coin Change",
+      "difficulty": "Medium",
+      "acceptance": "48.4%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/coin-change"
+    },
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+      "id": 5,
+      "title": "Longest Palindromic Substring",
+      "difficulty": "Medium",
+      "acceptance": "37.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring"
+    },
+    {
+      "id": 70,
+      "title": "Climbing Stairs",
+      "difficulty": "Easy",
+      "acceptance": "54.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs"
+    },
+    {
+      "id": 1292,
+      "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+      "difficulty": "Medium",
+      "acceptance": "65.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold"
+    },
+    {
+      "id": 392,
+      "title": "Is Subsequence",
+      "difficulty": "Easy",
+      "acceptance": "49.0%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/is-subsequence"
+    },
+    {
+      "id": 270,
+      "title": "Closest Binary Search Tree Value",
+      "difficulty": "Easy",
+      "acceptance": "49.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/closest-binary-search-tree-value"
+    },
+    {
+      "id": 273,
+      "title": "Integer to English Words",
+      "difficulty": "Hard",
+      "acceptance": "35.0%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/integer-to-english-words"
+    },
+    {
+      "id": 3445,
+      "title": "Maximum Difference Between Even and Odd Frequency II",
+      "difficulty": "Hard",
+      "acceptance": "48.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii"
+    },
+    {
+      "id": 53,
+      "title": "Maximum Subarray",
+      "difficulty": "Medium",
+      "acceptance": "53.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray"
+    },
+    {
+      "id": 3441,
+      "title": "Minimum Cost Good Caption",
+      "difficulty": "Hard",
+      "acceptance": "20.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-good-caption"
+    },
+    {
+      "id": 185,
+      "title": "Department Top Three Salaries",
+      "difficulty": "Hard",
+      "acceptance": "60.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/department-top-three-salaries"
+    },
+    {
+      "id": 238,
+      "title": "Product of Array Except Self",
+      "difficulty": "Medium",
+      "acceptance": "68.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self"
+    },
+    {
+      "id": 14,
+      "title": "Longest Common Prefix",
+      "difficulty": "Easy",
+      "acceptance": "47.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix"
+    },
+    {
+      "id": 197,
+      "title": "Rising Temperature",
+      "difficulty": "Easy",
+      "acceptance": "51.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/rising-temperature"
+    }
+  ]
+}

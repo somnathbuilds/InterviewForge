@@ -1,0 +1,13 @@
+{
+  "company": "Intercom",
+  "questions": [
+    {
+      "id": 1348,
+      "title": "Tweet Counts Per Frequency",
+      "difficulty": "Medium",
+      "acceptance": "46.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/tweet-counts-per-frequency"
+    }
+  ]
+}

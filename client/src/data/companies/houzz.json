@@ -1,0 +1,21 @@
+{
+  "company": "Houzz",
+  "questions": [
+    {
+      "id": 660,
+      "title": "Remove 9",
+      "difficulty": "Hard",
+      "acceptance": "57.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-9"
+    },
+    {
+      "id": 772,
+      "title": "Basic Calculator III",
+      "difficulty": "Hard",
+      "acceptance": "53.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/basic-calculator-iii"
+    }
+  ]
+}

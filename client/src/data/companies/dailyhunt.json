@@ -1,0 +1,13 @@
+{
+  "company": "Dailyhunt",
+  "questions": [
+    {
+      "id": 2379,
+      "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+      "difficulty": "Easy",
+      "acceptance": "68.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks"
+    }
+  ]
+}

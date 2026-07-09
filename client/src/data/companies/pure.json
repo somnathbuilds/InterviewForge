@@ -1,0 +1,13 @@
+{
+  "company": "Pure",
+  "questions": [
+    {
+      "id": 39,
+      "title": "Combination Sum",
+      "difficulty": "Medium",
+      "acceptance": "76.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum"
+    }
+  ]
+}

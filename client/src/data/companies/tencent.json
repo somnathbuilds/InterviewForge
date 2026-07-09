@@ -1,0 +1,69 @@
+{
+  "company": "Tencent",
+  "questions": [
+    {
+      "id": 546,
+      "title": "Remove Boxes",
+      "difficulty": "Hard",
+      "acceptance": "49.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-boxes"
+    },
+    {
+      "id": 625,
+      "title": "Minimum Factorization",
+      "difficulty": "Medium",
+      "acceptance": "34.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-factorization"
+    },
+    {
+      "id": 470,
+      "title": "Implement Rand10() Using Rand7()",
+      "difficulty": "Medium",
+      "acceptance": "46.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/implement-rand10-using-rand7"
+    },
+    {
+      "id": 184,
+      "title": "Department Highest Salary",
+      "difficulty": "Medium",
+      "acceptance": "58.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/department-highest-salary"
+    },
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals"
+    },
+    {
+      "id": 394,
+      "title": "Decode String",
+      "difficulty": "Medium",
+      "acceptance": "62.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-string"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "44.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses"
+    }
+  ]
+}

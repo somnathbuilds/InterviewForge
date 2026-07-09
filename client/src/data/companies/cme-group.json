@@ -1,0 +1,29 @@
+{
+  "company": "Cme Group",
+  "questions": [
+    {
+      "id": 14,
+      "title": "Longest Common Prefix",
+      "difficulty": "Easy",
+      "acceptance": "47.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix"
+    },
+    {
+      "id": 23,
+      "title": "Merge k Sorted Lists",
+      "difficulty": "Hard",
+      "acceptance": "59.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists"
+    },
+    {
+      "id": 134,
+      "title": "Gas Station",
+      "difficulty": "Medium",
+      "acceptance": "48.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/gas-station"
+    }
+  ]
+}

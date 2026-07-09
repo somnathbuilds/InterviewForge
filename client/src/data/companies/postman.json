@@ -1,0 +1,13 @@
+{
+  "company": "Postman",
+  "questions": [
+    {
+      "id": 1416,
+      "title": "Restore The Array",
+      "difficulty": "Hard",
+      "acceptance": "46.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/restore-the-array"
+    }
+  ]
+}

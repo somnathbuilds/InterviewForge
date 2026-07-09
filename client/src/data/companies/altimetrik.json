@@ -1,0 +1,37 @@
+{
+  "company": "Altimetrik",
+  "questions": [
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 2341,
+      "title": "Maximum Number of Pairs in Array",
+      "difficulty": "Easy",
+      "acceptance": "76.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-pairs-in-array"
+    },
+    {
+      "id": 24,
+      "title": "Swap Nodes in Pairs",
+      "difficulty": "Medium",
+      "acceptance": "69.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/swap-nodes-in-pairs"
+    },
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "44.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses"
+    }
+  ]
+}

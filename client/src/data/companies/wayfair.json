@@ -1,0 +1,165 @@
+{
+  "company": "Wayfair",
+  "questions": [
+    {
+      "id": 1014,
+      "title": "Best Sightseeing Pair",
+      "difficulty": "Medium",
+      "acceptance": "62.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/best-sightseeing-pair"
+    },
+    {
+      "id": 125,
+      "title": "Valid Palindrome",
+      "difficulty": "Easy",
+      "acceptance": "53.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome"
+    },
+    {
+      "id": 1244,
+      "title": "Design A Leaderboard",
+      "difficulty": "Medium",
+      "acceptance": "68.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-a-leaderboard"
+    },
+    {
+      "id": 152,
+      "title": "Maximum Product Subarray",
+      "difficulty": "Medium",
+      "acceptance": "36.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-subarray"
+    },
+    {
+      "id": 1604,
+      "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+      "difficulty": "Medium",
+      "acceptance": "46.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period"
+    },
+    {
+      "id": 1189,
+      "title": "Maximum Number of Balloons",
+      "difficulty": "Easy",
+      "acceptance": "60.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-balloons"
+    },
+    {
+      "id": 1957,
+      "title": "Delete Characters to Make Fancy String",
+      "difficulty": "Easy",
+      "acceptance": "74.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-characters-to-make-fancy-string"
+    },
+    {
+      "id": 2139,
+      "title": "Minimum Moves to Reach Target Score",
+      "difficulty": "Medium",
+      "acceptance": "52.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-reach-target-score"
+    },
+    {
+      "id": 1405,
+      "title": "Longest Happy String",
+      "difficulty": "Medium",
+      "acceptance": "65.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-happy-string"
+    },
+    {
+      "id": 1895,
+      "title": "Largest Magic Square",
+      "difficulty": "Medium",
+      "acceptance": "75.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-magic-square"
+    },
+    {
+      "id": 1194,
+      "title": "Tournament Winners",
+      "difficulty": "Hard",
+      "acceptance": "50.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/tournament-winners"
+    },
+    {
+      "id": 1212,
+      "title": "Team Scores in Football Tournament",
+      "difficulty": "Medium",
+      "acceptance": "55.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/team-scores-in-football-tournament"
+    },
+    {
+      "id": 415,
+      "title": "Add Strings",
+      "difficulty": "Easy",
+      "acceptance": "52.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/add-strings"
+    },
+    {
+      "id": 49,
+      "title": "Group Anagrams",
+      "difficulty": "Medium",
+      "acceptance": "72.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams"
+    },
+    {
+      "id": 780,
+      "title": "Reaching Points",
+      "difficulty": "Hard",
+      "acceptance": "34.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/reaching-points"
+    },
+    {
+      "id": 2950,
+      "title": "Number of Divisible Substrings",
+      "difficulty": "Medium",
+      "acceptance": "74.6%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-divisible-substrings"
+    },
+    {
+      "id": 844,
+      "title": "Backspace String Compare",
+      "difficulty": "Easy",
+      "acceptance": "49.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/backspace-string-compare"
+    },
+    {
+      "id": 1204,
+      "title": "Last Person to Fit in the Bus",
+      "difficulty": "Medium",
+      "acceptance": "69.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/last-person-to-fit-in-the-bus"
+    },
+    {
+      "id": 239,
+      "title": "Sliding Window Maximum",
+      "difficulty": "Hard",
+      "acceptance": "48.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum"
+    },
+    {
+      "id": 2380,
+      "title": "Time Needed to Rearrange a Binary String",
+      "difficulty": "Medium",
+      "acceptance": "53.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string"
+    }
+  ]
+}

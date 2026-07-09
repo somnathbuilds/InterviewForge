@@ -1,0 +1,69 @@
+{
+  "company": "Directi",
+  "questions": [
+    {
+      "id": 2473,
+      "title": "Minimum Cost to Buy Apples",
+      "difficulty": "Medium",
+      "acceptance": "67.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-buy-apples"
+    },
+    {
+      "id": 2479,
+      "title": "Maximum XOR of Two Non-Overlapping Subtrees",
+      "difficulty": "Hard",
+      "acceptance": "52.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees"
+    },
+    {
+      "id": 2538,
+      "title": "Difference Between Maximum and Minimum Price Sum",
+      "difficulty": "Hard",
+      "acceptance": "33.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum"
+    },
+    {
+      "id": 1524,
+      "title": "Number of Sub-arrays With Odd Sum",
+      "difficulty": "Medium",
+      "acceptance": "55.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum"
+    },
+    {
+      "id": 1535,
+      "title": "Find the Winner of an Array Game",
+      "difficulty": "Medium",
+      "acceptance": "56.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-winner-of-an-array-game"
+    },
+    {
+      "id": 1542,
+      "title": "Find Longest Awesome Substring",
+      "difficulty": "Hard",
+      "acceptance": "46.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-longest-awesome-substring"
+    },
+    {
+      "id": 1584,
+      "title": "Min Cost to Connect All Points",
+      "difficulty": "Medium",
+      "acceptance": "70.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/min-cost-to-connect-all-points"
+    },
+    {
+      "id": 1727,
+      "title": "Largest Submatrix With Rearrangements",
+      "difficulty": "Medium",
+      "acceptance": "80.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-submatrix-with-rearrangements"
+    }
+  ]
+}

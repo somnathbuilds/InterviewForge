@@ -1,0 +1,69 @@
+{
+  "company": "Pure Storage",
+  "questions": [
+    {
+      "id": 5,
+      "title": "Longest Palindromic Substring",
+      "difficulty": "Medium",
+      "acceptance": "37.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring"
+    },
+    {
+      "id": 1206,
+      "title": "Design Skiplist",
+      "difficulty": "Hard",
+      "acceptance": "59.7%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-skiplist"
+    },
+    {
+      "id": 593,
+      "title": "Valid Square",
+      "difficulty": "Medium",
+      "acceptance": "45.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-square"
+    },
+    {
+      "id": 1668,
+      "title": "Maximum Repeating Substring",
+      "difficulty": "Easy",
+      "acceptance": "41.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-repeating-substring"
+    },
+    {
+      "id": 647,
+      "title": "Palindromic Substrings",
+      "difficulty": "Medium",
+      "acceptance": "72.8%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/palindromic-substrings"
+    },
+    {
+      "id": 380,
+      "title": "Insert Delete GetRandom O(1)",
+      "difficulty": "Medium",
+      "acceptance": "55.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+    },
+    {
+      "id": 704,
+      "title": "Binary Search",
+      "difficulty": "Easy",
+      "acceptance": "60.9%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search"
+    },
+    {
+      "id": 2013,
+      "title": "Detect Squares",
+      "difficulty": "Medium",
+      "acceptance": "52.6%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/detect-squares"
+    }
+  ]
+}

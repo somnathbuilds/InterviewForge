@@ -1,0 +1,13 @@
+{
+  "company": "Druva",
+  "questions": [
+    {
+      "id": 1005,
+      "title": "Maximize Sum Of Array After K Negations",
+      "difficulty": "Easy",
+      "acceptance": "53.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-sum-of-array-after-k-negations"
+    }
+  ]
+}

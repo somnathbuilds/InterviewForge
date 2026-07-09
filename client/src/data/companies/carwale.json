@@ -1,0 +1,29 @@
+{
+  "company": "Carwale",
+  "questions": [
+    {
+      "id": 3412,
+      "title": "Find Mirror Score of a String",
+      "difficulty": "Medium",
+      "acceptance": "35.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-mirror-score-of-a-string"
+    },
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "44.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses"
+    },
+    {
+      "id": 121,
+      "title": "Best Time to Buy and Sell Stock",
+      "difficulty": "Easy",
+      "acceptance": "56.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+    }
+  ]
+}

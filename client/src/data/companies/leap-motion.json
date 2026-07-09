@@ -1,0 +1,13 @@
+{
+  "company": "Leap Motion",
+  "questions": [
+    {
+      "id": 478,
+      "title": "Generate Random Point in a Circle",
+      "difficulty": "Medium",
+      "acceptance": "42.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/generate-random-point-in-a-circle"
+    }
+  ]
+}

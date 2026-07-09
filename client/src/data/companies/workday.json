@@ -1,0 +1,69 @@
+{
+  "company": "Workday",
+  "questions": [
+    {
+      "id": 297,
+      "title": "Serialize and Deserialize Binary Tree",
+      "difficulty": "Hard",
+      "acceptance": "60.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree"
+    },
+    {
+      "id": 49,
+      "title": "Group Anagrams",
+      "difficulty": "Medium",
+      "acceptance": "72.6%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams"
+    },
+    {
+      "id": 1328,
+      "title": "Break a Palindrome",
+      "difficulty": "Medium",
+      "acceptance": "51.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/break-a-palindrome"
+    },
+    {
+      "id": 11,
+      "title": "Container With Most Water",
+      "difficulty": "Medium",
+      "acceptance": "60.0%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/container-with-most-water"
+    },
+    {
+      "id": 713,
+      "title": "Subarray Product Less Than K",
+      "difficulty": "Medium",
+      "acceptance": "54.3%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-product-less-than-k"
+    },
+    {
+      "id": 75,
+      "title": "Sort Colors",
+      "difficulty": "Medium",
+      "acceptance": "69.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors"
+    },
+    {
+      "id": 347,
+      "title": "Top K Frequent Elements",
+      "difficulty": "Medium",
+      "acceptance": "66.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements"
+    },
+    {
+      "id": 46,
+      "title": "Permutations",
+      "difficulty": "Medium",
+      "acceptance": "81.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/permutations"
+    }
+  ]
+}

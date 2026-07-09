@@ -1,0 +1,85 @@
+{
+  "company": "Sig",
+  "questions": [
+    {
+      "id": 68,
+      "title": "Text Justification",
+      "difficulty": "Hard",
+      "acceptance": "51.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/text-justification"
+    },
+    {
+      "id": 54,
+      "title": "Spiral Matrix",
+      "difficulty": "Medium",
+      "acceptance": "56.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix"
+    },
+    {
+      "id": 3161,
+      "title": "Block Placement Queries",
+      "difficulty": "Hard",
+      "acceptance": "18.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/block-placement-queries"
+    },
+    {
+      "id": 2768,
+      "title": "Number of Black Blocks",
+      "difficulty": "Medium",
+      "acceptance": "41.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-black-blocks"
+    },
+    {
+      "id": 48,
+      "title": "Rotate Image",
+      "difficulty": "Medium",
+      "acceptance": "80.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image"
+    },
+    {
+      "id": 1861,
+      "title": "Rotating the Box",
+      "difficulty": "Medium",
+      "acceptance": "82.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/rotating-the-box"
+    },
+    {
+      "id": 1743,
+      "title": "Restore the Array From Adjacent Pairs",
+      "difficulty": "Medium",
+      "acceptance": "75.0%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/restore-the-array-from-adjacent-pairs"
+    },
+    {
+      "id": 3043,
+      "title": "Find the Length of the Longest Common Prefix",
+      "difficulty": "Medium",
+      "acceptance": "62.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix"
+    },
+    {
+      "id": 2817,
+      "title": "Minimum Absolute Difference Between Elements With Constraint",
+      "difficulty": "Medium",
+      "acceptance": "37.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint"
+    },
+    {
+      "id": 2502,
+      "title": "Design Memory Allocator",
+      "difficulty": "Medium",
+      "acceptance": "50.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-memory-allocator"
+    }
+  ]
+}

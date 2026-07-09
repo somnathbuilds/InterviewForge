@@ -1,0 +1,13 @@
+{
+  "company": "Iit Bombay",
+  "questions": [
+    {
+      "id": 861,
+      "title": "Score After Flipping Matrix",
+      "difficulty": "Medium",
+      "acceptance": "80.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/score-after-flipping-matrix"
+    }
+  ]
+}

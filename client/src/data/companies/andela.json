@@ -1,0 +1,13 @@
+{
+  "company": "Andela",
+  "questions": [
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "44.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses"
+    }
+  ]
+}

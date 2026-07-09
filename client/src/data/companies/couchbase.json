@@ -1,0 +1,53 @@
+{
+  "company": "Couchbase",
+  "questions": [
+    {
+      "id": 706,
+      "title": "Design HashMap",
+      "difficulty": "Easy",
+      "acceptance": "66.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-hashmap"
+    },
+    {
+      "id": 2700,
+      "title": "Differences Between Two Objects",
+      "difficulty": "Medium",
+      "acceptance": "74.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/differences-between-two-objects"
+    },
+    {
+      "id": 1209,
+      "title": "Remove All Adjacent Duplicates in String II",
+      "difficulty": "Medium",
+      "acceptance": "61.3%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii"
+    },
+    {
+      "id": 905,
+      "title": "Sort Array By Parity",
+      "difficulty": "Easy",
+      "acceptance": "76.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-parity"
+    },
+    {
+      "id": 922,
+      "title": "Sort Array By Parity II",
+      "difficulty": "Easy",
+      "acceptance": "71.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-parity-ii"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    }
+  ]
+}

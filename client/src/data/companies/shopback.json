@@ -1,0 +1,13 @@
+{
+  "company": "Shopback",
+  "questions": [
+    {
+      "id": 3868,
+      "title": "Minimum Cost to Equalize Arrays Using Swaps",
+      "difficulty": "Medium",
+      "acceptance": "48.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-equalize-arrays-using-swaps"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "company": "Navan",
+  "questions": [
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 127,
+      "title": "Word Ladder",
+      "difficulty": "Hard",
+      "acceptance": "45.6%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-ladder"
+    },
+    {
+      "id": 256,
+      "title": "Paint House",
+      "difficulty": "Medium",
+      "acceptance": "64.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/paint-house"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "company": "Machinezone",
+  "questions": [
+    {
+      "id": 1336,
+      "title": "Number of Transactions per Visit",
+      "difficulty": "Hard",
+      "acceptance": "47.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-transactions-per-visit"
+    }
+  ]
+}

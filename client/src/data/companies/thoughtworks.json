@@ -1,0 +1,53 @@
+{
+  "company": "Thoughtworks",
+  "questions": [
+    {
+      "id": 3226,
+      "title": "Number of Bit Changes to Make Two Integers Equal",
+      "difficulty": "Easy",
+      "acceptance": "63.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal"
+    },
+    {
+      "id": 2941,
+      "title": "Maximum GCD-Sum of a Subarray",
+      "difficulty": "Hard",
+      "acceptance": "38.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray"
+    },
+    {
+      "id": 3003,
+      "title": "Maximize the Number of Partitions After Operations",
+      "difficulty": "Hard",
+      "acceptance": "53.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations"
+    },
+    {
+      "id": 5,
+      "title": "Longest Palindromic Substring",
+      "difficulty": "Medium",
+      "acceptance": "37.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring"
+    },
+    {
+      "id": 3036,
+      "title": "Number of Subarrays That Match a Pattern II",
+      "difficulty": "Hard",
+      "acceptance": "33.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii"
+    },
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    }
+  ]
+}

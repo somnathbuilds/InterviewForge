@@ -1,0 +1,45 @@
+{
+  "company": "Duolingo",
+  "questions": [
+    {
+      "id": 2227,
+      "title": "Encrypt and Decrypt Strings",
+      "difficulty": "Hard",
+      "acceptance": "38.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/encrypt-and-decrypt-strings"
+    },
+    {
+      "id": 2090,
+      "title": "K Radius Subarray Averages",
+      "difficulty": "Medium",
+      "acceptance": "46.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/k-radius-subarray-averages"
+    },
+    {
+      "id": 1733,
+      "title": "Minimum Number of People to Teach",
+      "difficulty": "Medium",
+      "acceptance": "67.4%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-people-to-teach"
+    },
+    {
+      "id": 2365,
+      "title": "Task Scheduler II",
+      "difficulty": "Medium",
+      "acceptance": "54.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/task-scheduler-ii"
+    },
+    {
+      "id": 329,
+      "title": "Longest Increasing Path in a Matrix",
+      "difficulty": "Hard",
+      "acceptance": "56.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix"
+    }
+  ]
+}

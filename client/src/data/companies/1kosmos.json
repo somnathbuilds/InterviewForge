@@ -1,0 +1,13 @@
+{
+  "company": "1kosmos",
+  "questions": [
+    {
+      "id": 2938,
+      "title": "Separate Black and White Balls",
+      "difficulty": "Medium",
+      "acceptance": "63.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/separate-black-and-white-balls"
+    }
+  ]
+}

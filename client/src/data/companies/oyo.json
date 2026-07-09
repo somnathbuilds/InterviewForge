@@ -1,0 +1,61 @@
+{
+  "company": "Oyo",
+  "questions": [
+    {
+      "id": 875,
+      "title": "Koko Eating Bananas",
+      "difficulty": "Medium",
+      "acceptance": "50.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/koko-eating-bananas"
+    },
+    {
+      "id": 138,
+      "title": "Copy List with Random Pointer",
+      "difficulty": "Medium",
+      "acceptance": "62.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/copy-list-with-random-pointer"
+    },
+    {
+      "id": 1642,
+      "title": "Furthest Building You Can Reach",
+      "difficulty": "Medium",
+      "acceptance": "50.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/furthest-building-you-can-reach"
+    },
+    {
+      "id": 337,
+      "title": "House Robber III",
+      "difficulty": "Medium",
+      "acceptance": "55.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/house-robber-iii"
+    },
+    {
+      "id": 23,
+      "title": "Merge k Sorted Lists",
+      "difficulty": "Hard",
+      "acceptance": "59.6%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists"
+    },
+    {
+      "id": 15,
+      "title": "3Sum",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum"
+    },
+    {
+      "id": 14,
+      "title": "Longest Common Prefix",
+      "difficulty": "Easy",
+      "acceptance": "47.6%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "company": "Tiaa",
+  "questions": [
+    {
+      "id": 1979,
+      "title": "Find Greatest Common Divisor of Array",
+      "difficulty": "Easy",
+      "acceptance": "80.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-greatest-common-divisor-of-array"
+    }
+  ]
+}

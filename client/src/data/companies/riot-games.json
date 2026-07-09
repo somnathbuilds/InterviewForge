@@ -1,0 +1,37 @@
+{
+  "company": "Riot Games",
+  "questions": [
+    {
+      "id": 37,
+      "title": "Sudoku Solver",
+      "difficulty": "Hard",
+      "acceptance": "65.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/sudoku-solver"
+    },
+    {
+      "id": 495,
+      "title": "Teemo Attacking",
+      "difficulty": "Easy",
+      "acceptance": "57.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/teemo-attacking"
+    },
+    {
+      "id": 3167,
+      "title": "Better Compression of String",
+      "difficulty": "Medium",
+      "acceptance": "75.3%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/better-compression-of-string"
+    },
+    {
+      "id": 289,
+      "title": "Game of Life",
+      "difficulty": "Medium",
+      "acceptance": "72.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/game-of-life"
+    }
+  ]
+}

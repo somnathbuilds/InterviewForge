@@ -1,0 +1,21 @@
+{
+  "company": "Livspace",
+  "questions": [
+    {
+      "id": 452,
+      "title": "Minimum Number of Arrows to Burst Balloons",
+      "difficulty": "Medium",
+      "acceptance": "61.5%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons"
+    },
+    {
+      "id": 111,
+      "title": "Minimum Depth of Binary Tree",
+      "difficulty": "Easy",
+      "acceptance": "52.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-depth-of-binary-tree"
+    }
+  ]
+}

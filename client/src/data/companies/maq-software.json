@@ -1,0 +1,61 @@
+{
+  "company": "Maq Software",
+  "questions": [
+    {
+      "id": 467,
+      "title": "Unique Substrings in Wraparound String",
+      "difficulty": "Medium",
+      "acceptance": "43.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-substrings-in-wraparound-string"
+    },
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+      "id": 84,
+      "title": "Largest Rectangle in Histogram",
+      "difficulty": "Hard",
+      "acceptance": "49.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-rectangle-in-histogram"
+    },
+    {
+      "id": 5,
+      "title": "Longest Palindromic Substring",
+      "difficulty": "Medium",
+      "acceptance": "37.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring"
+    },
+    {
+      "id": 516,
+      "title": "Longest Palindromic Subsequence",
+      "difficulty": "Medium",
+      "acceptance": "65.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-subsequence"
+    },
+    {
+      "id": 196,
+      "title": "Delete Duplicate Emails",
+      "difficulty": "Easy",
+      "acceptance": "66.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-duplicate-emails"
+    },
+    {
+      "id": 32,
+      "title": "Longest Valid Parentheses",
+      "difficulty": "Hard",
+      "acceptance": "38.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-valid-parentheses"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "company": "Olx",
+  "questions": [
+    {
+      "id": 443,
+      "title": "String Compression",
+      "difficulty": "Medium",
+      "acceptance": "60.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/string-compression"
+    },
+    {
+      "id": 460,
+      "title": "LFU Cache",
+      "difficulty": "Hard",
+      "acceptance": "49.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/lfu-cache"
+    }
+  ]
+}

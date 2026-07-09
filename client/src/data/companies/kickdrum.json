@@ -1,0 +1,29 @@
+{
+  "company": "Kickdrum",
+  "questions": [
+    {
+      "id": 390,
+      "title": "Elimination Game",
+      "difficulty": "Medium",
+      "acceptance": "46.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/elimination-game"
+    },
+    {
+      "id": 423,
+      "title": "Reconstruct Original Digits from English",
+      "difficulty": "Medium",
+      "acceptance": "52.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/reconstruct-original-digits-from-english"
+    },
+    {
+      "id": 200,
+      "title": "Number of Islands",
+      "difficulty": "Medium",
+      "acceptance": "64.4%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "company": "Trilogy",
+  "questions": [
+    {
+      "id": 2564,
+      "title": "Substring XOR Queries",
+      "difficulty": "Medium",
+      "acceptance": "35.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/substring-xor-queries"
+    },
+    {
+      "id": 2569,
+      "title": "Handling Sum Queries After Update",
+      "difficulty": "Hard",
+      "acceptance": "31.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/handling-sum-queries-after-update"
+    },
+    {
+      "id": 2425,
+      "title": "Bitwise XOR of All Pairings",
+      "difficulty": "Medium",
+      "acceptance": "66.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/bitwise-xor-of-all-pairings"
+    },
+    {
+      "id": 2403,
+      "title": "Minimum Time to Kill All Monsters",
+      "difficulty": "Hard",
+      "acceptance": "57.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-time-to-kill-all-monsters"
+    },
+    {
+      "id": 115,
+      "title": "Distinct Subsequences",
+      "difficulty": "Hard",
+      "acceptance": "51.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/distinct-subsequences"
+    },
+    {
+      "id": 592,
+      "title": "Fraction Addition and Subtraction",
+      "difficulty": "Medium",
+      "acceptance": "66.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/fraction-addition-and-subtraction"
+    },
+    {
+      "id": 2438,
+      "title": "Range Product Queries of Powers",
+      "difficulty": "Medium",
+      "acceptance": "61.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/range-product-queries-of-powers"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "company": "Mobisy",
+  "questions": [
+    {
+      "id": 1835,
+      "title": "Find XOR Sum of All Pairs Bitwise AND",
+      "difficulty": "Hard",
+      "acceptance": "62.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and"
+    }
+  ]
+}

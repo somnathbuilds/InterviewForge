@@ -1,0 +1,181 @@
+{
+  "company": "Dropbox",
+  "questions": [
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 4,
+      "title": "Median of Two Sorted Arrays",
+      "difficulty": "Hard",
+      "acceptance": "46.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays"
+    },
+    {
+      "id": 17,
+      "title": "Letter Combinations of a Phone Number",
+      "difficulty": "Medium",
+      "acceptance": "66.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+    },
+    {
+      "id": 1001,
+      "title": "Grid Illumination",
+      "difficulty": "Hard",
+      "acceptance": "39.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/grid-illumination"
+    },
+    {
+      "id": 609,
+      "title": "Find Duplicate File in System",
+      "difficulty": "Medium",
+      "acceptance": "67.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-duplicate-file-in-system"
+    },
+    {
+      "id": 2043,
+      "title": "Simple Bank System",
+      "difficulty": "Medium",
+      "acceptance": "69.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/simple-bank-system"
+    },
+    {
+      "id": 140,
+      "title": "Word Break II",
+      "difficulty": "Hard",
+      "acceptance": "55.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break-ii"
+    },
+    {
+      "id": 1236,
+      "title": "Web Crawler",
+      "difficulty": "Medium",
+      "acceptance": "68.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/web-crawler"
+    },
+    {
+      "id": 1178,
+      "title": "Number of Valid Words for Each Puzzle",
+      "difficulty": "Hard",
+      "acceptance": "47.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-valid-words-for-each-puzzle"
+    },
+    {
+      "id": 290,
+      "title": "Word Pattern",
+      "difficulty": "Easy",
+      "acceptance": "44.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-pattern"
+    },
+    {
+      "id": 289,
+      "title": "Game of Life",
+      "difficulty": "Medium",
+      "acceptance": "72.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/game-of-life"
+    },
+    {
+      "id": 291,
+      "title": "Word Pattern II",
+      "difficulty": "Medium",
+      "acceptance": "48.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-pattern-ii"
+    },
+    {
+      "id": 2296,
+      "title": "Design a Text Editor",
+      "difficulty": "Hard",
+      "acceptance": "50.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-a-text-editor"
+    },
+    {
+      "id": 1242,
+      "title": "Web Crawler Multithreaded",
+      "difficulty": "Medium",
+      "acceptance": "51.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/web-crawler-multithreaded"
+    },
+    {
+      "id": 1250,
+      "title": "Check If It Is a Good Array",
+      "difficulty": "Hard",
+      "acceptance": "65.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-it-is-a-good-array"
+    },
+    {
+      "id": 362,
+      "title": "Design Hit Counter",
+      "difficulty": "Medium",
+      "acceptance": "69.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-hit-counter"
+    },
+    {
+      "id": 1845,
+      "title": "Seat Reservation Manager",
+      "difficulty": "Medium",
+      "acceptance": "67.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/seat-reservation-manager"
+    },
+    {
+      "id": 924,
+      "title": "Minimize Malware Spread",
+      "difficulty": "Hard",
+      "acceptance": "43.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimize-malware-spread"
+    },
+    {
+      "id": 928,
+      "title": "Minimize Malware Spread II",
+      "difficulty": "Hard",
+      "acceptance": "45.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimize-malware-spread-ii"
+    },
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals"
+    },
+    {
+      "id": 843,
+      "title": "Guess the Word",
+      "difficulty": "Hard",
+      "acceptance": "36.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/guess-the-word"
+    },
+    {
+      "id": 135,
+      "title": "Candy",
+      "difficulty": "Hard",
+      "acceptance": "48.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/candy"
+    }
+  ]
+}

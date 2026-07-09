@@ -1,0 +1,21 @@
+{
+  "company": "Singlestore",
+  "questions": [
+    {
+      "id": 15,
+      "title": "3Sum",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum"
+    },
+    {
+      "id": 18,
+      "title": "4Sum",
+      "difficulty": "Medium",
+      "acceptance": "40.6%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/4sum"
+    }
+  ]
+}

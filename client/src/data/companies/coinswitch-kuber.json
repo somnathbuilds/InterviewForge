@@ -1,0 +1,13 @@
+{
+  "company": "Coinswitch Kuber",
+  "questions": [
+    {
+      "id": 283,
+      "title": "Move Zeroes",
+      "difficulty": "Easy",
+      "acceptance": "63.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/move-zeroes"
+    }
+  ]
+}

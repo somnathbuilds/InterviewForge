@@ -1,0 +1,13 @@
+{
+  "company": "Flatiron Health",
+  "questions": [
+    {
+      "id": 1664,
+      "title": "Ways to Make a Fair Array",
+      "difficulty": "Medium",
+      "acceptance": "66.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/ways-to-make-a-fair-array"
+    }
+  ]
+}

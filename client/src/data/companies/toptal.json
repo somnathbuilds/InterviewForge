@@ -1,0 +1,21 @@
+{
+  "company": "Toptal",
+  "questions": [
+    {
+      "id": 1531,
+      "title": "String Compression II",
+      "difficulty": "Hard",
+      "acceptance": "52.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/string-compression-ii"
+    },
+    {
+      "id": 1227,
+      "title": "Airplane Seat Assignment Probability",
+      "difficulty": "Medium",
+      "acceptance": "67.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/airplane-seat-assignment-probability"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "company": "Circle",
+  "questions": [
+    {
+      "id": 2043,
+      "title": "Simple Bank System",
+      "difficulty": "Medium",
+      "acceptance": "69.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/simple-bank-system"
+    },
+    {
+      "id": 588,
+      "title": "Design In-Memory File System",
+      "difficulty": "Hard",
+      "acceptance": "48.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-in-memory-file-system"
+    }
+  ]
+}

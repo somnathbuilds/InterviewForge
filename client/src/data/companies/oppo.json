@@ -1,0 +1,21 @@
+{
+  "company": "Oppo",
+  "questions": [
+    {
+      "id": 221,
+      "title": "Maximal Square",
+      "difficulty": "Medium",
+      "acceptance": "50.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximal-square"
+    },
+    {
+      "id": 643,
+      "title": "Maximum Average Subarray I",
+      "difficulty": "Easy",
+      "acceptance": "47.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-average-subarray-i"
+    }
+  ]
+}

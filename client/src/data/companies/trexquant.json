@@ -1,0 +1,37 @@
+{
+  "company": "Trexquant",
+  "questions": [
+    {
+      "id": 1432,
+      "title": "Max Difference You Can Get From Changing an Integer",
+      "difficulty": "Medium",
+      "acceptance": "48.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer"
+    },
+    {
+      "id": 17,
+      "title": "Letter Combinations of a Phone Number",
+      "difficulty": "Medium",
+      "acceptance": "66.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+    },
+    {
+      "id": 15,
+      "title": "3Sum",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum"
+    },
+    {
+      "id": 875,
+      "title": "Koko Eating Bananas",
+      "difficulty": "Medium",
+      "acceptance": "50.0%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/koko-eating-bananas"
+    }
+  ]
+}

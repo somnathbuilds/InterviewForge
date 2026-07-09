@@ -1,0 +1,13 @@
+{
+  "company": "Ubisoft",
+  "questions": [
+    {
+      "id": 409,
+      "title": "Longest Palindrome",
+      "difficulty": "Easy",
+      "acceptance": "56.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindrome"
+    }
+  ]
+}

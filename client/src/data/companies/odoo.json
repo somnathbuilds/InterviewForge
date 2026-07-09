@@ -1,0 +1,21 @@
+{
+  "company": "Odoo",
+  "questions": [
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "44.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses"
+    },
+    {
+      "id": 155,
+      "title": "Min Stack",
+      "difficulty": "Medium",
+      "acceptance": "58.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/min-stack"
+    }
+  ]
+}

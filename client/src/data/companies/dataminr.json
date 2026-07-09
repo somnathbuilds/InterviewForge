@@ -1,0 +1,21 @@
+{
+  "company": "Dataminr",
+  "questions": [
+    {
+      "id": 885,
+      "title": "Spiral Matrix III",
+      "difficulty": "Medium",
+      "acceptance": "84.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix-iii"
+    },
+    {
+      "id": 1840,
+      "title": "Maximum Building Height",
+      "difficulty": "Hard",
+      "acceptance": "38.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-building-height"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "company": "Optiver",
+  "questions": [
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 1360,
+      "title": "Number of Days Between Two Dates",
+      "difficulty": "Easy",
+      "acceptance": "52.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-days-between-two-dates"
+    },
+    {
+      "id": 121,
+      "title": "Best Time to Buy and Sell Stock",
+      "difficulty": "Easy",
+      "acceptance": "56.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+    },
+    {
+      "id": 622,
+      "title": "Design Circular Queue",
+      "difficulty": "Medium",
+      "acceptance": "54.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-circular-queue"
+    },
+    {
+      "id": 122,
+      "title": "Best Time to Buy and Sell Stock II",
+      "difficulty": "Medium",
+      "acceptance": "71.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii"
+    },
+    {
+      "id": 3822,
+      "title": "Design Order Management System",
+      "difficulty": "Medium",
+      "acceptance": "78.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-order-management-system"
+    },
+    {
+      "id": 1206,
+      "title": "Design Skiplist",
+      "difficulty": "Hard",
+      "acceptance": "59.7%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-skiplist"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "company": "National Instruments",
+  "questions": [
+    {
+      "id": 880,
+      "title": "Decoded String at Index",
+      "difficulty": "Medium",
+      "acceptance": "37.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/decoded-string-at-index"
+    }
+  ]
+}

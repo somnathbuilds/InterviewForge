@@ -1,0 +1,13 @@
+{
+  "company": "Dassault Sysetmes",
+  "questions": [
+    {
+      "id": 2988,
+      "title": "Manager of the Largest Department",
+      "difficulty": "Medium",
+      "acceptance": "81.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/manager-of-the-largest-department"
+    }
+  ]
+}

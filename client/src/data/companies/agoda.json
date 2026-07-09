@@ -1,0 +1,357 @@
+{
+  "company": "Agoda",
+  "questions": [
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+      "id": 15,
+      "title": "3Sum",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum"
+    },
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "44.2%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses"
+    },
+    {
+      "id": 1011,
+      "title": "Capacity To Ship Packages Within D Days",
+      "difficulty": "Medium",
+      "acceptance": "73.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days"
+    },
+    {
+      "id": 120,
+      "title": "Triangle",
+      "difficulty": "Medium",
+      "acceptance": "59.9%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/triangle"
+    },
+    {
+      "id": 121,
+      "title": "Best Time to Buy and Sell Stock",
+      "difficulty": "Easy",
+      "acceptance": "56.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+    },
+    {
+      "id": 198,
+      "title": "House Robber",
+      "difficulty": "Medium",
+      "acceptance": "53.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/house-robber"
+    },
+    {
+      "id": 3178,
+      "title": "Find the Child Who Has the Ball After K Seconds",
+      "difficulty": "Easy",
+      "acceptance": "62.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds"
+    },
+    {
+      "id": 1636,
+      "title": "Sort Array by Increasing Frequency",
+      "difficulty": "Easy",
+      "acceptance": "80.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-increasing-frequency"
+    },
+    {
+      "id": 2734,
+      "title": "Lexicographically Smallest String After Substring Operation",
+      "difficulty": "Medium",
+      "acceptance": "34.9%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation"
+    },
+    {
+      "id": 1190,
+      "title": "Reverse Substrings Between Each Pair of Parentheses",
+      "difficulty": "Medium",
+      "acceptance": "72.0%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses"
+    },
+    {
+      "id": 394,
+      "title": "Decode String",
+      "difficulty": "Medium",
+      "acceptance": "62.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-string"
+    },
+    {
+      "id": 63,
+      "title": "Unique Paths II",
+      "difficulty": "Medium",
+      "acceptance": "44.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-paths-ii"
+    },
+    {
+      "id": 380,
+      "title": "Insert Delete GetRandom O(1)",
+      "difficulty": "Medium",
+      "acceptance": "55.4%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+    },
+    {
+      "id": 12,
+      "title": "Integer to Roman",
+      "difficulty": "Medium",
+      "acceptance": "71.0%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/integer-to-roman"
+    },
+    {
+      "id": 496,
+      "title": "Next Greater Element I",
+      "difficulty": "Easy",
+      "acceptance": "76.1%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-i"
+    },
+    {
+      "id": 1283,
+      "title": "Find the Smallest Divisor Given a Threshold",
+      "difficulty": "Medium",
+      "acceptance": "65.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold"
+    },
+    {
+      "id": 1200,
+      "title": "Minimum Absolute Difference",
+      "difficulty": "Easy",
+      "acceptance": "75.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-absolute-difference"
+    },
+    {
+      "id": 977,
+      "title": "Squares of a Sorted Array",
+      "difficulty": "Easy",
+      "acceptance": "73.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/squares-of-a-sorted-array"
+    },
+    {
+      "id": 739,
+      "title": "Daily Temperatures",
+      "difficulty": "Medium",
+      "acceptance": "68.7%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/daily-temperatures"
+    },
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 713,
+      "title": "Subarray Product Less Than K",
+      "difficulty": "Medium",
+      "acceptance": "54.3%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-product-less-than-k"
+    },
+    {
+      "id": 844,
+      "title": "Backspace String Compare",
+      "difficulty": "Easy",
+      "acceptance": "49.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/backspace-string-compare"
+    },
+    {
+      "id": 724,
+      "title": "Find Pivot Index",
+      "difficulty": "Easy",
+      "acceptance": "62.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-pivot-index"
+    },
+    {
+      "id": 1921,
+      "title": "Eliminate Maximum Number of Monsters",
+      "difficulty": "Medium",
+      "acceptance": "51.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/eliminate-maximum-number-of-monsters"
+    },
+    {
+      "id": 46,
+      "title": "Permutations",
+      "difficulty": "Medium",
+      "acceptance": "81.9%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/permutations"
+    },
+    {
+      "id": 300,
+      "title": "Longest Increasing Subsequence",
+      "difficulty": "Medium",
+      "acceptance": "59.4%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence"
+    },
+    {
+      "id": 726,
+      "title": "Number of Atoms",
+      "difficulty": "Hard",
+      "acceptance": "65.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-atoms"
+    },
+    {
+      "id": 412,
+      "title": "Fizz Buzz",
+      "difficulty": "Easy",
+      "acceptance": "75.5%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/fizz-buzz"
+    },
+    {
+      "id": 1048,
+      "title": "Longest String Chain",
+      "difficulty": "Medium",
+      "acceptance": "63.0%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-string-chain"
+    },
+    {
+      "id": 767,
+      "title": "Reorganize String",
+      "difficulty": "Medium",
+      "acceptance": "57.1%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/reorganize-string"
+    },
+    {
+      "id": 70,
+      "title": "Climbing Stairs",
+      "difficulty": "Easy",
+      "acceptance": "54.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs"
+    },
+    {
+      "id": 239,
+      "title": "Sliding Window Maximum",
+      "difficulty": "Hard",
+      "acceptance": "48.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum"
+    },
+    {
+      "id": 202,
+      "title": "Happy Number",
+      "difficulty": "Easy",
+      "acceptance": "59.7%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/happy-number"
+    },
+    {
+      "id": 1071,
+      "title": "Greatest Common Divisor of Strings",
+      "difficulty": "Easy",
+      "acceptance": "53.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/greatest-common-divisor-of-strings"
+    },
+    {
+      "id": 3787,
+      "title": "Find Diameter Endpoints of a Tree",
+      "difficulty": "Medium",
+      "acceptance": "68.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-diameter-endpoints-of-a-tree"
+    },
+    {
+      "id": 322,
+      "title": "Coin Change",
+      "difficulty": "Medium",
+      "acceptance": "48.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/coin-change"
+    },
+    {
+      "id": 560,
+      "title": "Subarray Sum Equals K",
+      "difficulty": "Medium",
+      "acceptance": "47.3%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-sum-equals-k"
+    },
+    {
+      "id": 122,
+      "title": "Best Time to Buy and Sell Stock II",
+      "difficulty": "Medium",
+      "acceptance": "71.1%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii"
+    },
+    {
+      "id": 1209,
+      "title": "Remove All Adjacent Duplicates in String II",
+      "difficulty": "Medium",
+      "acceptance": "61.3%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii"
+    },
+    {
+      "id": 1331,
+      "title": "Rank Transform of an Array",
+      "difficulty": "Easy",
+      "acceptance": "70.9%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/rank-transform-of-an-array"
+    },
+    {
+      "id": 75,
+      "title": "Sort Colors",
+      "difficulty": "Medium",
+      "acceptance": "69.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors"
+    },
+    {
+      "id": 55,
+      "title": "Jump Game",
+      "difficulty": "Medium",
+      "acceptance": "40.9%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game"
+    },
+    {
+      "id": 3893,
+      "title": "Maximum Team Size with Overlapping Intervals",
+      "difficulty": "Medium",
+      "acceptance": "51.6%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-team-size-with-overlapping-intervals"
+    }
+  ]
+}

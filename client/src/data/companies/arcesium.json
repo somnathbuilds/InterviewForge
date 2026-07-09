@@ -1,0 +1,125 @@
+{
+  "company": "Arcesium",
+  "questions": [
+    {
+      "id": 2509,
+      "title": "Cycle Length Queries in a Tree",
+      "difficulty": "Hard",
+      "acceptance": "60.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/cycle-length-queries-in-a-tree"
+    },
+    {
+      "id": 2024,
+      "title": "Maximize the Confusion of an Exam",
+      "difficulty": "Medium",
+      "acceptance": "70.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-the-confusion-of-an-exam"
+    },
+    {
+      "id": 1567,
+      "title": "Maximum Length of Subarray With Positive Product",
+      "difficulty": "Medium",
+      "acceptance": "44.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product"
+    },
+    {
+      "id": 2211,
+      "title": "Count Collisions on a Road",
+      "difficulty": "Medium",
+      "acceptance": "58.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-collisions-on-a-road"
+    },
+    {
+      "id": 2327,
+      "title": "Number of People Aware of a Secret",
+      "difficulty": "Medium",
+      "acceptance": "60.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-people-aware-of-a-secret"
+    },
+    {
+      "id": 2035,
+      "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+      "difficulty": "Hard",
+      "acceptance": "23.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference"
+    },
+    {
+      "id": 72,
+      "title": "Edit Distance",
+      "difficulty": "Medium",
+      "acceptance": "60.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/edit-distance"
+    },
+    {
+      "id": 3250,
+      "title": "Find the Count of Monotonic Pairs I",
+      "difficulty": "Hard",
+      "acceptance": "47.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i"
+    },
+    {
+      "id": 2134,
+      "title": "Minimum Swaps to Group All 1's Together II",
+      "difficulty": "Medium",
+      "acceptance": "65.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii"
+    },
+    {
+      "id": 85,
+      "title": "Maximal Rectangle",
+      "difficulty": "Hard",
+      "acceptance": "58.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximal-rectangle"
+    },
+    {
+      "id": 2560,
+      "title": "House Robber IV",
+      "difficulty": "Medium",
+      "acceptance": "64.7%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/house-robber-iv"
+    },
+    {
+      "id": 42,
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "acceptance": "67.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water"
+    },
+    {
+      "id": 4,
+      "title": "Median of Two Sorted Arrays",
+      "difficulty": "Hard",
+      "acceptance": "46.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays"
+    },
+    {
+      "id": 127,
+      "title": "Word Ladder",
+      "difficulty": "Hard",
+      "acceptance": "45.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-ladder"
+    },
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    }
+  ]
+}

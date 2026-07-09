@@ -1,0 +1,21 @@
+{
+  "company": "Stackline",
+  "questions": [
+    {
+      "id": 310,
+      "title": "Minimum Height Trees",
+      "difficulty": "Medium",
+      "acceptance": "42.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-height-trees"
+    },
+    {
+      "id": 502,
+      "title": "IPO",
+      "difficulty": "Hard",
+      "acceptance": "53.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/ipo"
+    }
+  ]
+}

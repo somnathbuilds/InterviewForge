@@ -1,0 +1,13 @@
+{
+  "company": "Checkpoint",
+  "questions": [
+    {
+      "id": 941,
+      "title": "Valid Mountain Array",
+      "difficulty": "Easy",
+      "acceptance": "35.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-mountain-array"
+    }
+  ]
+}

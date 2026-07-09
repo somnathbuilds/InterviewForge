@@ -1,0 +1,101 @@
+{
+  "company": "Razorpay",
+  "questions": [
+    {
+      "id": 2499,
+      "title": "Minimum Total Cost to Make Arrays Unequal",
+      "difficulty": "Hard",
+      "acceptance": "41.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal"
+    },
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals"
+    },
+    {
+      "id": 2054,
+      "title": "Two Best Non-Overlapping Events",
+      "difficulty": "Medium",
+      "acceptance": "64.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-best-non-overlapping-events"
+    },
+    {
+      "id": 2070,
+      "title": "Most Beautiful Item for Each Query",
+      "difficulty": "Medium",
+      "acceptance": "62.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/most-beautiful-item-for-each-query"
+    },
+    {
+      "id": 171,
+      "title": "Excel Sheet Column Number",
+      "difficulty": "Easy",
+      "acceptance": "67.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/excel-sheet-column-number"
+    },
+    {
+      "id": 1574,
+      "title": "Shortest Subarray to be Removed to Make Array Sorted",
+      "difficulty": "Medium",
+      "acceptance": "51.3%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted"
+    },
+    {
+      "id": 394,
+      "title": "Decode String",
+      "difficulty": "Medium",
+      "acceptance": "62.6%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-string"
+    },
+    {
+      "id": 11,
+      "title": "Container With Most Water",
+      "difficulty": "Medium",
+      "acceptance": "60.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/container-with-most-water"
+    },
+    {
+      "id": 189,
+      "title": "Rotate Array",
+      "difficulty": "Medium",
+      "acceptance": "44.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 387,
+      "title": "First Unique Character in a String",
+      "difficulty": "Easy",
+      "acceptance": "65.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/first-unique-character-in-a-string"
+    },
+    {
+      "id": 62,
+      "title": "Unique Paths",
+      "difficulty": "Medium",
+      "acceptance": "66.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-paths"
+    }
+  ]
+}

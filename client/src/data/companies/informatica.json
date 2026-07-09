@@ -1,0 +1,21 @@
+{
+  "company": "Informatica",
+  "questions": [
+    {
+      "id": 994,
+      "title": "Rotting Oranges",
+      "difficulty": "Medium",
+      "acceptance": "58.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/rotting-oranges"
+    },
+    {
+      "id": 155,
+      "title": "Min Stack",
+      "difficulty": "Medium",
+      "acceptance": "58.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/min-stack"
+    }
+  ]
+}

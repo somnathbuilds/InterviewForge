@@ -1,0 +1,37 @@
+{
+  "company": "Works Applications",
+  "questions": [
+    {
+      "id": 15,
+      "title": "3Sum",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum"
+    },
+    {
+      "id": 630,
+      "title": "Course Schedule III",
+      "difficulty": "Hard",
+      "acceptance": "41.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule-iii"
+    },
+    {
+      "id": 629,
+      "title": "K Inverse Pairs Array",
+      "difficulty": "Hard",
+      "acceptance": "49.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/k-inverse-pairs-array"
+    },
+    {
+      "id": 179,
+      "title": "Largest Number",
+      "difficulty": "Medium",
+      "acceptance": "43.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-number"
+    }
+  ]
+}

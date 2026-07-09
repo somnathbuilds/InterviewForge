@@ -1,0 +1,21 @@
+{
+  "company": "Zluri",
+  "questions": [
+    {
+      "id": 3205,
+      "title": "Maximum Array Hopping Score I",
+      "difficulty": "Medium",
+      "acceptance": "76.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-array-hopping-score-i"
+    },
+    {
+      "id": 3221,
+      "title": "Maximum Array Hopping Score II",
+      "difficulty": "Medium",
+      "acceptance": "59.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-array-hopping-score-ii"
+    }
+  ]
+}

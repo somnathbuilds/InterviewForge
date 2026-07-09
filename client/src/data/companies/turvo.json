@@ -1,0 +1,21 @@
+{
+  "company": "Turvo",
+  "questions": [
+    {
+      "id": 1335,
+      "title": "Minimum Difficulty of a Job Schedule",
+      "difficulty": "Hard",
+      "acceptance": "59.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule"
+    },
+    {
+      "id": 1534,
+      "title": "Count Good Triplets",
+      "difficulty": "Easy",
+      "acceptance": "85.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-good-triplets"
+    }
+  ]
+}

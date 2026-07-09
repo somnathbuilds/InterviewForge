@@ -1,0 +1,13 @@
+{
+  "company": "Drawbridge",
+  "questions": [
+    {
+      "id": 757,
+      "title": "Set Intersection Size At Least Two",
+      "difficulty": "Hard",
+      "acceptance": "58.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/set-intersection-size-at-least-two"
+    }
+  ]
+}

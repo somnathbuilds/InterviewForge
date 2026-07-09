@@ -1,0 +1,61 @@
+{
+  "company": "Udemy",
+  "questions": [
+    {
+      "id": 4,
+      "title": "Median of Two Sorted Arrays",
+      "difficulty": "Hard",
+      "acceptance": "46.6%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays"
+    },
+    {
+      "id": 36,
+      "title": "Valid Sudoku",
+      "difficulty": "Medium",
+      "acceptance": "64.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-sudoku"
+    },
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "44.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses"
+    },
+    {
+      "id": 21,
+      "title": "Merge Two Sorted Lists",
+      "difficulty": "Easy",
+      "acceptance": "68.3%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists"
+    },
+    {
+      "id": 26,
+      "title": "Remove Duplicates from Sorted Array",
+      "difficulty": "Easy",
+      "acceptance": "62.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array"
+    },
+    {
+      "id": 3477,
+      "title": "Fruits Into Baskets II",
+      "difficulty": "Easy",
+      "acceptance": "70.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/fruits-into-baskets-ii"
+    },
+    {
+      "id": 271,
+      "title": "Encode and Decode Strings",
+      "difficulty": "Medium",
+      "acceptance": "51.6%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/encode-and-decode-strings"
+    }
+  ]
+}

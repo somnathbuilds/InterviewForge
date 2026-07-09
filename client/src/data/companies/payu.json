@@ -1,0 +1,21 @@
+{
+  "company": "Payu",
+  "questions": [
+    {
+      "id": 2169,
+      "title": "Count Operations to Obtain Zero",
+      "difficulty": "Easy",
+      "acceptance": "79.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-operations-to-obtain-zero"
+    },
+    {
+      "id": 424,
+      "title": "Longest Repeating Character Replacement",
+      "difficulty": "Medium",
+      "acceptance": "59.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-repeating-character-replacement"
+    }
+  ]
+}

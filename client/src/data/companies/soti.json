@@ -1,0 +1,13 @@
+{
+  "company": "Soti",
+  "questions": [
+    {
+      "id": 605,
+      "title": "Can Place Flowers",
+      "difficulty": "Easy",
+      "acceptance": "29.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/can-place-flowers"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "company": "Moveworks",
+  "questions": [
+    {
+      "id": 68,
+      "title": "Text Justification",
+      "difficulty": "Hard",
+      "acceptance": "51.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/text-justification"
+    },
+    {
+      "id": 140,
+      "title": "Word Break II",
+      "difficulty": "Hard",
+      "acceptance": "55.6%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break-ii"
+    },
+    {
+      "id": 3076,
+      "title": "Shortest Uncommon Substring in an Array",
+      "difficulty": "Medium",
+      "acceptance": "50.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array"
+    },
+    {
+      "id": 1258,
+      "title": "Synonymous Sentences",
+      "difficulty": "Medium",
+      "acceptance": "57.3%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/synonymous-sentences"
+    },
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals"
+    },
+    {
+      "id": 2366,
+      "title": "Minimum Replacements to Sort the Array",
+      "difficulty": "Hard",
+      "acceptance": "53.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-replacements-to-sort-the-array"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "company": "Baidu",
+  "questions": [
+    {
+      "id": 124,
+      "title": "Binary Tree Maximum Path Sum",
+      "difficulty": "Hard",
+      "acceptance": "42.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-maximum-path-sum"
+    },
+    {
+      "id": 395,
+      "title": "Longest Substring with At Least K Repeating Characters",
+      "difficulty": "Medium",
+      "acceptance": "46.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters"
+    },
+    {
+      "id": 397,
+      "title": "Integer Replacement",
+      "difficulty": "Medium",
+      "acceptance": "37.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/integer-replacement"
+    },
+    {
+      "id": 410,
+      "title": "Split Array Largest Sum",
+      "difficulty": "Hard",
+      "acceptance": "60.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum"
+    },
+    {
+      "id": 413,
+      "title": "Arithmetic Slices",
+      "difficulty": "Medium",
+      "acceptance": "64.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/arithmetic-slices"
+    },
+    {
+      "id": 446,
+      "title": "Arithmetic Slices II - Subsequence",
+      "difficulty": "Hard",
+      "acceptance": "55.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/arithmetic-slices-ii-subsequence"
+    },
+    {
+      "id": 488,
+      "title": "Zuma Game",
+      "difficulty": "Hard",
+      "acceptance": "29.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/zuma-game"
+    },
+    {
+      "id": 576,
+      "title": "Out of Boundary Paths",
+      "difficulty": "Medium",
+      "acceptance": "48.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/out-of-boundary-paths"
+    },
+    {
+      "id": 588,
+      "title": "Design In-Memory File System",
+      "difficulty": "Hard",
+      "acceptance": "48.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-in-memory-file-system"
+    },
+    {
+      "id": 873,
+      "title": "Length of Longest Fibonacci Subsequence",
+      "difficulty": "Medium",
+      "acceptance": "57.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/length-of-longest-fibonacci-subsequence"
+    },
+    {
+      "id": 240,
+      "title": "Search a 2D Matrix II",
+      "difficulty": "Medium",
+      "acceptance": "57.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix-ii"
+    }
+  ]
+}

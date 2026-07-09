@@ -1,0 +1,21 @@
+{
+  "company": "Ivp",
+  "questions": [
+    {
+      "id": 3376,
+      "title": "Minimum Time to Break Locks I",
+      "difficulty": "Medium",
+      "acceptance": "32.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-time-to-break-locks-i"
+    },
+    {
+      "id": 3385,
+      "title": "Minimum Time to Break Locks II",
+      "difficulty": "Hard",
+      "acceptance": "45.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-time-to-break-locks-ii"
+    }
+  ]
+}

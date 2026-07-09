@@ -1,0 +1,269 @@
+{
+  "company": "Hashedin",
+  "questions": [
+    {
+      "id": 3143,
+      "title": "Maximum Points Inside the Square",
+      "difficulty": "Medium",
+      "acceptance": "39.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-points-inside-the-square"
+    },
+    {
+      "id": 2999,
+      "title": "Count the Number of Powerful Integers",
+      "difficulty": "Hard",
+      "acceptance": "46.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-powerful-integers"
+    },
+    {
+      "id": 3012,
+      "title": "Minimize Length of Array Using Operations",
+      "difficulty": "Medium",
+      "acceptance": "35.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimize-length-of-array-using-operations"
+    },
+    {
+      "id": 3051,
+      "title": "Find Candidates for Data Scientist Position",
+      "difficulty": "Easy",
+      "acceptance": "75.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-candidates-for-data-scientist-position"
+    },
+    {
+      "id": 3052,
+      "title": "Maximize Items",
+      "difficulty": "Hard",
+      "acceptance": "74.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-items"
+    },
+    {
+      "id": 42,
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "acceptance": "67.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water"
+    },
+    {
+      "id": 53,
+      "title": "Maximum Subarray",
+      "difficulty": "Medium",
+      "acceptance": "53.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray"
+    },
+    {
+      "id": 2448,
+      "title": "Minimum Cost to Make Array Equal",
+      "difficulty": "Hard",
+      "acceptance": "46.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-make-array-equal"
+    },
+    {
+      "id": 31,
+      "title": "Next Permutation",
+      "difficulty": "Medium",
+      "acceptance": "45.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/next-permutation"
+    },
+    {
+      "id": 810,
+      "title": "Chalkboard XOR Game",
+      "difficulty": "Hard",
+      "acceptance": "66.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/chalkboard-xor-game"
+    },
+    {
+      "id": 45,
+      "title": "Jump Game II",
+      "difficulty": "Medium",
+      "acceptance": "42.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-ii"
+    },
+    {
+      "id": 55,
+      "title": "Jump Game",
+      "difficulty": "Medium",
+      "acceptance": "40.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game"
+    },
+    {
+      "id": 526,
+      "title": "Beautiful Arrangement",
+      "difficulty": "Medium",
+      "acceptance": "64.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/beautiful-arrangement"
+    },
+    {
+      "id": 200,
+      "title": "Number of Islands",
+      "difficulty": "Medium",
+      "acceptance": "64.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands"
+    },
+    {
+      "id": 2594,
+      "title": "Minimum Time to Repair Cars",
+      "difficulty": "Medium",
+      "acceptance": "59.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-time-to-repair-cars"
+    },
+    {
+      "id": 152,
+      "title": "Maximum Product Subarray",
+      "difficulty": "Medium",
+      "acceptance": "36.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-subarray"
+    },
+    {
+      "id": 72,
+      "title": "Edit Distance",
+      "difficulty": "Medium",
+      "acceptance": "60.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/edit-distance"
+    },
+    {
+      "id": 205,
+      "title": "Isomorphic Strings",
+      "difficulty": "Easy",
+      "acceptance": "48.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/isomorphic-strings"
+    },
+    {
+      "id": 49,
+      "title": "Group Anagrams",
+      "difficulty": "Medium",
+      "acceptance": "72.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams"
+    },
+    {
+      "id": 11,
+      "title": "Container With Most Water",
+      "difficulty": "Medium",
+      "acceptance": "60.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/container-with-most-water"
+    },
+    {
+      "id": 875,
+      "title": "Koko Eating Bananas",
+      "difficulty": "Medium",
+      "acceptance": "50.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/koko-eating-bananas"
+    },
+    {
+      "id": 5,
+      "title": "Longest Palindromic Substring",
+      "difficulty": "Medium",
+      "acceptance": "37.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring"
+    },
+    {
+      "id": 14,
+      "title": "Longest Common Prefix",
+      "difficulty": "Easy",
+      "acceptance": "47.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix"
+    },
+    {
+      "id": 188,
+      "title": "Best Time to Buy and Sell Stock IV",
+      "difficulty": "Hard",
+      "acceptance": "50.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv"
+    },
+    {
+      "id": 739,
+      "title": "Daily Temperatures",
+      "difficulty": "Medium",
+      "acceptance": "68.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/daily-temperatures"
+    },
+    {
+      "id": 992,
+      "title": "Subarrays with K Different Integers",
+      "difficulty": "Hard",
+      "acceptance": "68.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/subarrays-with-k-different-integers"
+    },
+    {
+      "id": 974,
+      "title": "Subarray Sums Divisible by K",
+      "difficulty": "Medium",
+      "acceptance": "56.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-sums-divisible-by-k"
+    },
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+      "id": 394,
+      "title": "Decode String",
+      "difficulty": "Medium",
+      "acceptance": "62.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-string"
+    },
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 125,
+      "title": "Valid Palindrome",
+      "difficulty": "Easy",
+      "acceptance": "53.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome"
+    },
+    {
+      "id": 1505,
+      "title": "Minimum Possible Integer After at Most K Adjacent Swaps On Digits",
+      "difficulty": "Hard",
+      "acceptance": "41.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits"
+    },
+    {
+      "id": 93,
+      "title": "Restore IP Addresses",
+      "difficulty": "Medium",
+      "acceptance": "56.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/restore-ip-addresses"
+    }
+  ]
+}

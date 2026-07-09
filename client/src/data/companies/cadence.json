@@ -1,0 +1,69 @@
+{
+  "company": "Cadence",
+  "questions": [
+    {
+      "id": 463,
+      "title": "Island Perimeter",
+      "difficulty": "Easy",
+      "acceptance": "74.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/island-perimeter"
+    },
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 125,
+      "title": "Valid Palindrome",
+      "difficulty": "Easy",
+      "acceptance": "53.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome"
+    },
+    {
+      "id": 138,
+      "title": "Copy List with Random Pointer",
+      "difficulty": "Medium",
+      "acceptance": "62.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/copy-list-with-random-pointer"
+    },
+    {
+      "id": 25,
+      "title": "Reverse Nodes in k-Group",
+      "difficulty": "Hard",
+      "acceptance": "66.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-nodes-in-k-group"
+    },
+    {
+      "id": 42,
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "acceptance": "67.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water"
+    },
+    {
+      "id": 841,
+      "title": "Keys and Rooms",
+      "difficulty": "Medium",
+      "acceptance": "75.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/keys-and-rooms"
+    },
+    {
+      "id": 8,
+      "title": "String to Integer (atoi)",
+      "difficulty": "Medium",
+      "acceptance": "21.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/string-to-integer-atoi"
+    }
+  ]
+}

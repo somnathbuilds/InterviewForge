@@ -1,0 +1,125 @@
+{
+  "company": "Pocket Gems",
+  "questions": [
+    {
+      "id": 28,
+      "title": "Find the Index of the First Occurrence in a String",
+      "difficulty": "Easy",
+      "acceptance": "46.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string"
+    },
+    {
+      "id": 75,
+      "title": "Sort Colors",
+      "difficulty": "Medium",
+      "acceptance": "69.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors"
+    },
+    {
+      "id": 600,
+      "title": "Non-negative Integers without Consecutive Ones",
+      "difficulty": "Hard",
+      "acceptance": "42.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/non-negative-integers-without-consecutive-ones"
+    },
+    {
+      "id": 133,
+      "title": "Clone Graph",
+      "difficulty": "Medium",
+      "acceptance": "65.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/clone-graph"
+    },
+    {
+      "id": 139,
+      "title": "Word Break",
+      "difficulty": "Medium",
+      "acceptance": "49.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break"
+    },
+    {
+      "id": 692,
+      "title": "Top K Frequent Words",
+      "difficulty": "Medium",
+      "acceptance": "60.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-words"
+    },
+    {
+      "id": 214,
+      "title": "Shortest Palindrome",
+      "difficulty": "Hard",
+      "acceptance": "42.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-palindrome"
+    },
+    {
+      "id": 215,
+      "title": "Kth Largest Element in an Array",
+      "difficulty": "Medium",
+      "acceptance": "68.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array"
+    },
+    {
+      "id": 269,
+      "title": "Alien Dictionary",
+      "difficulty": "Hard",
+      "acceptance": "37.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/alien-dictionary"
+    },
+    {
+      "id": 772,
+      "title": "Basic Calculator III",
+      "difficulty": "Hard",
+      "acceptance": "53.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/basic-calculator-iii"
+    },
+    {
+      "id": 285,
+      "title": "Inorder Successor in BST",
+      "difficulty": "Medium",
+      "acceptance": "51.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/inorder-successor-in-bst"
+    },
+    {
+      "id": 347,
+      "title": "Top K Frequent Elements",
+      "difficulty": "Medium",
+      "acceptance": "66.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements"
+    },
+    {
+      "id": 380,
+      "title": "Insert Delete GetRandom O(1)",
+      "difficulty": "Medium",
+      "acceptance": "55.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+    },
+    {
+      "id": 424,
+      "title": "Longest Repeating Character Replacement",
+      "difficulty": "Medium",
+      "acceptance": "59.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-repeating-character-replacement"
+    },
+    {
+      "id": 442,
+      "title": "Find All Duplicates in an Array",
+      "difficulty": "Medium",
+      "acceptance": "76.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-duplicates-in-an-array"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "company": "Mcafee",
+  "questions": [
+    {
+      "id": 1777,
+      "title": "Product's Price for Each Store",
+      "difficulty": "Easy",
+      "acceptance": "82.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/products-price-for-each-store"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "company": "Intel",
+  "questions": [
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "44.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses"
+    },
+    {
+      "id": 42,
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "acceptance": "67.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water"
+    },
+    {
+      "id": 138,
+      "title": "Copy List with Random Pointer",
+      "difficulty": "Medium",
+      "acceptance": "62.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/copy-list-with-random-pointer"
+    },
+    {
+      "id": 151,
+      "title": "Reverse Words in a String",
+      "difficulty": "Medium",
+      "acceptance": "56.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-words-in-a-string"
+    },
+    {
+      "id": 200,
+      "title": "Number of Islands",
+      "difficulty": "Medium",
+      "acceptance": "64.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands"
+    },
+    {
+      "id": 204,
+      "title": "Count Primes",
+      "difficulty": "Medium",
+      "acceptance": "36.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-primes"
+    },
+    {
+      "id": 2526,
+      "title": "Find Consecutive Integers from a Data Stream",
+      "difficulty": "Medium",
+      "acceptance": "51.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream"
+    },
+    {
+      "id": 1614,
+      "title": "Maximum Nesting Depth of the Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "84.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 9,
+      "title": "Palindrome Number",
+      "difficulty": "Easy",
+      "acceptance": "60.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-number"
+    },
+    {
+      "id": 11,
+      "title": "Container With Most Water",
+      "difficulty": "Medium",
+      "acceptance": "60.0%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/container-with-most-water"
+    },
+    {
+      "id": 48,
+      "title": "Rotate Image",
+      "difficulty": "Medium",
+      "acceptance": "80.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image"
+    },
+    {
+      "id": 125,
+      "title": "Valid Palindrome",
+      "difficulty": "Easy",
+      "acceptance": "53.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome"
+    },
+    {
+      "id": 53,
+      "title": "Maximum Subarray",
+      "difficulty": "Medium",
+      "acceptance": "53.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray"
+    },
+    {
+      "id": 155,
+      "title": "Min Stack",
+      "difficulty": "Medium",
+      "acceptance": "58.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/min-stack"
+    },
+    {
+      "id": 238,
+      "title": "Product of Array Except Self",
+      "difficulty": "Medium",
+      "acceptance": "68.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self"
+    },
+    {
+      "id": 229,
+      "title": "Majority Element II",
+      "difficulty": "Medium",
+      "acceptance": "56.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element-ii"
+    },
+    {
+      "id": 234,
+      "title": "Palindrome Linked List",
+      "difficulty": "Easy",
+      "acceptance": "58.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list"
+    },
+    {
+      "id": 509,
+      "title": "Fibonacci Number",
+      "difficulty": "Easy",
+      "acceptance": "74.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number"
+    },
+    {
+      "id": 236,
+      "title": "Lowest Common Ancestor of a Binary Tree",
+      "difficulty": "Medium",
+      "acceptance": "69.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "company": "Mongodb",
+  "questions": [
+    {
+      "id": 57,
+      "title": "Insert Interval",
+      "difficulty": "Medium",
+      "acceptance": "45.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-interval"
+    },
+    {
+      "id": 1242,
+      "title": "Web Crawler Multithreaded",
+      "difficulty": "Medium",
+      "acceptance": "51.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/web-crawler-multithreaded"
+    },
+    {
+      "id": 617,
+      "title": "Merge Two Binary Trees",
+      "difficulty": "Easy",
+      "acceptance": "79.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-binary-trees"
+    },
+    {
+      "id": 33,
+      "title": "Search in Rotated Sorted Array",
+      "difficulty": "Medium",
+      "acceptance": "44.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+    },
+    {
+      "id": 139,
+      "title": "Word Break",
+      "difficulty": "Medium",
+      "acceptance": "49.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break"
+    },
+    {
+      "id": 2034,
+      "title": "Stock Price Fluctuation",
+      "difficulty": "Medium",
+      "acceptance": "49.0%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/stock-price-fluctuation"
+    },
+    {
+      "id": 23,
+      "title": "Merge k Sorted Lists",
+      "difficulty": "Hard",
+      "acceptance": "59.6%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists"
+    },
+    {
+      "id": 239,
+      "title": "Sliding Window Maximum",
+      "difficulty": "Hard",
+      "acceptance": "48.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum"
+    },
+    {
+      "id": 68,
+      "title": "Text Justification",
+      "difficulty": "Hard",
+      "acceptance": "51.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/text-justification"
+    },
+    {
+      "id": 349,
+      "title": "Intersection of Two Arrays",
+      "difficulty": "Easy",
+      "acceptance": "77.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays"
+    },
+    {
+      "id": 236,
+      "title": "Lowest Common Ancestor of a Binary Tree",
+      "difficulty": "Medium",
+      "acceptance": "69.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree"
+    },
+    {
+      "id": 2759,
+      "title": "Convert JSON String to Object",
+      "difficulty": "Hard",
+      "acceptance": "62.0%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-json-string-to-object"
+    },
+    {
+      "id": 208,
+      "title": "Implement Trie (Prefix Tree)",
+      "difficulty": "Medium",
+      "acceptance": "69.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/implement-trie-prefix-tree"
+    },
+    {
+      "id": 642,
+      "title": "Design Search Autocomplete System",
+      "difficulty": "Hard",
+      "acceptance": "50.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-search-autocomplete-system"
+    },
+    {
+      "id": 1146,
+      "title": "Snapshot Array",
+      "difficulty": "Medium",
+      "acceptance": "36.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/snapshot-array"
+    },
+    {
+      "id": 210,
+      "title": "Course Schedule II",
+      "difficulty": "Medium",
+      "acceptance": "55.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii"
+    },
+    {
+      "id": 1650,
+      "title": "Lowest Common Ancestor of a Binary Tree III",
+      "difficulty": "Medium",
+      "acceptance": "83.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii"
+    },
+    {
+      "id": 443,
+      "title": "String Compression",
+      "difficulty": "Medium",
+      "acceptance": "60.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/string-compression"
+    },
+    {
+      "id": 140,
+      "title": "Word Break II",
+      "difficulty": "Hard",
+      "acceptance": "55.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break-ii"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 21,
+      "title": "Merge Two Sorted Lists",
+      "difficulty": "Easy",
+      "acceptance": "68.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists"
+    },
+    {
+      "id": 133,
+      "title": "Clone Graph",
+      "difficulty": "Medium",
+      "acceptance": "65.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/clone-graph"
+    },
+    {
+      "id": 981,
+      "title": "Time Based Key-Value Store",
+      "difficulty": "Medium",
+      "acceptance": "49.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/time-based-key-value-store"
+    }
+  ]
+}

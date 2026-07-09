@@ -1,0 +1,61 @@
+{
+  "company": "Virtusa",
+  "questions": [
+    {
+      "id": 3039,
+      "title": "Apply Operations to Make String Empty",
+      "difficulty": "Medium",
+      "acceptance": "57.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/apply-operations-to-make-string-empty"
+    },
+    {
+      "id": 118,
+      "title": "Pascal's Triangle",
+      "difficulty": "Easy",
+      "acceptance": "78.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle"
+    },
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 13,
+      "title": "Roman to Integer",
+      "difficulty": "Easy",
+      "acceptance": "66.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/roman-to-integer"
+    },
+    {
+      "id": 189,
+      "title": "Rotate Array",
+      "difficulty": "Medium",
+      "acceptance": "44.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array"
+    },
+    {
+      "id": 14,
+      "title": "Longest Common Prefix",
+      "difficulty": "Easy",
+      "acceptance": "47.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "company": "Criteo",
+  "questions": [
+    {
+      "id": 349,
+      "title": "Intersection of Two Arrays",
+      "difficulty": "Easy",
+      "acceptance": "77.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays"
+    },
+    {
+      "id": 733,
+      "title": "Flood Fill",
+      "difficulty": "Easy",
+      "acceptance": "68.3%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/flood-fill"
+    },
+    {
+      "id": 383,
+      "title": "Ransom Note",
+      "difficulty": "Easy",
+      "acceptance": "66.0%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/ransom-note"
+    },
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 33,
+      "title": "Search in Rotated Sorted Array",
+      "difficulty": "Medium",
+      "acceptance": "44.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+    },
+    {
+      "id": 528,
+      "title": "Random Pick with Weight",
+      "difficulty": "Medium",
+      "acceptance": "49.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/random-pick-with-weight"
+    },
+    {
+      "id": 53,
+      "title": "Maximum Subarray",
+      "difficulty": "Medium",
+      "acceptance": "53.3%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray"
+    },
+    {
+      "id": 350,
+      "title": "Intersection of Two Arrays II",
+      "difficulty": "Easy",
+      "acceptance": "59.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays-ii"
+    },
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "44.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses"
+    },
+    {
+      "id": 645,
+      "title": "Set Mismatch",
+      "difficulty": "Easy",
+      "acceptance": "43.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/set-mismatch"
+    }
+  ]
+}

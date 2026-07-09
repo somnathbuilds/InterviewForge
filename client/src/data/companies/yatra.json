@@ -1,0 +1,13 @@
+{
+  "company": "Yatra",
+  "questions": [
+    {
+      "id": 713,
+      "title": "Subarray Product Less Than K",
+      "difficulty": "Medium",
+      "acceptance": "54.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-product-less-than-k"
+    }
+  ]
+}

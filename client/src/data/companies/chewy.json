@@ -1,0 +1,53 @@
+{
+  "company": "Chewy",
+  "questions": [
+    {
+      "id": 347,
+      "title": "Top K Frequent Elements",
+      "difficulty": "Medium",
+      "acceptance": "66.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements"
+    },
+    {
+      "id": 348,
+      "title": "Design Tic-Tac-Toe",
+      "difficulty": "Medium",
+      "acceptance": "58.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-tic-tac-toe"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "44.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses"
+    },
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals"
+    },
+    {
+      "id": 283,
+      "title": "Move Zeroes",
+      "difficulty": "Easy",
+      "acceptance": "63.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/move-zeroes"
+    }
+  ]
+}

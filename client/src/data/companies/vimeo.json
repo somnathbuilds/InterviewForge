@@ -1,0 +1,61 @@
+{
+  "company": "Vimeo",
+  "questions": [
+    {
+      "id": 1803,
+      "title": "Count Pairs With XOR in a Range",
+      "difficulty": "Hard",
+      "acceptance": "46.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-pairs-with-xor-in-a-range"
+    },
+    {
+      "id": 1042,
+      "title": "Flower Planting With No Adjacent",
+      "difficulty": "Medium",
+      "acceptance": "53.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/flower-planting-with-no-adjacent"
+    },
+    {
+      "id": 53,
+      "title": "Maximum Subarray",
+      "difficulty": "Medium",
+      "acceptance": "53.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray"
+    },
+    {
+      "id": 15,
+      "title": "3Sum",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 155,
+      "title": "Min Stack",
+      "difficulty": "Medium",
+      "acceptance": "58.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/min-stack"
+    },
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "44.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses"
+    }
+  ]
+}

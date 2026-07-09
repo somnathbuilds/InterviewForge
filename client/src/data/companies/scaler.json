@@ -1,0 +1,29 @@
+{
+  "company": "Scaler",
+  "questions": [
+    {
+      "id": 132,
+      "title": "Palindrome Partitioning II",
+      "difficulty": "Hard",
+      "acceptance": "37.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-partitioning-ii"
+    },
+    {
+      "id": 131,
+      "title": "Palindrome Partitioning",
+      "difficulty": "Medium",
+      "acceptance": "74.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-partitioning"
+    },
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "company": "Ge Healthcare",
+  "questions": [
+    {
+      "id": 1929,
+      "title": "Concatenation of Array",
+      "difficulty": "Easy",
+      "acceptance": "90.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenation-of-array"
+    },
+    {
+      "id": 399,
+      "title": "Evaluate Division",
+      "difficulty": "Medium",
+      "acceptance": "64.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-division"
+    },
+    {
+      "id": 4,
+      "title": "Median of Two Sorted Arrays",
+      "difficulty": "Hard",
+      "acceptance": "46.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays"
+    }
+  ]
+}

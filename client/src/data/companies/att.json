@@ -1,0 +1,53 @@
+{
+  "company": "Att",
+  "questions": [
+    {
+      "id": 611,
+      "title": "Valid Triangle Number",
+      "difficulty": "Medium",
+      "acceptance": "56.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-triangle-number"
+    },
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "44.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses"
+    },
+    {
+      "id": 48,
+      "title": "Rotate Image",
+      "difficulty": "Medium",
+      "acceptance": "80.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image"
+    },
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+      "id": 1695,
+      "title": "Maximum Erasure Value",
+      "difficulty": "Medium",
+      "acceptance": "64.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-erasure-value"
+    },
+    {
+      "id": 2964,
+      "title": "Number of Divisible Triplet Sums",
+      "difficulty": "Medium",
+      "acceptance": "67.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-divisible-triplet-sums"
+    }
+  ]
+}

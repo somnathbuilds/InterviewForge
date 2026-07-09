@@ -1,0 +1,13 @@
+{
+  "company": "Spacex",
+  "questions": [
+    {
+      "id": 64,
+      "title": "Minimum Path Sum",
+      "difficulty": "Medium",
+      "acceptance": "68.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-path-sum"
+    }
+  ]
+}

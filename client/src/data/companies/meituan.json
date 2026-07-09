@@ -1,0 +1,13 @@
+{
+  "company": "Meituan",
+  "questions": [
+    {
+      "id": 2980,
+      "title": "Check if Bitwise OR Has Trailing Zeros",
+      "difficulty": "Easy",
+      "acceptance": "71.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros"
+    }
+  ]
+}

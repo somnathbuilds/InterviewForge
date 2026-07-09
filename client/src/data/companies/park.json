@@ -1,0 +1,21 @@
+{
+  "company": "Park",
+  "questions": [
+    {
+      "id": 49,
+      "title": "Group Anagrams",
+      "difficulty": "Medium",
+      "acceptance": "72.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams"
+    },
+    {
+      "id": 402,
+      "title": "Remove K Digits",
+      "difficulty": "Medium",
+      "acceptance": "36.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-k-digits"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "company": "Fastenal",
+  "questions": [
+    {
+      "id": 726,
+      "title": "Number of Atoms",
+      "difficulty": "Hard",
+      "acceptance": "65.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-atoms"
+    }
+  ]
+}

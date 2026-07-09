@@ -1,0 +1,13 @@
+{
+  "company": "Wealthfront",
+  "questions": [
+    {
+      "id": 2186,
+      "title": "Minimum Number of Steps to Make Two Strings Anagram II",
+      "difficulty": "Medium",
+      "acceptance": "73.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii"
+    }
+  ]
+}

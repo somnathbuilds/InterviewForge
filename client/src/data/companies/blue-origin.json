@@ -1,0 +1,21 @@
+{
+  "company": "Blue Origin",
+  "questions": [
+    {
+      "id": 1041,
+      "title": "Robot Bounded In Circle",
+      "difficulty": "Medium",
+      "acceptance": "56.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/robot-bounded-in-circle"
+    },
+    {
+      "id": 696,
+      "title": "Count Binary Substrings",
+      "difficulty": "Easy",
+      "acceptance": "70.4%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-binary-substrings"
+    }
+  ]
+}

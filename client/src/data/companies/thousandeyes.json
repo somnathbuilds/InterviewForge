@@ -1,0 +1,29 @@
+{
+  "company": "Thousandeyes",
+  "questions": [
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 42,
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "acceptance": "67.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water"
+    },
+    {
+      "id": 238,
+      "title": "Product of Array Except Self",
+      "difficulty": "Medium",
+      "acceptance": "68.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self"
+    }
+  ]
+}

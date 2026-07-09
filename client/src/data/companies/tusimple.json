@@ -1,0 +1,37 @@
+{
+  "company": "Tusimple",
+  "questions": [
+    {
+      "id": 2585,
+      "title": "Number of Ways to Earn Points",
+      "difficulty": "Hard",
+      "acceptance": "59.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-earn-points"
+    },
+    {
+      "id": 2539,
+      "title": "Count the Number of Good Subsequences",
+      "difficulty": "Medium",
+      "acceptance": "48.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-good-subsequences"
+    },
+    {
+      "id": 2121,
+      "title": "Intervals Between Identical Elements",
+      "difficulty": "Medium",
+      "acceptance": "48.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/intervals-between-identical-elements"
+    },
+    {
+      "id": 2151,
+      "title": "Maximum Good People Based on Statements",
+      "difficulty": "Hard",
+      "acceptance": "52.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-good-people-based-on-statements"
+    }
+  ]
+}

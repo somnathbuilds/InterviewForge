@@ -1,0 +1,101 @@
+{
+  "company": "Hubspot",
+  "questions": [
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 1297,
+      "title": "Maximum Number of Occurrences of a Substring",
+      "difficulty": "Medium",
+      "acceptance": "54.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring"
+    },
+    {
+      "id": 21,
+      "title": "Merge Two Sorted Lists",
+      "difficulty": "Easy",
+      "acceptance": "68.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists"
+    },
+    {
+      "id": 88,
+      "title": "Merge Sorted Array",
+      "difficulty": "Easy",
+      "acceptance": "54.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array"
+    },
+    {
+      "id": 347,
+      "title": "Top K Frequent Elements",
+      "difficulty": "Medium",
+      "acceptance": "66.4%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements"
+    },
+    {
+      "id": 23,
+      "title": "Merge k Sorted Lists",
+      "difficulty": "Hard",
+      "acceptance": "59.6%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists"
+    },
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals"
+    },
+    {
+      "id": 2386,
+      "title": "Find the K-Sum of an Array",
+      "difficulty": "Hard",
+      "acceptance": "41.5%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-k-sum-of-an-array"
+    },
+    {
+      "id": 253,
+      "title": "Meeting Rooms II",
+      "difficulty": "Medium",
+      "acceptance": "52.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/meeting-rooms-ii"
+    },
+    {
+      "id": 277,
+      "title": "Find the Celebrity",
+      "difficulty": "Medium",
+      "acceptance": "49.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-celebrity"
+    },
+    {
+      "id": 2043,
+      "title": "Simple Bank System",
+      "difficulty": "Medium",
+      "acceptance": "69.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/simple-bank-system"
+    },
+    {
+      "id": 2623,
+      "title": "Memoize",
+      "difficulty": "Medium",
+      "acceptance": "65.0%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/memoize"
+    }
+  ]
+}

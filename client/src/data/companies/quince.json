@@ -1,0 +1,21 @@
+{
+  "company": "Quince",
+  "questions": [
+    {
+      "id": 1911,
+      "title": "Maximum Alternating Subsequence Sum",
+      "difficulty": "Medium",
+      "acceptance": "59.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-alternating-subsequence-sum"
+    },
+    {
+      "id": 875,
+      "title": "Koko Eating Bananas",
+      "difficulty": "Medium",
+      "acceptance": "50.0%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/koko-eating-bananas"
+    }
+  ]
+}

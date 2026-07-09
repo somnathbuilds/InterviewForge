@@ -1,0 +1,21 @@
+{
+  "company": "Cruise Automation",
+  "questions": [
+    {
+      "id": 1258,
+      "title": "Synonymous Sentences",
+      "difficulty": "Medium",
+      "acceptance": "57.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/synonymous-sentences"
+    },
+    {
+      "id": 207,
+      "title": "Course Schedule",
+      "difficulty": "Medium",
+      "acceptance": "51.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule"
+    }
+  ]
+}

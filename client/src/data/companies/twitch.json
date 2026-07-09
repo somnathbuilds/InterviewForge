@@ -1,0 +1,61 @@
+{
+  "company": "Twitch",
+  "questions": [
+    {
+      "id": 1435,
+      "title": "Create a Session Bar Chart",
+      "difficulty": "Easy",
+      "acceptance": "74.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/create-a-session-bar-chart"
+    },
+    {
+      "id": 1500,
+      "title": "Design a File Sharing System",
+      "difficulty": "Medium",
+      "acceptance": "41.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-a-file-sharing-system"
+    },
+    {
+      "id": 1230,
+      "title": "Toss Strange Coins",
+      "difficulty": "Medium",
+      "acceptance": "58.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/toss-strange-coins"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 345,
+      "title": "Reverse Vowels of a String",
+      "difficulty": "Easy",
+      "acceptance": "61.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-vowels-of-a-string"
+    },
+    {
+      "id": 295,
+      "title": "Find Median from Data Stream",
+      "difficulty": "Hard",
+      "acceptance": "54.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-median-from-data-stream"
+    },
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "company": "Gilt Groupe",
+  "questions": [
+    {
+      "id": 623,
+      "title": "Add One Row to Tree",
+      "difficulty": "Medium",
+      "acceptance": "64.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/add-one-row-to-tree"
+    }
+  ]
+}

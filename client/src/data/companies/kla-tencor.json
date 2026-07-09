@@ -1,0 +1,37 @@
+{
+  "company": "Kla Tencor",
+  "questions": [
+    {
+      "id": 1192,
+      "title": "Critical Connections in a Network",
+      "difficulty": "Hard",
+      "acceptance": "59.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/critical-connections-in-a-network"
+    },
+    {
+      "id": 460,
+      "title": "LFU Cache",
+      "difficulty": "Hard",
+      "acceptance": "49.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/lfu-cache"
+    },
+    {
+      "id": 780,
+      "title": "Reaching Points",
+      "difficulty": "Hard",
+      "acceptance": "34.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/reaching-points"
+    },
+    {
+      "id": 2079,
+      "title": "Watering Plants",
+      "difficulty": "Medium",
+      "acceptance": "79.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/watering-plants"
+    }
+  ]
+}

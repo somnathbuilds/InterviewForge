@@ -1,0 +1,93 @@
+{
+  "company": "Stripe",
+  "questions": [
+    {
+      "id": 2483,
+      "title": "Minimum Penalty for a Shop",
+      "difficulty": "Medium",
+      "acceptance": "71.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-penalty-for-a-shop"
+    },
+    {
+      "id": 2050,
+      "title": "Parallel Courses III",
+      "difficulty": "Hard",
+      "acceptance": "66.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/parallel-courses-iii"
+    },
+    {
+      "id": 161,
+      "title": "One Edit Distance",
+      "difficulty": "Medium",
+      "acceptance": "34.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/one-edit-distance"
+    },
+    {
+      "id": 787,
+      "title": "Cheapest Flights Within K Stops",
+      "difficulty": "Medium",
+      "acceptance": "41.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/cheapest-flights-within-k-stops"
+    },
+    {
+      "id": 2303,
+      "title": "Calculate Amount Paid in Taxes",
+      "difficulty": "Easy",
+      "acceptance": "69.3%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/calculate-amount-paid-in-taxes"
+    },
+    {
+      "id": 2768,
+      "title": "Number of Black Blocks",
+      "difficulty": "Medium",
+      "acceptance": "41.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-black-blocks"
+    },
+    {
+      "id": 1604,
+      "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+      "difficulty": "Medium",
+      "acceptance": "46.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period"
+    },
+    {
+      "id": 399,
+      "title": "Evaluate Division",
+      "difficulty": "Medium",
+      "acceptance": "64.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-division"
+    },
+    {
+      "id": 1087,
+      "title": "Brace Expansion",
+      "difficulty": "Medium",
+      "acceptance": "66.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/brace-expansion"
+    },
+    {
+      "id": 1169,
+      "title": "Invalid Transactions",
+      "difficulty": "Medium",
+      "acceptance": "32.3%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/invalid-transactions"
+    },
+    {
+      "id": 2043,
+      "title": "Simple Bank System",
+      "difficulty": "Medium",
+      "acceptance": "69.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/simple-bank-system"
+    }
+  ]
+}

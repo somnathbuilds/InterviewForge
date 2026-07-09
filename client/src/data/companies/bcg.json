@@ -1,0 +1,93 @@
+{
+  "company": "Bcg",
+  "questions": [
+    {
+      "id": 1457,
+      "title": "Pseudo-Palindromic Paths in a Binary Tree",
+      "difficulty": "Medium",
+      "acceptance": "68.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree"
+    },
+    {
+      "id": 68,
+      "title": "Text Justification",
+      "difficulty": "Hard",
+      "acceptance": "51.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/text-justification"
+    },
+    {
+      "id": 9,
+      "title": "Palindrome Number",
+      "difficulty": "Easy",
+      "acceptance": "60.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-number"
+    },
+    {
+      "id": 3433,
+      "title": "Count Mentions Per User",
+      "difficulty": "Medium",
+      "acceptance": "50.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-mentions-per-user"
+    },
+    {
+      "id": 621,
+      "title": "Task Scheduler",
+      "difficulty": "Medium",
+      "acceptance": "63.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/task-scheduler"
+    },
+    {
+      "id": 209,
+      "title": "Minimum Size Subarray Sum",
+      "difficulty": "Medium",
+      "acceptance": "51.7%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-size-subarray-sum"
+    },
+    {
+      "id": 185,
+      "title": "Department Top Three Salaries",
+      "difficulty": "Hard",
+      "acceptance": "60.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/department-top-three-salaries"
+    },
+    {
+      "id": 125,
+      "title": "Valid Palindrome",
+      "difficulty": "Easy",
+      "acceptance": "53.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome"
+    },
+    {
+      "id": 3447,
+      "title": "Assign Elements to Groups with Constraints",
+      "difficulty": "Medium",
+      "acceptance": "27.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/assign-elements-to-groups-with-constraints"
+    },
+    {
+      "id": 3452,
+      "title": "Sum of Good Numbers",
+      "difficulty": "Easy",
+      "acceptance": "69.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-good-numbers"
+    },
+    {
+      "id": 49,
+      "title": "Group Anagrams",
+      "difficulty": "Medium",
+      "acceptance": "72.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams"
+    }
+  ]
+}

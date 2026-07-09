@@ -1,0 +1,165 @@
+{
+  "company": "Accolite",
+  "questions": [
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+      "id": 5,
+      "title": "Longest Palindromic Substring",
+      "difficulty": "Medium",
+      "acceptance": "37.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring"
+    },
+    {
+      "id": 2422,
+      "title": "Merge Operations to Turn Array Into a Palindrome",
+      "difficulty": "Medium",
+      "acceptance": "68.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome"
+    },
+    {
+      "id": 70,
+      "title": "Climbing Stairs",
+      "difficulty": "Easy",
+      "acceptance": "54.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs"
+    },
+    {
+      "id": 1234,
+      "title": "Replace the Substring for Balanced String",
+      "difficulty": "Medium",
+      "acceptance": "40.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/replace-the-substring-for-balanced-string"
+    },
+    {
+      "id": 1143,
+      "title": "Longest Common Subsequence",
+      "difficulty": "Medium",
+      "acceptance": "59.2%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-subsequence"
+    },
+    {
+      "id": 80,
+      "title": "Remove Duplicates from Sorted Array II",
+      "difficulty": "Medium",
+      "acceptance": "64.7%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii"
+    },
+    {
+      "id": 11,
+      "title": "Container With Most Water",
+      "difficulty": "Medium",
+      "acceptance": "60.0%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/container-with-most-water"
+    },
+    {
+      "id": 735,
+      "title": "Asteroid Collision",
+      "difficulty": "Medium",
+      "acceptance": "47.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/asteroid-collision"
+    },
+    {
+      "id": 121,
+      "title": "Best Time to Buy and Sell Stock",
+      "difficulty": "Easy",
+      "acceptance": "56.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+    },
+    {
+      "id": 2,
+      "title": "Add Two Numbers",
+      "difficulty": "Medium",
+      "acceptance": "48.5%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers"
+    },
+    {
+      "id": 1654,
+      "title": "Minimum Jumps to Reach Home",
+      "difficulty": "Medium",
+      "acceptance": "30.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-jumps-to-reach-home"
+    },
+    {
+      "id": 134,
+      "title": "Gas Station",
+      "difficulty": "Medium",
+      "acceptance": "48.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/gas-station"
+    },
+    {
+      "id": 321,
+      "title": "Create Maximum Number",
+      "difficulty": "Hard",
+      "acceptance": "35.5%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/create-maximum-number"
+    },
+    {
+      "id": 49,
+      "title": "Group Anagrams",
+      "difficulty": "Medium",
+      "acceptance": "72.6%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams"
+    },
+    {
+      "id": 53,
+      "title": "Maximum Subarray",
+      "difficulty": "Medium",
+      "acceptance": "53.3%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray"
+    },
+    {
+      "id": 322,
+      "title": "Coin Change",
+      "difficulty": "Medium",
+      "acceptance": "48.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/coin-change"
+    },
+    {
+      "id": 3819,
+      "title": "Rotate Non Negative Elements",
+      "difficulty": "Medium",
+      "acceptance": "48.0%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-non-negative-elements"
+    },
+    {
+      "id": 283,
+      "title": "Move Zeroes",
+      "difficulty": "Easy",
+      "acceptance": "63.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/move-zeroes"
+    }
+  ]
+}

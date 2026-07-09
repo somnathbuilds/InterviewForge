@@ -1,0 +1,13 @@
+{
+  "company": "Purplle",
+  "questions": [
+    {
+      "id": 2862,
+      "title": "Maximum Element-Sum of a Complete Subset of Indices",
+      "difficulty": "Hard",
+      "acceptance": "43.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-element-sum-of-a-complete-subset-of-indices"
+    }
+  ]
+}

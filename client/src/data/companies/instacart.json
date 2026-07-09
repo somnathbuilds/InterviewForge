@@ -1,0 +1,77 @@
+{
+  "company": "Instacart",
+  "questions": [
+    {
+      "id": 2133,
+      "title": "Check if Every Row and Column Contains All Numbers",
+      "difficulty": "Easy",
+      "acceptance": "54.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers"
+    },
+    {
+      "id": 977,
+      "title": "Squares of a Sorted Array",
+      "difficulty": "Easy",
+      "acceptance": "73.8%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/squares-of-a-sorted-array"
+    },
+    {
+      "id": 981,
+      "title": "Time Based Key-Value Store",
+      "difficulty": "Medium",
+      "acceptance": "49.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/time-based-key-value-store"
+    },
+    {
+      "id": 34,
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "difficulty": "Medium",
+      "acceptance": "48.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array"
+    },
+    {
+      "id": 44,
+      "title": "Wildcard Matching",
+      "difficulty": "Hard",
+      "acceptance": "32.0%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/wildcard-matching"
+    },
+    {
+      "id": 1701,
+      "title": "Average Waiting Time",
+      "difficulty": "Medium",
+      "acceptance": "73.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/average-waiting-time"
+    },
+    {
+      "id": 3043,
+      "title": "Find the Length of the Longest Common Prefix",
+      "difficulty": "Medium",
+      "acceptance": "62.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix"
+    },
+    {
+      "id": 2043,
+      "title": "Simple Bank System",
+      "difficulty": "Medium",
+      "acceptance": "69.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/simple-bank-system"
+    },
+    {
+      "id": 49,
+      "title": "Group Anagrams",
+      "difficulty": "Medium",
+      "acceptance": "72.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams"
+    }
+  ]
+}

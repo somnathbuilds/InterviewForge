@@ -1,0 +1,13 @@
+{
+  "company": "Okx",
+  "questions": [
+    {
+      "id": 200,
+      "title": "Number of Islands",
+      "difficulty": "Medium",
+      "acceptance": "64.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands"
+    }
+  ]
+}

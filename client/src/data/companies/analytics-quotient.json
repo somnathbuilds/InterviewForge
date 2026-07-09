@@ -1,0 +1,21 @@
+{
+  "company": "Analytics Quotient",
+  "questions": [
+    {
+      "id": 2205,
+      "title": "The Number of Users That Are Eligible for Discount",
+      "difficulty": "Easy",
+      "acceptance": "50.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/the-number-of-users-that-are-eligible-for-discount"
+    },
+    {
+      "id": 2230,
+      "title": "The Users That Are Eligible for Discount",
+      "difficulty": "Easy",
+      "acceptance": "50.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/the-users-that-are-eligible-for-discount"
+    }
+  ]
+}

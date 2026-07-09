@@ -1,0 +1,85 @@
+{
+  "company": "Zs Associates",
+  "questions": [
+    {
+      "id": 594,
+      "title": "Longest Harmonious Subsequence",
+      "difficulty": "Easy",
+      "acceptance": "64.7%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-harmonious-subsequence"
+    },
+    {
+      "id": 1139,
+      "title": "Largest 1-Bordered Square",
+      "difficulty": "Medium",
+      "acceptance": "52.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-1-bordered-square"
+    },
+    {
+      "id": 177,
+      "title": "Nth Highest Salary",
+      "difficulty": "Medium",
+      "acceptance": "39.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/nth-highest-salary"
+    },
+    {
+      "id": 238,
+      "title": "Product of Array Except Self",
+      "difficulty": "Medium",
+      "acceptance": "68.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self"
+    },
+    {
+      "id": 176,
+      "title": "Second Highest Salary",
+      "difficulty": "Medium",
+      "acceptance": "47.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/second-highest-salary"
+    },
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "44.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses"
+    },
+    {
+      "id": 5,
+      "title": "Longest Palindromic Substring",
+      "difficulty": "Medium",
+      "acceptance": "37.8%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring"
+    },
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+      "id": 570,
+      "title": "Managers with at Least 5 Direct Reports",
+      "difficulty": "Medium",
+      "acceptance": "49.0%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports"
+    },
+    {
+      "id": 907,
+      "title": "Sum of Subarray Minimums",
+      "difficulty": "Medium",
+      "acceptance": "38.6%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-subarray-minimums"
+    }
+  ]
+}

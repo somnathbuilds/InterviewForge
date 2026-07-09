@@ -1,0 +1,13 @@
+{
+  "company": "Dtcc",
+  "questions": [
+    {
+      "id": 3012,
+      "title": "Minimize Length of Array Using Operations",
+      "difficulty": "Medium",
+      "acceptance": "35.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimize-length-of-array-using-operations"
+    }
+  ]
+}

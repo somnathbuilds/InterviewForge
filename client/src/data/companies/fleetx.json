@@ -1,0 +1,13 @@
+{
+  "company": "Fleetx",
+  "questions": [
+    {
+      "id": 1744,
+      "title": "Can You Eat Your Favorite Candy on Your Favorite Day?",
+      "difficulty": "Medium",
+      "acceptance": "36.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day"
+    }
+  ]
+}

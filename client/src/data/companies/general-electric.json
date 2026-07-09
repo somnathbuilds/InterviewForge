@@ -1,0 +1,13 @@
+{
+  "company": "General Electric",
+  "questions": [
+    {
+      "id": 1751,
+      "title": "Maximum Number of Events That Can Be Attended II",
+      "difficulty": "Hard",
+      "acceptance": "63.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii"
+    }
+  ]
+}

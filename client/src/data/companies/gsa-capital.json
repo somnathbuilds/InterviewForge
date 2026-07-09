@@ -1,0 +1,21 @@
+{
+  "company": "Gsa Capital",
+  "questions": [
+    {
+      "id": 2462,
+      "title": "Total Cost to Hire K Workers",
+      "difficulty": "Medium",
+      "acceptance": "43.6%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/total-cost-to-hire-k-workers"
+    },
+    {
+      "id": 221,
+      "title": "Maximal Square",
+      "difficulty": "Medium",
+      "acceptance": "50.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximal-square"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "company": "Gainsight",
+  "questions": [
+    {
+      "id": 33,
+      "title": "Search in Rotated Sorted Array",
+      "difficulty": "Medium",
+      "acceptance": "44.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+    }
+  ]
+}

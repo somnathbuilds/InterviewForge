@@ -1,0 +1,109 @@
+{
+  "company": "Nike",
+  "questions": [
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+      "id": 202,
+      "title": "Happy Number",
+      "difficulty": "Easy",
+      "acceptance": "59.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/happy-number"
+    },
+    {
+      "id": 498,
+      "title": "Diagonal Traverse",
+      "difficulty": "Medium",
+      "acceptance": "67.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/diagonal-traverse"
+    },
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "44.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses"
+    },
+    {
+      "id": 53,
+      "title": "Maximum Subarray",
+      "difficulty": "Medium",
+      "acceptance": "53.3%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray"
+    },
+    {
+      "id": 2642,
+      "title": "Design Graph With Shortest Path Calculator",
+      "difficulty": "Hard",
+      "acceptance": "65.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-graph-with-shortest-path-calculator"
+    },
+    {
+      "id": 155,
+      "title": "Min Stack",
+      "difficulty": "Medium",
+      "acceptance": "58.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/min-stack"
+    },
+    {
+      "id": 605,
+      "title": "Can Place Flowers",
+      "difficulty": "Easy",
+      "acceptance": "29.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/can-place-flowers"
+    },
+    {
+      "id": 31,
+      "title": "Next Permutation",
+      "difficulty": "Medium",
+      "acceptance": "45.3%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/next-permutation"
+    },
+    {
+      "id": 122,
+      "title": "Best Time to Buy and Sell Stock II",
+      "difficulty": "Medium",
+      "acceptance": "71.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii"
+    },
+    {
+      "id": 32,
+      "title": "Longest Valid Parentheses",
+      "difficulty": "Hard",
+      "acceptance": "38.8%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-valid-parentheses"
+    },
+    {
+      "id": 55,
+      "title": "Jump Game",
+      "difficulty": "Medium",
+      "acceptance": "40.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game"
+    },
+    {
+      "id": 287,
+      "title": "Find the Duplicate Number",
+      "difficulty": "Medium",
+      "acceptance": "64.3%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-duplicate-number"
+    }
+  ]
+}

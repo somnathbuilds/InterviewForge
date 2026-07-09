@@ -1,0 +1,21 @@
+{
+  "company": "Luxoft",
+  "questions": [
+    {
+      "id": 206,
+      "title": "Reverse Linked List",
+      "difficulty": "Easy",
+      "acceptance": "80.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list"
+    },
+    {
+      "id": 9,
+      "title": "Palindrome Number",
+      "difficulty": "Easy",
+      "acceptance": "60.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-number"
+    }
+  ]
+}

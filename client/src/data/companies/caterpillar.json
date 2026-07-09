@@ -1,0 +1,13 @@
+{
+  "company": "Caterpillar",
+  "questions": [
+    {
+      "id": 14,
+      "title": "Longest Common Prefix",
+      "difficulty": "Easy",
+      "acceptance": "47.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix"
+    }
+  ]
+}

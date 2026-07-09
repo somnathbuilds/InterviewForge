@@ -1,0 +1,53 @@
+{
+  "company": "Lucid",
+  "questions": [
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "44.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses"
+    },
+    {
+      "id": 2603,
+      "title": "Collect Coins in a Tree",
+      "difficulty": "Hard",
+      "acceptance": "40.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/collect-coins-in-a-tree"
+    },
+    {
+      "id": 1742,
+      "title": "Maximum Number of Balls in a Box",
+      "difficulty": "Easy",
+      "acceptance": "74.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-balls-in-a-box"
+    },
+    {
+      "id": 155,
+      "title": "Min Stack",
+      "difficulty": "Medium",
+      "acceptance": "58.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/min-stack"
+    },
+    {
+      "id": 236,
+      "title": "Lowest Common Ancestor of a Binary Tree",
+      "difficulty": "Medium",
+      "acceptance": "69.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree"
+    },
+    {
+      "id": 200,
+      "title": "Number of Islands",
+      "difficulty": "Medium",
+      "acceptance": "64.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands"
+    }
+  ]
+}

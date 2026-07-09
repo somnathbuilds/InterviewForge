@@ -1,0 +1,261 @@
+{
+  "company": "Medianet",
+  "questions": [
+    {
+      "id": 1938,
+      "title": "Maximum Genetic Difference Query",
+      "difficulty": "Hard",
+      "acceptance": "47.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-genetic-difference-query"
+    },
+    {
+      "id": 1959,
+      "title": "Minimum Total Space Wasted With K Resizing Operations",
+      "difficulty": "Medium",
+      "acceptance": "43.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations"
+    },
+    {
+      "id": 42,
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "acceptance": "67.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water"
+    },
+    {
+      "id": 2473,
+      "title": "Minimum Cost to Buy Apples",
+      "difficulty": "Medium",
+      "acceptance": "67.3%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-buy-apples"
+    },
+    {
+      "id": 2479,
+      "title": "Maximum XOR of Two Non-Overlapping Subtrees",
+      "difficulty": "Hard",
+      "acceptance": "52.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees"
+    },
+    {
+      "id": 2538,
+      "title": "Difference Between Maximum and Minimum Price Sum",
+      "difficulty": "Hard",
+      "acceptance": "33.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum"
+    },
+    {
+      "id": 2852,
+      "title": "Sum of Remoteness of All Cells",
+      "difficulty": "Medium",
+      "acceptance": "70.7%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-remoteness-of-all-cells"
+    },
+    {
+      "id": 2874,
+      "title": "Maximum Value of an Ordered Triplet II",
+      "difficulty": "Medium",
+      "acceptance": "56.4%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii"
+    },
+    {
+      "id": 2873,
+      "title": "Maximum Value of an Ordered Triplet I",
+      "difficulty": "Easy",
+      "acceptance": "58.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i"
+    },
+    {
+      "id": 2572,
+      "title": "Count the Number of Square-Free Subsets",
+      "difficulty": "Medium",
+      "acceptance": "26.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-square-free-subsets"
+    },
+    {
+      "id": 1642,
+      "title": "Furthest Building You Can Reach",
+      "difficulty": "Medium",
+      "acceptance": "50.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/furthest-building-you-can-reach"
+    },
+    {
+      "id": 1222,
+      "title": "Queens That Can Attack the King",
+      "difficulty": "Medium",
+      "acceptance": "72.7%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/queens-that-can-attack-the-king"
+    },
+    {
+      "id": 1266,
+      "title": "Minimum Time Visiting All Points",
+      "difficulty": "Easy",
+      "acceptance": "84.8%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-time-visiting-all-points"
+    },
+    {
+      "id": 1787,
+      "title": "Make the XOR of All Segments Equal to Zero",
+      "difficulty": "Hard",
+      "acceptance": "40.7%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero"
+    },
+    {
+      "id": 1879,
+      "title": "Minimum XOR Sum of Two Arrays",
+      "difficulty": "Hard",
+      "acceptance": "51.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-xor-sum-of-two-arrays"
+    },
+    {
+      "id": 2835,
+      "title": "Minimum Operations to Form Subsequence With Target Sum",
+      "difficulty": "Hard",
+      "acceptance": "32.5%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum"
+    },
+    {
+      "id": 2382,
+      "title": "Maximum Segment Sum After Removals",
+      "difficulty": "Hard",
+      "acceptance": "49.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-segment-sum-after-removals"
+    },
+    {
+      "id": 407,
+      "title": "Trapping Rain Water II",
+      "difficulty": "Hard",
+      "acceptance": "64.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water-ii"
+    },
+    {
+      "id": 1376,
+      "title": "Time Needed to Inform All Employees",
+      "difficulty": "Medium",
+      "acceptance": "60.5%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/time-needed-to-inform-all-employees"
+    },
+    {
+      "id": 668,
+      "title": "Kth Smallest Number in Multiplication Table",
+      "difficulty": "Hard",
+      "acceptance": "54.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-number-in-multiplication-table"
+    },
+    {
+      "id": 354,
+      "title": "Russian Doll Envelopes",
+      "difficulty": "Hard",
+      "acceptance": "37.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/russian-doll-envelopes"
+    },
+    {
+      "id": 2945,
+      "title": "Find Maximum Non-decreasing Array Length",
+      "difficulty": "Hard",
+      "acceptance": "18.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-maximum-non-decreasing-array-length"
+    },
+    {
+      "id": 406,
+      "title": "Queue Reconstruction by Height",
+      "difficulty": "Medium",
+      "acceptance": "74.7%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/queue-reconstruction-by-height"
+    },
+    {
+      "id": 947,
+      "title": "Most Stones Removed with Same Row or Column",
+      "difficulty": "Medium",
+      "acceptance": "62.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column"
+    },
+    {
+      "id": 1994,
+      "title": "The Number of Good Subsets",
+      "difficulty": "Hard",
+      "acceptance": "37.2%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/the-number-of-good-subsets"
+    },
+    {
+      "id": 54,
+      "title": "Spiral Matrix",
+      "difficulty": "Medium",
+      "acceptance": "56.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix"
+    },
+    {
+      "id": 3660,
+      "title": "Jump Game IX",
+      "difficulty": "Medium",
+      "acceptance": "46.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-ix"
+    },
+    {
+      "id": 827,
+      "title": "Making A Large Island",
+      "difficulty": "Hard",
+      "acceptance": "56.6%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/making-a-large-island"
+    },
+    {
+      "id": 3291,
+      "title": "Minimum Number of Valid Strings to Form Target I",
+      "difficulty": "Medium",
+      "acceptance": "21.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-i"
+    },
+    {
+      "id": 99,
+      "title": "Recover Binary Search Tree",
+      "difficulty": "Medium",
+      "acceptance": "59.7%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/recover-binary-search-tree"
+    },
+    {
+      "id": 70,
+      "title": "Climbing Stairs",
+      "difficulty": "Easy",
+      "acceptance": "54.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs"
+    },
+    {
+      "id": 53,
+      "title": "Maximum Subarray",
+      "difficulty": "Medium",
+      "acceptance": "53.3%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray"
+    }
+  ]
+}

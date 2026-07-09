@@ -1,0 +1,13 @@
+{
+  "company": "Netcracker Technology",
+  "questions": [
+    {
+      "id": 3556,
+      "title": "Sum of Largest Prime Substrings",
+      "difficulty": "Medium",
+      "acceptance": "38.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-largest-prime-substrings"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "company": "Coinbase",
+  "questions": [
+    {
+      "id": 281,
+      "title": "Zigzag Iterator",
+      "difficulty": "Medium",
+      "acceptance": "67.0%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/zigzag-iterator"
+    },
+    {
+      "id": 68,
+      "title": "Text Justification",
+      "difficulty": "Hard",
+      "acceptance": "51.2%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/text-justification"
+    },
+    {
+      "id": 588,
+      "title": "Design In-Memory File System",
+      "difficulty": "Hard",
+      "acceptance": "48.4%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-in-memory-file-system"
+    },
+    {
+      "id": 1166,
+      "title": "Design File System",
+      "difficulty": "Medium",
+      "acceptance": "65.1%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-file-system"
+    },
+    {
+      "id": 2325,
+      "title": "Decode the Message",
+      "difficulty": "Easy",
+      "acceptance": "85.8%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-the-message"
+    },
+    {
+      "id": 2043,
+      "title": "Simple Bank System",
+      "difficulty": "Medium",
+      "acceptance": "69.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/simple-bank-system"
+    },
+    {
+      "id": 981,
+      "title": "Time Based Key-Value Store",
+      "difficulty": "Medium",
+      "acceptance": "49.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/time-based-key-value-store"
+    },
+    {
+      "id": 3043,
+      "title": "Find the Length of the Longest Common Prefix",
+      "difficulty": "Medium",
+      "acceptance": "62.2%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix"
+    },
+    {
+      "id": 528,
+      "title": "Random Pick with Weight",
+      "difficulty": "Medium",
+      "acceptance": "49.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/random-pick-with-weight"
+    },
+    {
+      "id": 121,
+      "title": "Best Time to Buy and Sell Stock",
+      "difficulty": "Easy",
+      "acceptance": "56.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+    },
+    {
+      "id": 622,
+      "title": "Design Circular Queue",
+      "difficulty": "Medium",
+      "acceptance": "54.7%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-circular-queue"
+    },
+    {
+      "id": 210,
+      "title": "Course Schedule II",
+      "difficulty": "Medium",
+      "acceptance": "55.5%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii"
+    }
+  ]
+}

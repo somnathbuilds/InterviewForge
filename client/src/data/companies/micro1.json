@@ -1,0 +1,37 @@
+{
+  "company": "Micro1",
+  "questions": [
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "44.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses"
+    },
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+      "id": 1143,
+      "title": "Longest Common Subsequence",
+      "difficulty": "Medium",
+      "acceptance": "59.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-subsequence"
+    },
+    {
+      "id": 621,
+      "title": "Task Scheduler",
+      "difficulty": "Medium",
+      "acceptance": "63.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/task-scheduler"
+    }
+  ]
+}

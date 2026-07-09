@@ -1,0 +1,13 @@
+{
+  "company": "Hopper",
+  "questions": [
+    {
+      "id": 332,
+      "title": "Reconstruct Itinerary",
+      "difficulty": "Hard",
+      "acceptance": "44.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/reconstruct-itinerary"
+    }
+  ]
+}

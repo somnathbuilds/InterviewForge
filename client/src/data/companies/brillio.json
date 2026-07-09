@@ -1,0 +1,13 @@
+{
+  "company": "Brillio",
+  "questions": [
+    {
+      "id": 1551,
+      "title": "Minimum Operations to Make Array Equal",
+      "difficulty": "Medium",
+      "acceptance": "82.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-array-equal"
+    }
+  ]
+}

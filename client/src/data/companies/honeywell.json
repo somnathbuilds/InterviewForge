@@ -1,0 +1,37 @@
+{
+  "company": "Honeywell",
+  "questions": [
+    {
+      "id": 1848,
+      "title": "Minimum Distance to the Target Element",
+      "difficulty": "Easy",
+      "acceptance": "64.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-distance-to-the-target-element"
+    },
+    {
+      "id": 1975,
+      "title": "Maximum Matrix Sum",
+      "difficulty": "Medium",
+      "acceptance": "67.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-matrix-sum"
+    },
+    {
+      "id": 2747,
+      "title": "Count Zero Request Servers",
+      "difficulty": "Medium",
+      "acceptance": "35.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-zero-request-servers"
+    },
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    }
+  ]
+}

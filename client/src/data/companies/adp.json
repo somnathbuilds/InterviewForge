@@ -1,0 +1,21 @@
+{
+  "company": "Adp",
+  "questions": [
+    {
+      "id": 3463,
+      "title": "Check If Digits Are Equal in String After Operations II",
+      "difficulty": "Hard",
+      "acceptance": "14.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-ii"
+    },
+    {
+      "id": 283,
+      "title": "Move Zeroes",
+      "difficulty": "Easy",
+      "acceptance": "63.8%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/move-zeroes"
+    }
+  ]
+}

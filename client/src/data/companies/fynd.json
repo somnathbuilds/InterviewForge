@@ -1,0 +1,13 @@
+{
+  "company": "Fynd",
+  "questions": [
+    {
+      "id": 1047,
+      "title": "Remove All Adjacent Duplicates In String",
+      "difficulty": "Easy",
+      "acceptance": "73.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string"
+    }
+  ]
+}

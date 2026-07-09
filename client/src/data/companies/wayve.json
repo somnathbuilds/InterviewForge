@@ -1,0 +1,13 @@
+{
+  "company": "Wayve",
+  "questions": [
+    {
+      "id": 2121,
+      "title": "Intervals Between Identical Elements",
+      "difficulty": "Medium",
+      "acceptance": "48.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/intervals-between-identical-elements"
+    }
+  ]
+}

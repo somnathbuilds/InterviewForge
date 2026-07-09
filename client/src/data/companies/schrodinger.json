@@ -1,0 +1,13 @@
+{
+  "company": "Schrodinger",
+  "questions": [
+    {
+      "id": 1642,
+      "title": "Furthest Building You Can Reach",
+      "difficulty": "Medium",
+      "acceptance": "50.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/furthest-building-you-can-reach"
+    }
+  ]
+}

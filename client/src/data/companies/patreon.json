@@ -1,0 +1,37 @@
+{
+  "company": "Patreon",
+  "questions": [
+    {
+      "id": 71,
+      "title": "Simplify Path",
+      "difficulty": "Medium",
+      "acceptance": "50.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/simplify-path"
+    },
+    {
+      "id": 359,
+      "title": "Logger Rate Limiter",
+      "difficulty": "Easy",
+      "acceptance": "76.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/logger-rate-limiter"
+    },
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals"
+    },
+    {
+      "id": 243,
+      "title": "Shortest Word Distance",
+      "difficulty": "Easy",
+      "acceptance": "66.3%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-word-distance"
+    }
+  ]
+}

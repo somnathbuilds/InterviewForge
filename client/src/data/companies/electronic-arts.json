@@ -1,0 +1,13 @@
+{
+  "company": "Electronic Arts",
+  "questions": [
+    {
+      "id": 506,
+      "title": "Relative Ranks",
+      "difficulty": "Easy",
+      "acceptance": "74.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/relative-ranks"
+    }
+  ]
+}

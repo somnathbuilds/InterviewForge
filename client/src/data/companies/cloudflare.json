@@ -1,0 +1,93 @@
+{
+  "company": "Cloudflare",
+  "questions": [
+    {
+      "id": 15,
+      "title": "3Sum",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum"
+    },
+    {
+      "id": 18,
+      "title": "4Sum",
+      "difficulty": "Medium",
+      "acceptance": "40.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/4sum"
+    },
+    {
+      "id": 1381,
+      "title": "Design a Stack With Increment Operation",
+      "difficulty": "Medium",
+      "acceptance": "79.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-a-stack-with-increment-operation"
+    },
+    {
+      "id": 622,
+      "title": "Design Circular Queue",
+      "difficulty": "Medium",
+      "acceptance": "54.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-circular-queue"
+    },
+    {
+      "id": 362,
+      "title": "Design Hit Counter",
+      "difficulty": "Medium",
+      "acceptance": "69.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-hit-counter"
+    },
+    {
+      "id": 200,
+      "title": "Number of Islands",
+      "difficulty": "Medium",
+      "acceptance": "64.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands"
+    },
+    {
+      "id": 780,
+      "title": "Reaching Points",
+      "difficulty": "Hard",
+      "acceptance": "34.4%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/reaching-points"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 359,
+      "title": "Logger Rate Limiter",
+      "difficulty": "Easy",
+      "acceptance": "76.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/logger-rate-limiter"
+    },
+    {
+      "id": 23,
+      "title": "Merge k Sorted Lists",
+      "difficulty": "Hard",
+      "acceptance": "59.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists"
+    },
+    {
+      "id": 207,
+      "title": "Course Schedule",
+      "difficulty": "Medium",
+      "acceptance": "51.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule"
+    }
+  ]
+}

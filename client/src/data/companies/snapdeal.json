@@ -1,0 +1,21 @@
+{
+  "company": "Snapdeal",
+  "questions": [
+    {
+      "id": 1027,
+      "title": "Longest Arithmetic Subsequence",
+      "difficulty": "Medium",
+      "acceptance": "50.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-arithmetic-subsequence"
+    },
+    {
+      "id": 543,
+      "title": "Diameter of Binary Tree",
+      "difficulty": "Easy",
+      "acceptance": "65.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/diameter-of-binary-tree"
+    }
+  ]
+}

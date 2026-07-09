@@ -1,0 +1,13 @@
+{
+  "company": "Thumbtack",
+  "questions": [
+    {
+      "id": 966,
+      "title": "Vowel Spellchecker",
+      "difficulty": "Medium",
+      "acceptance": "61.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/vowel-spellchecker"
+    }
+  ]
+}

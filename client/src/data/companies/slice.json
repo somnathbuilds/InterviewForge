@@ -1,0 +1,13 @@
+{
+  "company": "Slice",
+  "questions": [
+    {
+      "id": 75,
+      "title": "Sort Colors",
+      "difficulty": "Medium",
+      "acceptance": "69.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors"
+    }
+  ]
+}

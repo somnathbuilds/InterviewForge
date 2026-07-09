@@ -1,0 +1,325 @@
+{
+  "company": "Swiggy",
+  "questions": [
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "44.2%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses"
+    },
+    {
+      "id": 21,
+      "title": "Merge Two Sorted Lists",
+      "difficulty": "Easy",
+      "acceptance": "68.3%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists"
+    },
+    {
+      "id": 75,
+      "title": "Sort Colors",
+      "difficulty": "Medium",
+      "acceptance": "69.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors"
+    },
+    {
+      "id": 88,
+      "title": "Merge Sorted Array",
+      "difficulty": "Easy",
+      "acceptance": "54.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array"
+    },
+    {
+      "id": 2943,
+      "title": "Maximize Area of Square Hole in Grid",
+      "difficulty": "Medium",
+      "acceptance": "61.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-area-of-square-hole-in-grid"
+    },
+    {
+      "id": 1235,
+      "title": "Maximum Profit in Job Scheduling",
+      "difficulty": "Hard",
+      "acceptance": "54.7%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-profit-in-job-scheduling"
+    },
+    {
+      "id": 1413,
+      "title": "Minimum Value to Get Positive Step by Step Sum",
+      "difficulty": "Easy",
+      "acceptance": "64.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum"
+    },
+    {
+      "id": 41,
+      "title": "First Missing Positive",
+      "difficulty": "Hard",
+      "acceptance": "42.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/first-missing-positive"
+    },
+    {
+      "id": 560,
+      "title": "Subarray Sum Equals K",
+      "difficulty": "Medium",
+      "acceptance": "47.3%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-sum-equals-k"
+    },
+    {
+      "id": 4,
+      "title": "Median of Two Sorted Arrays",
+      "difficulty": "Hard",
+      "acceptance": "46.6%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays"
+    },
+    {
+      "id": 496,
+      "title": "Next Greater Element I",
+      "difficulty": "Easy",
+      "acceptance": "76.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-i"
+    },
+    {
+      "id": 12,
+      "title": "Integer to Roman",
+      "difficulty": "Medium",
+      "acceptance": "71.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/integer-to-roman"
+    },
+    {
+      "id": 1711,
+      "title": "Count Good Meals",
+      "difficulty": "Medium",
+      "acceptance": "32.8%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-good-meals"
+    },
+    {
+      "id": 739,
+      "title": "Daily Temperatures",
+      "difficulty": "Medium",
+      "acceptance": "68.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/daily-temperatures"
+    },
+    {
+      "id": 1174,
+      "title": "Immediate Food Delivery II",
+      "difficulty": "Medium",
+      "acceptance": "56.0%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/immediate-food-delivery-ii"
+    },
+    {
+      "id": 202,
+      "title": "Happy Number",
+      "difficulty": "Easy",
+      "acceptance": "59.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/happy-number"
+    },
+    {
+      "id": 888,
+      "title": "Fair Candy Swap",
+      "difficulty": "Easy",
+      "acceptance": "65.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/fair-candy-swap"
+    },
+    {
+      "id": 1717,
+      "title": "Maximum Score From Removing Substrings",
+      "difficulty": "Medium",
+      "acceptance": "66.5%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-score-from-removing-substrings"
+    },
+    {
+      "id": 207,
+      "title": "Course Schedule",
+      "difficulty": "Medium",
+      "acceptance": "51.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule"
+    },
+    {
+      "id": 973,
+      "title": "K Closest Points to Origin",
+      "difficulty": "Medium",
+      "acceptance": "69.0%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/k-closest-points-to-origin"
+    },
+    {
+      "id": 1986,
+      "title": "Minimum Number of Work Sessions to Finish the Tasks",
+      "difficulty": "Medium",
+      "acceptance": "34.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks"
+    },
+    {
+      "id": 1029,
+      "title": "Two City Scheduling",
+      "difficulty": "Medium",
+      "acceptance": "68.5%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-city-scheduling"
+    },
+    {
+      "id": 72,
+      "title": "Edit Distance",
+      "difficulty": "Medium",
+      "acceptance": "60.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/edit-distance"
+    },
+    {
+      "id": 523,
+      "title": "Continuous Subarray Sum",
+      "difficulty": "Medium",
+      "acceptance": "31.4%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/continuous-subarray-sum"
+    },
+    {
+      "id": 42,
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "acceptance": "67.4%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water"
+    },
+    {
+      "id": 76,
+      "title": "Minimum Window Substring",
+      "difficulty": "Hard",
+      "acceptance": "47.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-window-substring"
+    },
+    {
+      "id": 152,
+      "title": "Maximum Product Subarray",
+      "difficulty": "Medium",
+      "acceptance": "36.4%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-subarray"
+    },
+    {
+      "id": 371,
+      "title": "Sum of Two Integers",
+      "difficulty": "Medium",
+      "acceptance": "55.5%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-two-integers"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 53,
+      "title": "Maximum Subarray",
+      "difficulty": "Medium",
+      "acceptance": "53.3%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray"
+    },
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 875,
+      "title": "Koko Eating Bananas",
+      "difficulty": "Medium",
+      "acceptance": "50.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/koko-eating-bananas"
+    },
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+      "id": 115,
+      "title": "Distinct Subsequences",
+      "difficulty": "Hard",
+      "acceptance": "51.9%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/distinct-subsequences"
+    },
+    {
+      "id": 96,
+      "title": "Unique Binary Search Trees",
+      "difficulty": "Medium",
+      "acceptance": "63.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-binary-search-trees"
+    },
+    {
+      "id": 121,
+      "title": "Best Time to Buy and Sell Stock",
+      "difficulty": "Easy",
+      "acceptance": "56.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+    },
+    {
+      "id": 3169,
+      "title": "Count Days Without Meetings",
+      "difficulty": "Medium",
+      "acceptance": "48.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-days-without-meetings"
+    },
+    {
+      "id": 5,
+      "title": "Longest Palindromic Substring",
+      "difficulty": "Medium",
+      "acceptance": "37.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring"
+    },
+    {
+      "id": 355,
+      "title": "Design Twitter",
+      "difficulty": "Medium",
+      "acceptance": "44.7%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-twitter"
+    },
+    {
+      "id": 128,
+      "title": "Longest Consecutive Sequence",
+      "difficulty": "Medium",
+      "acceptance": "47.1%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-consecutive-sequence"
+    }
+  ]
+}

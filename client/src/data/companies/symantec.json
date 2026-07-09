@@ -1,0 +1,13 @@
+{
+  "company": "Symantec",
+  "questions": [
+    {
+      "id": 19,
+      "title": "Remove Nth Node From End of List",
+      "difficulty": "Medium",
+      "acceptance": "51.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list"
+    }
+  ]
+}

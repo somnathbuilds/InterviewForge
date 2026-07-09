@@ -1,0 +1,13 @@
+{
+  "company": "Unbxd",
+  "questions": [
+    {
+      "id": 2492,
+      "title": "Minimum Score of a Path Between Two Cities",
+      "difficulty": "Medium",
+      "acceptance": "58.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities"
+    }
+  ]
+}

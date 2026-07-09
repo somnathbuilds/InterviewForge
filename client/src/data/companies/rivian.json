@@ -1,0 +1,77 @@
+{
+  "company": "Rivian",
+  "questions": [
+    {
+      "id": 200,
+      "title": "Number of Islands",
+      "difficulty": "Medium",
+      "acceptance": "64.4%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands"
+    },
+    {
+      "id": 2625,
+      "title": "Flatten Deeply Nested Array",
+      "difficulty": "Medium",
+      "acceptance": "65.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/flatten-deeply-nested-array"
+    },
+    {
+      "id": 443,
+      "title": "String Compression",
+      "difficulty": "Medium",
+      "acceptance": "60.0%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/string-compression"
+    },
+    {
+      "id": 796,
+      "title": "Rotate String",
+      "difficulty": "Easy",
+      "acceptance": "66.6%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-string"
+    },
+    {
+      "id": 23,
+      "title": "Merge k Sorted Lists",
+      "difficulty": "Hard",
+      "acceptance": "59.6%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 807,
+      "title": "Max Increase to Keep City Skyline",
+      "difficulty": "Medium",
+      "acceptance": "86.4%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/max-increase-to-keep-city-skyline"
+    },
+    {
+      "id": 697,
+      "title": "Degree of an Array",
+      "difficulty": "Easy",
+      "acceptance": "58.4%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/degree-of-an-array"
+    },
+    {
+      "id": 227,
+      "title": "Basic Calculator II",
+      "difficulty": "Medium",
+      "acceptance": "46.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/basic-calculator-ii"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "company": "Tokopedia",
+  "questions": [
+    {
+      "id": 2645,
+      "title": "Minimum Additions to Make Valid String",
+      "difficulty": "Medium",
+      "acceptance": "51.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-additions-to-make-valid-string"
+    }
+  ]
+}

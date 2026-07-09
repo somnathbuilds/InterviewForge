@@ -1,0 +1,77 @@
+{
+  "company": "Microstrategy",
+  "questions": [
+    {
+      "id": 1227,
+      "title": "Airplane Seat Assignment Probability",
+      "difficulty": "Medium",
+      "acceptance": "67.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/airplane-seat-assignment-probability"
+    },
+    {
+      "id": 6,
+      "title": "Zigzag Conversion",
+      "difficulty": "Medium",
+      "acceptance": "54.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/zigzag-conversion"
+    },
+    {
+      "id": 844,
+      "title": "Backspace String Compare",
+      "difficulty": "Easy",
+      "acceptance": "49.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/backspace-string-compare"
+    },
+    {
+      "id": 347,
+      "title": "Top K Frequent Elements",
+      "difficulty": "Medium",
+      "acceptance": "66.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements"
+    },
+    {
+      "id": 121,
+      "title": "Best Time to Buy and Sell Stock",
+      "difficulty": "Easy",
+      "acceptance": "56.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+    },
+    {
+      "id": 419,
+      "title": "Battleships in a Board",
+      "difficulty": "Medium",
+      "acceptance": "77.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/battleships-in-a-board"
+    },
+    {
+      "id": 2184,
+      "title": "Number of Ways to Build Sturdy Brick Wall",
+      "difficulty": "Medium",
+      "acceptance": "49.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall"
+    },
+    {
+      "id": 46,
+      "title": "Permutations",
+      "difficulty": "Medium",
+      "acceptance": "81.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/permutations"
+    },
+    {
+      "id": 1963,
+      "title": "Minimum Number of Swaps to Make the String Balanced",
+      "difficulty": "Medium",
+      "acceptance": "78.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced"
+    }
+  ]
+}

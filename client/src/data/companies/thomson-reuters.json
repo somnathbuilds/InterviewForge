@@ -1,0 +1,21 @@
+{
+  "company": "Thomson Reuters",
+  "questions": [
+    {
+      "id": 1974,
+      "title": "Minimum Time to Type Word Using Special Typewriter",
+      "difficulty": "Easy",
+      "acceptance": "78.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter"
+    },
+    {
+      "id": 1839,
+      "title": "Longest Substring Of All Vowels in Order",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-of-all-vowels-in-order"
+    }
+  ]
+}

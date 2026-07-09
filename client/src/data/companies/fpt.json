@@ -1,0 +1,21 @@
+{
+  "company": "Fpt",
+  "questions": [
+    {
+      "id": 2177,
+      "title": "Find Three Consecutive Integers That Sum to a Given Number",
+      "difficulty": "Medium",
+      "acceptance": "65.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number"
+    },
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    }
+  ]
+}

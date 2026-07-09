@@ -1,0 +1,13 @@
+{
+  "company": "Mykaarma",
+  "questions": [
+    {
+      "id": 132,
+      "title": "Palindrome Partitioning II",
+      "difficulty": "Hard",
+      "acceptance": "37.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-partitioning-ii"
+    }
+  ]
+}

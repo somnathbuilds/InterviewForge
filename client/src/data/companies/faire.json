@@ -1,0 +1,45 @@
+{
+  "company": "Faire",
+  "questions": [
+    {
+      "id": 845,
+      "title": "Longest Mountain in Array",
+      "difficulty": "Medium",
+      "acceptance": "42.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-mountain-in-array"
+    },
+    {
+      "id": 79,
+      "title": "Word Search",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-search"
+    },
+    {
+      "id": 273,
+      "title": "Integer to English Words",
+      "difficulty": "Hard",
+      "acceptance": "35.0%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/integer-to-english-words"
+    },
+    {
+      "id": 591,
+      "title": "Tag Validator",
+      "difficulty": "Hard",
+      "acceptance": "40.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/tag-validator"
+    },
+    {
+      "id": 2468,
+      "title": "Split Message Based on Limit",
+      "difficulty": "Hard",
+      "acceptance": "42.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/split-message-based-on-limit"
+    }
+  ]
+}

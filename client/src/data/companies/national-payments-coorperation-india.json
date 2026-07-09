@@ -1,0 +1,21 @@
+{
+  "company": "National Payments Coorperation India",
+  "questions": [
+    {
+      "id": 3152,
+      "title": "Special Array II",
+      "difficulty": "Medium",
+      "acceptance": "45.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/special-array-ii"
+    },
+    {
+      "id": 3151,
+      "title": "Special Array I",
+      "difficulty": "Easy",
+      "acceptance": "81.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/special-array-i"
+    }
+  ]
+}

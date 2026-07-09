@@ -1,0 +1,197 @@
+{
+  "company": "American Express",
+  "questions": [
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 15,
+      "title": "3Sum",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum"
+    },
+    {
+      "id": 42,
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "acceptance": "67.4%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water"
+    },
+    {
+      "id": 1521,
+      "title": "Find a Value of a Mysterious Function Closest to Target",
+      "difficulty": "Hard",
+      "acceptance": "47.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target"
+    },
+    {
+      "id": 125,
+      "title": "Valid Palindrome",
+      "difficulty": "Easy",
+      "acceptance": "53.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome"
+    },
+    {
+      "id": 3013,
+      "title": "Divide an Array Into Subarrays With Minimum Cost II",
+      "difficulty": "Hard",
+      "acceptance": "54.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii"
+    },
+    {
+      "id": 3010,
+      "title": "Divide an Array Into Subarrays With Minimum Cost I",
+      "difficulty": "Easy",
+      "acceptance": "80.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i"
+    },
+    {
+      "id": 1647,
+      "title": "Minimum Deletions to Make Character Frequencies Unique",
+      "difficulty": "Medium",
+      "acceptance": "61.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique"
+    },
+    {
+      "id": 1201,
+      "title": "Ugly Number III",
+      "difficulty": "Medium",
+      "acceptance": "31.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/ugly-number-iii"
+    },
+    {
+      "id": 2278,
+      "title": "Percentage of Letter in String",
+      "difficulty": "Easy",
+      "acceptance": "75.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/percentage-of-letter-in-string"
+    },
+    {
+      "id": 1224,
+      "title": "Maximum Equal Frequency",
+      "difficulty": "Hard",
+      "acceptance": "38.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-equal-frequency"
+    },
+    {
+      "id": 2202,
+      "title": "Maximize the Topmost Element After K Moves",
+      "difficulty": "Medium",
+      "acceptance": "24.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves"
+    },
+    {
+      "id": 2317,
+      "title": "Maximum XOR After Operations",
+      "difficulty": "Medium",
+      "acceptance": "79.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-xor-after-operations"
+    },
+    {
+      "id": 1775,
+      "title": "Equal Sum Arrays With Minimum Number of Operations",
+      "difficulty": "Medium",
+      "acceptance": "54.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations"
+    },
+    {
+      "id": 2997,
+      "title": "Minimum Number of Operations to Make Array XOR Equal to K",
+      "difficulty": "Medium",
+      "acceptance": "85.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k"
+    },
+    {
+      "id": 242,
+      "title": "Valid Anagram",
+      "difficulty": "Easy",
+      "acceptance": "68.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram"
+    },
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+      "id": 189,
+      "title": "Rotate Array",
+      "difficulty": "Medium",
+      "acceptance": "44.9%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array"
+    },
+    {
+      "id": 46,
+      "title": "Permutations",
+      "difficulty": "Medium",
+      "acceptance": "81.9%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/permutations"
+    },
+    {
+      "id": 121,
+      "title": "Best Time to Buy and Sell Stock",
+      "difficulty": "Easy",
+      "acceptance": "56.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+    },
+    {
+      "id": 205,
+      "title": "Isomorphic Strings",
+      "difficulty": "Easy",
+      "acceptance": "48.4%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/isomorphic-strings"
+    },
+    {
+      "id": 14,
+      "title": "Longest Common Prefix",
+      "difficulty": "Easy",
+      "acceptance": "47.6%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix"
+    },
+    {
+      "id": 142,
+      "title": "Linked List Cycle II",
+      "difficulty": "Medium",
+      "acceptance": "57.9%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii"
+    },
+    {
+      "id": 1304,
+      "title": "Find N Unique Integers Sum up to Zero",
+      "difficulty": "Easy",
+      "acceptance": "78.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero"
+    }
+  ]
+}

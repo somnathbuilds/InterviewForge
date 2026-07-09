@@ -1,0 +1,21 @@
+{
+  "company": "Scale Ai",
+  "questions": [
+    {
+      "id": 560,
+      "title": "Subarray Sum Equals K",
+      "difficulty": "Medium",
+      "acceptance": "47.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-sum-equals-k"
+    },
+    {
+      "id": 134,
+      "title": "Gas Station",
+      "difficulty": "Medium",
+      "acceptance": "48.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/gas-station"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "company": "Pega",
+  "questions": [
+    {
+      "id": 258,
+      "title": "Add Digits",
+      "difficulty": "Easy",
+      "acceptance": "68.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/add-digits"
+    }
+  ]
+}

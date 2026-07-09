@@ -1,0 +1,37 @@
+{
+  "company": "Innovaccer",
+  "questions": [
+    {
+      "id": 2535,
+      "title": "Difference Between Element Sum and Digit Sum of an Array",
+      "difficulty": "Easy",
+      "acceptance": "85.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array"
+    },
+    {
+      "id": 2667,
+      "title": "Create Hello World Function",
+      "difficulty": "Easy",
+      "acceptance": "81.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/create-hello-world-function"
+    },
+    {
+      "id": 2073,
+      "title": "Time Needed to Buy Tickets",
+      "difficulty": "Easy",
+      "acceptance": "72.6%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/time-needed-to-buy-tickets"
+    },
+    {
+      "id": 502,
+      "title": "IPO",
+      "difficulty": "Hard",
+      "acceptance": "53.5%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/ipo"
+    }
+  ]
+}

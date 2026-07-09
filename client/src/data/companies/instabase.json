@@ -1,0 +1,29 @@
+{
+  "company": "Instabase",
+  "questions": [
+    {
+      "id": 2334,
+      "title": "Subarray With Elements Greater Than Varying Threshold",
+      "difficulty": "Hard",
+      "acceptance": "45.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold"
+    },
+    {
+      "id": 208,
+      "title": "Implement Trie (Prefix Tree)",
+      "difficulty": "Medium",
+      "acceptance": "69.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/implement-trie-prefix-tree"
+    },
+    {
+      "id": 210,
+      "title": "Course Schedule II",
+      "difficulty": "Medium",
+      "acceptance": "55.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii"
+    }
+  ]
+}

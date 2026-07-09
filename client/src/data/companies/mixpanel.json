@@ -1,0 +1,21 @@
+{
+  "company": "Mixpanel",
+  "questions": [
+    {
+      "id": 986,
+      "title": "Interval List Intersections",
+      "difficulty": "Medium",
+      "acceptance": "73.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/interval-list-intersections"
+    },
+    {
+      "id": 341,
+      "title": "Flatten Nested List Iterator",
+      "difficulty": "Medium",
+      "acceptance": "65.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/flatten-nested-list-iterator"
+    }
+  ]
+}

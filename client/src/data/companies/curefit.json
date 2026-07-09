@@ -1,0 +1,13 @@
+{
+  "company": "Curefit",
+  "questions": [
+    {
+      "id": 1674,
+      "title": "Minimum Moves to Make Array Complementary",
+      "difficulty": "Medium",
+      "acceptance": "65.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-make-array-complementary"
+    }
+  ]
+}

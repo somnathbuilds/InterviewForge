@@ -1,0 +1,13 @@
+{
+  "company": "Aetion",
+  "questions": [
+    {
+      "id": 413,
+      "title": "Arithmetic Slices",
+      "difficulty": "Medium",
+      "acceptance": "64.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/arithmetic-slices"
+    }
+  ]
+}

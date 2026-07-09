@@ -1,0 +1,53 @@
+{
+  "company": "Imc",
+  "questions": [
+    {
+      "id": 735,
+      "title": "Asteroid Collision",
+      "difficulty": "Medium",
+      "acceptance": "47.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/asteroid-collision"
+    },
+    {
+      "id": 1292,
+      "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+      "difficulty": "Medium",
+      "acceptance": "65.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold"
+    },
+    {
+      "id": 1293,
+      "title": "Shortest Path in a Grid with Obstacles Elimination",
+      "difficulty": "Hard",
+      "acceptance": "46.3%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination"
+    },
+    {
+      "id": 155,
+      "title": "Min Stack",
+      "difficulty": "Medium",
+      "acceptance": "58.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/min-stack"
+    },
+    {
+      "id": 1889,
+      "title": "Minimum Space Wasted From Packaging",
+      "difficulty": "Hard",
+      "acceptance": "33.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-space-wasted-from-packaging"
+    },
+    {
+      "id": 761,
+      "title": "Special Binary String",
+      "difficulty": "Hard",
+      "acceptance": "79.3%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/special-binary-string"
+    }
+  ]
+}

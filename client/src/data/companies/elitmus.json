@@ -1,0 +1,13 @@
+{
+  "company": "Elitmus",
+  "questions": [
+    {
+      "id": 3014,
+      "title": "Minimum Number of Pushes to Type Word I",
+      "difficulty": "Easy",
+      "acceptance": "67.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "company": "Chargebee",
+  "questions": [
+    {
+      "id": 3429,
+      "title": "Paint House IV",
+      "difficulty": "Medium",
+      "acceptance": "45.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/paint-house-iv"
+    }
+  ]
+}

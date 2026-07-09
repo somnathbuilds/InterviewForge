@@ -1,0 +1,13 @@
+{
+  "company": "Shopup",
+  "questions": [
+    {
+      "id": 537,
+      "title": "Complex Number Multiplication",
+      "difficulty": "Medium",
+      "acceptance": "73.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/complex-number-multiplication"
+    }
+  ]
+}

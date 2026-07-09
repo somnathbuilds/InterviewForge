@@ -1,0 +1,21 @@
+{
+  "company": "Tesco",
+  "questions": [
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals"
+    },
+    {
+      "id": 57,
+      "title": "Insert Interval",
+      "difficulty": "Medium",
+      "acceptance": "45.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-interval"
+    }
+  ]
+}

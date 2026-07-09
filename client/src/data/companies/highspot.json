@@ -1,0 +1,13 @@
+{
+  "company": "Highspot",
+  "questions": [
+    {
+      "id": 227,
+      "title": "Basic Calculator II",
+      "difficulty": "Medium",
+      "acceptance": "46.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/basic-calculator-ii"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "company": "Anthropic",
+  "questions": [
+    {
+      "id": 1242,
+      "title": "Web Crawler Multithreaded",
+      "difficulty": "Medium",
+      "acceptance": "51.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/web-crawler-multithreaded"
+    },
+    {
+      "id": 636,
+      "title": "Exclusive Time of Functions",
+      "difficulty": "Medium",
+      "acceptance": "66.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/exclusive-time-of-functions"
+    },
+    {
+      "id": 1236,
+      "title": "Web Crawler",
+      "difficulty": "Medium",
+      "acceptance": "68.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/web-crawler"
+    },
+    {
+      "id": 609,
+      "title": "Find Duplicate File in System",
+      "difficulty": "Medium",
+      "acceptance": "67.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-duplicate-file-in-system"
+    }
+  ]
+}

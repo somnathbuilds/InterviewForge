@@ -1,0 +1,13 @@
+{
+  "company": "Hbo",
+  "questions": [
+    {
+      "id": 341,
+      "title": "Flatten Nested List Iterator",
+      "difficulty": "Medium",
+      "acceptance": "65.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/flatten-nested-list-iterator"
+    }
+  ]
+}

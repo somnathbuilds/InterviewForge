@@ -1,0 +1,229 @@
+{
+  "company": "Grammarly",
+  "questions": [
+    {
+      "id": 139,
+      "title": "Word Break",
+      "difficulty": "Medium",
+      "acceptance": "49.5%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break"
+    },
+    {
+      "id": 140,
+      "title": "Word Break II",
+      "difficulty": "Hard",
+      "acceptance": "55.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break-ii"
+    },
+    {
+      "id": 22,
+      "title": "Generate Parentheses",
+      "difficulty": "Medium",
+      "acceptance": "78.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses"
+    },
+    {
+      "id": 1209,
+      "title": "Remove All Adjacent Duplicates in String II",
+      "difficulty": "Medium",
+      "acceptance": "61.3%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii"
+    },
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals"
+    },
+    {
+      "id": 187,
+      "title": "Repeated DNA Sequences",
+      "difficulty": "Medium",
+      "acceptance": "53.3%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/repeated-dna-sequences"
+    },
+    {
+      "id": 70,
+      "title": "Climbing Stairs",
+      "difficulty": "Easy",
+      "acceptance": "54.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs"
+    },
+    {
+      "id": 200,
+      "title": "Number of Islands",
+      "difficulty": "Medium",
+      "acceptance": "64.4%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands"
+    },
+    {
+      "id": 79,
+      "title": "Word Search",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-search"
+    },
+    {
+      "id": 1047,
+      "title": "Remove All Adjacent Duplicates In String",
+      "difficulty": "Easy",
+      "acceptance": "73.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string"
+    },
+    {
+      "id": 966,
+      "title": "Vowel Spellchecker",
+      "difficulty": "Medium",
+      "acceptance": "61.4%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/vowel-spellchecker"
+    },
+    {
+      "id": 507,
+      "title": "Perfect Number",
+      "difficulty": "Easy",
+      "acceptance": "48.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/perfect-number"
+    },
+    {
+      "id": 380,
+      "title": "Insert Delete GetRandom O(1)",
+      "difficulty": "Medium",
+      "acceptance": "55.4%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+    },
+    {
+      "id": 359,
+      "title": "Logger Rate Limiter",
+      "difficulty": "Easy",
+      "acceptance": "76.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/logger-rate-limiter"
+    },
+    {
+      "id": 33,
+      "title": "Search in Rotated Sorted Array",
+      "difficulty": "Medium",
+      "acceptance": "44.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+    },
+    {
+      "id": 404,
+      "title": "Sum of Left Leaves",
+      "difficulty": "Easy",
+      "acceptance": "62.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-left-leaves"
+    },
+    {
+      "id": 761,
+      "title": "Special Binary String",
+      "difficulty": "Hard",
+      "acceptance": "79.3%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/special-binary-string"
+    },
+    {
+      "id": 2075,
+      "title": "Decode the Slanted Ciphertext",
+      "difficulty": "Medium",
+      "acceptance": "67.6%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-the-slanted-ciphertext"
+    },
+    {
+      "id": 150,
+      "title": "Evaluate Reverse Polish Notation",
+      "difficulty": "Medium",
+      "acceptance": "57.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-reverse-polish-notation"
+    },
+    {
+      "id": 208,
+      "title": "Implement Trie (Prefix Tree)",
+      "difficulty": "Medium",
+      "acceptance": "69.5%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/implement-trie-prefix-tree"
+    },
+    {
+      "id": 3035,
+      "title": "Maximum Palindromes After Operations",
+      "difficulty": "Medium",
+      "acceptance": "46.5%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-palindromes-after-operations"
+    },
+    {
+      "id": 69,
+      "title": "Sqrt(x)",
+      "difficulty": "Easy",
+      "acceptance": "41.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/sqrtx"
+    },
+    {
+      "id": 42,
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "acceptance": "67.4%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water"
+    },
+    {
+      "id": 62,
+      "title": "Unique Paths",
+      "difficulty": "Medium",
+      "acceptance": "66.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-paths"
+    },
+    {
+      "id": 1461,
+      "title": "Check If a String Contains All Binary Codes of Size K",
+      "difficulty": "Medium",
+      "acceptance": "61.6%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k"
+    },
+    {
+      "id": 35,
+      "title": "Search Insert Position",
+      "difficulty": "Easy",
+      "acceptance": "51.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/search-insert-position"
+    },
+    {
+      "id": 435,
+      "title": "Non-overlapping Intervals",
+      "difficulty": "Medium",
+      "acceptance": "57.1%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/non-overlapping-intervals"
+    },
+    {
+      "id": 2054,
+      "title": "Two Best Non-Overlapping Events",
+      "difficulty": "Medium",
+      "acceptance": "64.0%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-best-non-overlapping-events"
+    }
+  ]
+}

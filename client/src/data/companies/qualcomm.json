@@ -1,0 +1,501 @@
+{
+  "company": "Qualcomm",
+  "questions": [
+    {
+      "id": 9,
+      "title": "Palindrome Number",
+      "difficulty": "Easy",
+      "acceptance": "60.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-number"
+    },
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "44.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses"
+    },
+    {
+      "id": 24,
+      "title": "Swap Nodes in Pairs",
+      "difficulty": "Medium",
+      "acceptance": "69.5%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/swap-nodes-in-pairs"
+    },
+    {
+      "id": 48,
+      "title": "Rotate Image",
+      "difficulty": "Medium",
+      "acceptance": "80.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image"
+    },
+    {
+      "id": 70,
+      "title": "Climbing Stairs",
+      "difficulty": "Easy",
+      "acceptance": "54.1%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs"
+    },
+    {
+      "id": 1183,
+      "title": "Maximum Number of Ones",
+      "difficulty": "Hard",
+      "acceptance": "70.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-ones"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 206,
+      "title": "Reverse Linked List",
+      "difficulty": "Easy",
+      "acceptance": "80.6%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list"
+    },
+    {
+      "id": 231,
+      "title": "Power of Two",
+      "difficulty": "Easy",
+      "acceptance": "50.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-two"
+    },
+    {
+      "id": 3163,
+      "title": "String Compression III",
+      "difficulty": "Medium",
+      "acceptance": "67.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/string-compression-iii"
+    },
+    {
+      "id": 297,
+      "title": "Serialize and Deserialize Binary Tree",
+      "difficulty": "Hard",
+      "acceptance": "60.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree"
+    },
+    {
+      "id": 2502,
+      "title": "Design Memory Allocator",
+      "difficulty": "Medium",
+      "acceptance": "50.1%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-memory-allocator"
+    },
+    {
+      "id": 876,
+      "title": "Middle of the Linked List",
+      "difficulty": "Easy",
+      "acceptance": "81.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/middle-of-the-linked-list"
+    },
+    {
+      "id": 190,
+      "title": "Reverse Bits",
+      "difficulty": "Easy",
+      "acceptance": "68.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-bits"
+    },
+    {
+      "id": 58,
+      "title": "Length of Last Word",
+      "difficulty": "Easy",
+      "acceptance": "58.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/length-of-last-word"
+    },
+    {
+      "id": 26,
+      "title": "Remove Duplicates from Sorted Array",
+      "difficulty": "Easy",
+      "acceptance": "62.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array"
+    },
+    {
+      "id": 200,
+      "title": "Number of Islands",
+      "difficulty": "Medium",
+      "acceptance": "64.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands"
+    },
+    {
+      "id": 232,
+      "title": "Implement Queue using Stacks",
+      "difficulty": "Easy",
+      "acceptance": "69.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/implement-queue-using-stacks"
+    },
+    {
+      "id": 407,
+      "title": "Trapping Rain Water II",
+      "difficulty": "Hard",
+      "acceptance": "64.1%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water-ii"
+    },
+    {
+      "id": 19,
+      "title": "Remove Nth Node From End of List",
+      "difficulty": "Medium",
+      "acceptance": "51.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list"
+    },
+    {
+      "id": 50,
+      "title": "Pow(x, n)",
+      "difficulty": "Medium",
+      "acceptance": "38.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/powx-n"
+    },
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 104,
+      "title": "Maximum Depth of Binary Tree",
+      "difficulty": "Easy",
+      "acceptance": "78.2%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-depth-of-binary-tree"
+    },
+    {
+      "id": 7,
+      "title": "Reverse Integer",
+      "difficulty": "Medium",
+      "acceptance": "31.9%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-integer"
+    },
+    {
+      "id": 210,
+      "title": "Course Schedule II",
+      "difficulty": "Medium",
+      "acceptance": "55.5%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii"
+    },
+    {
+      "id": 8,
+      "title": "String to Integer (atoi)",
+      "difficulty": "Medium",
+      "acceptance": "21.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/string-to-integer-atoi"
+    },
+    {
+      "id": 392,
+      "title": "Is Subsequence",
+      "difficulty": "Easy",
+      "acceptance": "49.0%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/is-subsequence"
+    },
+    {
+      "id": 836,
+      "title": "Rectangle Overlap",
+      "difficulty": "Easy",
+      "acceptance": "46.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/rectangle-overlap"
+    },
+    {
+      "id": 46,
+      "title": "Permutations",
+      "difficulty": "Medium",
+      "acceptance": "81.9%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/permutations"
+    },
+    {
+      "id": 342,
+      "title": "Power of Four",
+      "difficulty": "Easy",
+      "acceptance": "52.1%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-four"
+    },
+    {
+      "id": 88,
+      "title": "Merge Sorted Array",
+      "difficulty": "Easy",
+      "acceptance": "54.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array"
+    },
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+      "id": 169,
+      "title": "Majority Element",
+      "difficulty": "Easy",
+      "acceptance": "66.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element"
+    },
+    {
+      "id": 622,
+      "title": "Design Circular Queue",
+      "difficulty": "Medium",
+      "acceptance": "54.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-circular-queue"
+    },
+    {
+      "id": 136,
+      "title": "Single Number",
+      "difficulty": "Easy",
+      "acceptance": "77.7%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/single-number"
+    },
+    {
+      "id": 141,
+      "title": "Linked List Cycle",
+      "difficulty": "Easy",
+      "acceptance": "54.3%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle"
+    },
+    {
+      "id": 2563,
+      "title": "Count the Number of Fair Pairs",
+      "difficulty": "Medium",
+      "acceptance": "52.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-fair-pairs"
+    },
+    {
+      "id": 215,
+      "title": "Kth Largest Element in an Array",
+      "difficulty": "Medium",
+      "acceptance": "68.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array"
+    },
+    {
+      "id": 42,
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "acceptance": "67.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water"
+    },
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals"
+    },
+    {
+      "id": 2183,
+      "title": "Count Array Pairs Divisible by K",
+      "difficulty": "Hard",
+      "acceptance": "30.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-array-pairs-divisible-by-k"
+    },
+    {
+      "id": 560,
+      "title": "Subarray Sum Equals K",
+      "difficulty": "Medium",
+      "acceptance": "47.3%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-sum-equals-k"
+    },
+    {
+      "id": 344,
+      "title": "Reverse String",
+      "difficulty": "Easy",
+      "acceptance": "80.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-string"
+    },
+    {
+      "id": 4,
+      "title": "Median of Two Sorted Arrays",
+      "difficulty": "Hard",
+      "acceptance": "46.6%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays"
+    },
+    {
+      "id": 283,
+      "title": "Move Zeroes",
+      "difficulty": "Easy",
+      "acceptance": "63.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/move-zeroes"
+    },
+    {
+      "id": 72,
+      "title": "Edit Distance",
+      "difficulty": "Medium",
+      "acceptance": "60.6%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/edit-distance"
+    },
+    {
+      "id": 28,
+      "title": "Find the Index of the First Occurrence in a String",
+      "difficulty": "Easy",
+      "acceptance": "46.7%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string"
+    },
+    {
+      "id": 15,
+      "title": "3Sum",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum"
+    },
+    {
+      "id": 25,
+      "title": "Reverse Nodes in k-Group",
+      "difficulty": "Hard",
+      "acceptance": "66.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-nodes-in-k-group"
+    },
+    {
+      "id": 22,
+      "title": "Generate Parentheses",
+      "difficulty": "Medium",
+      "acceptance": "78.7%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses"
+    },
+    {
+      "id": 225,
+      "title": "Implement Stack using Queues",
+      "difficulty": "Easy",
+      "acceptance": "69.9%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/implement-stack-using-queues"
+    },
+    {
+      "id": 1163,
+      "title": "Last Substring in Lexicographical Order",
+      "difficulty": "Hard",
+      "acceptance": "35.0%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/last-substring-in-lexicographical-order"
+    },
+    {
+      "id": 23,
+      "title": "Merge k Sorted Lists",
+      "difficulty": "Hard",
+      "acceptance": "59.6%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists"
+    },
+    {
+      "id": 11,
+      "title": "Container With Most Water",
+      "difficulty": "Medium",
+      "acceptance": "60.0%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/container-with-most-water"
+    },
+    {
+      "id": 21,
+      "title": "Merge Two Sorted Lists",
+      "difficulty": "Easy",
+      "acceptance": "68.3%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists"
+    },
+    {
+      "id": 346,
+      "title": "Moving Average from Data Stream",
+      "difficulty": "Easy",
+      "acceptance": "80.2%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/moving-average-from-data-stream"
+    },
+    {
+      "id": 14,
+      "title": "Longest Common Prefix",
+      "difficulty": "Easy",
+      "acceptance": "47.6%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix"
+    },
+    {
+      "id": 338,
+      "title": "Counting Bits",
+      "difficulty": "Easy",
+      "acceptance": "80.6%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/counting-bits"
+    },
+    {
+      "id": 852,
+      "title": "Peak Index in a Mountain Array",
+      "difficulty": "Medium",
+      "acceptance": "66.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/peak-index-in-a-mountain-array"
+    },
+    {
+      "id": 152,
+      "title": "Maximum Product Subarray",
+      "difficulty": "Medium",
+      "acceptance": "36.4%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-subarray"
+    },
+    {
+      "id": 191,
+      "title": "Number of 1 Bits",
+      "difficulty": "Easy",
+      "acceptance": "76.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-1-bits"
+    },
+    {
+      "id": 62,
+      "title": "Unique Paths",
+      "difficulty": "Medium",
+      "acceptance": "66.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-paths"
+    }
+  ]
+}

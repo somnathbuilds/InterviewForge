@@ -1,0 +1,85 @@
+{
+  "company": "Revolut",
+  "questions": [
+    {
+      "id": 14,
+      "title": "Longest Common Prefix",
+      "difficulty": "Easy",
+      "acceptance": "47.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix"
+    },
+    {
+      "id": 279,
+      "title": "Perfect Squares",
+      "difficulty": "Medium",
+      "acceptance": "56.5%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/perfect-squares"
+    },
+    {
+      "id": 92,
+      "title": "Reverse Linked List II",
+      "difficulty": "Medium",
+      "acceptance": "51.5%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list-ii"
+    },
+    {
+      "id": 438,
+      "title": "Find All Anagrams in a String",
+      "difficulty": "Medium",
+      "acceptance": "53.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-anagrams-in-a-string"
+    },
+    {
+      "id": 528,
+      "title": "Random Pick with Weight",
+      "difficulty": "Medium",
+      "acceptance": "49.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/random-pick-with-weight"
+    },
+    {
+      "id": 257,
+      "title": "Binary Tree Paths",
+      "difficulty": "Easy",
+      "acceptance": "68.7%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-paths"
+    },
+    {
+      "id": 268,
+      "title": "Missing Number",
+      "difficulty": "Easy",
+      "acceptance": "72.0%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/missing-number"
+    },
+    {
+      "id": 535,
+      "title": "Encode and Decode TinyURL",
+      "difficulty": "Medium",
+      "acceptance": "86.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/encode-and-decode-tinyurl"
+    },
+    {
+      "id": 2043,
+      "title": "Simple Bank System",
+      "difficulty": "Medium",
+      "acceptance": "69.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/simple-bank-system"
+    },
+    {
+      "id": 1321,
+      "title": "Restaurant Growth",
+      "difficulty": "Medium",
+      "acceptance": "58.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/restaurant-growth"
+    }
+  ]
+}

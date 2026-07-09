@@ -1,0 +1,45 @@
+{
+  "company": "Gojek",
+  "questions": [
+    {
+      "id": 2610,
+      "title": "Convert an Array Into a 2D Array With Conditions",
+      "difficulty": "Medium",
+      "acceptance": "86.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions"
+    },
+    {
+      "id": 102,
+      "title": "Binary Tree Level Order Traversal",
+      "difficulty": "Medium",
+      "acceptance": "72.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal"
+    },
+    {
+      "id": 71,
+      "title": "Simplify Path",
+      "difficulty": "Medium",
+      "acceptance": "50.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/simplify-path"
+    },
+    {
+      "id": 15,
+      "title": "3Sum",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum"
+    },
+    {
+      "id": 239,
+      "title": "Sliding Window Maximum",
+      "difficulty": "Hard",
+      "acceptance": "48.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum"
+    }
+  ]
+}

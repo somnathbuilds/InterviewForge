@@ -1,0 +1,13 @@
+{
+  "company": "Jd",
+  "questions": [
+    {
+      "id": 2999,
+      "title": "Count the Number of Powerful Integers",
+      "difficulty": "Hard",
+      "acceptance": "46.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-powerful-integers"
+    }
+  ]
+}

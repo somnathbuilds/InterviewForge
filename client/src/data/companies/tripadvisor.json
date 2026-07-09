@@ -1,0 +1,53 @@
+{
+  "company": "Tripadvisor",
+  "questions": [
+    {
+      "id": 1002,
+      "title": "Find Common Characters",
+      "difficulty": "Easy",
+      "acceptance": "74.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-common-characters"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "44.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses"
+    },
+    {
+      "id": 383,
+      "title": "Ransom Note",
+      "difficulty": "Easy",
+      "acceptance": "66.0%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/ransom-note"
+    },
+    {
+      "id": 240,
+      "title": "Search a 2D Matrix II",
+      "difficulty": "Medium",
+      "acceptance": "57.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix-ii"
+    },
+    {
+      "id": 155,
+      "title": "Min Stack",
+      "difficulty": "Medium",
+      "acceptance": "58.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/min-stack"
+    }
+  ]
+}

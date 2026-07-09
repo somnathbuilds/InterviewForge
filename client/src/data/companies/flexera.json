@@ -1,0 +1,21 @@
+{
+  "company": "Flexera",
+  "questions": [
+    {
+      "id": 3170,
+      "title": "Lexicographically Minimum String After Removing Stars",
+      "difficulty": "Medium",
+      "acceptance": "51.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars"
+    },
+    {
+      "id": 3174,
+      "title": "Clear Digits",
+      "difficulty": "Easy",
+      "acceptance": "82.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/clear-digits"
+    }
+  ]
+}

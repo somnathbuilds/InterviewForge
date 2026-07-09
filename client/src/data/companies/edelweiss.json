@@ -1,0 +1,13 @@
+{
+  "company": "Edelweiss",
+  "questions": [
+    {
+      "id": 3011,
+      "title": "Find if Array Can Be Sorted",
+      "difficulty": "Medium",
+      "acceptance": "66.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-if-array-can-be-sorted"
+    }
+  ]
+}

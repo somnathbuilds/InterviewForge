@@ -1,0 +1,13 @@
+{
+  "company": "Fallible",
+  "questions": [
+    {
+      "id": 507,
+      "title": "Perfect Number",
+      "difficulty": "Easy",
+      "acceptance": "48.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/perfect-number"
+    }
+  ]
+}

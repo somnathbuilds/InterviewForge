@@ -1,0 +1,13 @@
+{
+  "company": "Alphonso",
+  "questions": [
+    {
+      "id": 1898,
+      "title": "Maximum Number of Removable Characters",
+      "difficulty": "Medium",
+      "acceptance": "47.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-removable-characters"
+    }
+  ]
+}

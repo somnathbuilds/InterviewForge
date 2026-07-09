@@ -1,0 +1,21 @@
+{
+  "company": "Kakao",
+  "questions": [
+    {
+      "id": 2212,
+      "title": "Maximum Points in an Archery Competition",
+      "difficulty": "Medium",
+      "acceptance": "51.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-points-in-an-archery-competition"
+    },
+    {
+      "id": 1210,
+      "title": "Minimum Moves to Reach Target with Rotations",
+      "difficulty": "Hard",
+      "acceptance": "52.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations"
+    }
+  ]
+}

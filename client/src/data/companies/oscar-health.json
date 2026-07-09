@@ -1,0 +1,29 @@
+{
+  "company": "Oscar Health",
+  "questions": [
+    {
+      "id": 1724,
+      "title": "Checking Existence of Edge Length Limited Paths II",
+      "difficulty": "Hard",
+      "acceptance": "51.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii"
+    },
+    {
+      "id": 362,
+      "title": "Design Hit Counter",
+      "difficulty": "Medium",
+      "acceptance": "69.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-hit-counter"
+    },
+    {
+      "id": 91,
+      "title": "Decode Ways",
+      "difficulty": "Medium",
+      "acceptance": "38.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-ways"
+    }
+  ]
+}

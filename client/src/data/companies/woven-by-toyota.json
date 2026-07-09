@@ -1,0 +1,13 @@
+{
+  "company": "Woven By Toyota",
+  "questions": [
+    {
+      "id": 716,
+      "title": "Max Stack",
+      "difficulty": "Hard",
+      "acceptance": "45.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/max-stack"
+    }
+  ]
+}

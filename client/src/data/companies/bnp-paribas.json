@@ -1,0 +1,13 @@
+{
+  "company": "Bnp Paribas",
+  "questions": [
+    {
+      "id": 761,
+      "title": "Special Binary String",
+      "difficulty": "Hard",
+      "acceptance": "79.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/special-binary-string"
+    }
+  ]
+}

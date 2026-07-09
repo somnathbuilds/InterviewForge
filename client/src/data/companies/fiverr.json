@@ -1,0 +1,21 @@
+{
+  "company": "Fiverr",
+  "questions": [
+    {
+      "id": 78,
+      "title": "Subsets",
+      "difficulty": "Medium",
+      "acceptance": "82.3%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/subsets"
+    },
+    {
+      "id": 189,
+      "title": "Rotate Array",
+      "difficulty": "Medium",
+      "acceptance": "44.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array"
+    }
+  ]
+}

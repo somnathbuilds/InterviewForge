@@ -1,0 +1,189 @@
+{
+  "company": "Makemytrip",
+  "questions": [
+    {
+      "id": 22,
+      "title": "Generate Parentheses",
+      "difficulty": "Medium",
+      "acceptance": "78.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses"
+    },
+    {
+      "id": 41,
+      "title": "First Missing Positive",
+      "difficulty": "Hard",
+      "acceptance": "42.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/first-missing-positive"
+    },
+    {
+      "id": 42,
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "acceptance": "67.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water"
+    },
+    {
+      "id": 76,
+      "title": "Minimum Window Substring",
+      "difficulty": "Hard",
+      "acceptance": "47.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-window-substring"
+    },
+    {
+      "id": 2958,
+      "title": "Length of Longest Subarray With at Most K Frequency",
+      "difficulty": "Medium",
+      "acceptance": "56.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency"
+    },
+    {
+      "id": 1714,
+      "title": "Sum Of Special Evenly-Spaced Elements In Array",
+      "difficulty": "Hard",
+      "acceptance": "49.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array"
+    },
+    {
+      "id": 2370,
+      "title": "Longest Ideal Subsequence",
+      "difficulty": "Medium",
+      "acceptance": "46.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-ideal-subsequence"
+    },
+    {
+      "id": 2368,
+      "title": "Reachable Nodes With Restrictions",
+      "difficulty": "Medium",
+      "acceptance": "60.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/reachable-nodes-with-restrictions"
+    },
+    {
+      "id": 787,
+      "title": "Cheapest Flights Within K Stops",
+      "difficulty": "Medium",
+      "acceptance": "41.8%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/cheapest-flights-within-k-stops"
+    },
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals"
+    },
+    {
+      "id": 32,
+      "title": "Longest Valid Parentheses",
+      "difficulty": "Hard",
+      "acceptance": "38.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-valid-parentheses"
+    },
+    {
+      "id": 399,
+      "title": "Evaluate Division",
+      "difficulty": "Medium",
+      "acceptance": "64.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-division"
+    },
+    {
+      "id": 239,
+      "title": "Sliding Window Maximum",
+      "difficulty": "Hard",
+      "acceptance": "48.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum"
+    },
+    {
+      "id": 5,
+      "title": "Longest Palindromic Substring",
+      "difficulty": "Medium",
+      "acceptance": "37.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring"
+    },
+    {
+      "id": 79,
+      "title": "Word Search",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-search"
+    },
+    {
+      "id": 49,
+      "title": "Group Anagrams",
+      "difficulty": "Medium",
+      "acceptance": "72.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams"
+    },
+    {
+      "id": 43,
+      "title": "Multiply Strings",
+      "difficulty": "Medium",
+      "acceptance": "44.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/multiply-strings"
+    },
+    {
+      "id": 918,
+      "title": "Maximum Sum Circular Subarray",
+      "difficulty": "Medium",
+      "acceptance": "50.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-circular-subarray"
+    },
+    {
+      "id": 127,
+      "title": "Word Ladder",
+      "difficulty": "Hard",
+      "acceptance": "45.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-ladder"
+    },
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+      "id": 198,
+      "title": "House Robber",
+      "difficulty": "Medium",
+      "acceptance": "53.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/house-robber"
+    },
+    {
+      "id": 75,
+      "title": "Sort Colors",
+      "difficulty": "Medium",
+      "acceptance": "69.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors"
+    },
+    {
+      "id": 213,
+      "title": "House Robber II",
+      "difficulty": "Medium",
+      "acceptance": "44.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/house-robber-ii"
+    }
+  ]
+}

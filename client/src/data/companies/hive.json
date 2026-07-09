@@ -1,0 +1,53 @@
+{
+  "company": "Hive",
+  "questions": [
+    {
+      "id": 912,
+      "title": "Sort an Array",
+      "difficulty": "Medium",
+      "acceptance": "55.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-an-array"
+    },
+    {
+      "id": 200,
+      "title": "Number of Islands",
+      "difficulty": "Medium",
+      "acceptance": "64.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands"
+    },
+    {
+      "id": 297,
+      "title": "Serialize and Deserialize Binary Tree",
+      "difficulty": "Hard",
+      "acceptance": "60.8%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree"
+    },
+    {
+      "id": 1162,
+      "title": "As Far from Land as Possible",
+      "difficulty": "Medium",
+      "acceptance": "52.3%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/as-far-from-land-as-possible"
+    },
+    {
+      "id": 42,
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "acceptance": "67.4%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water"
+    },
+    {
+      "id": 68,
+      "title": "Text Justification",
+      "difficulty": "Hard",
+      "acceptance": "51.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/text-justification"
+    }
+  ]
+}

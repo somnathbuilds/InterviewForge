@@ -1,0 +1,13 @@
+{
+  "company": "Smartsheet",
+  "questions": [
+    {
+      "id": 347,
+      "title": "Top K Frequent Elements",
+      "difficulty": "Medium",
+      "acceptance": "66.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements"
+    }
+  ]
+}

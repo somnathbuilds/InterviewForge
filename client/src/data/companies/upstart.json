@@ -1,0 +1,53 @@
+{
+  "company": "Upstart",
+  "questions": [
+    {
+      "id": 53,
+      "title": "Maximum Subarray",
+      "difficulty": "Medium",
+      "acceptance": "53.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray"
+    },
+    {
+      "id": 71,
+      "title": "Simplify Path",
+      "difficulty": "Medium",
+      "acceptance": "50.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/simplify-path"
+    },
+    {
+      "id": 304,
+      "title": "Range Sum Query 2D - Immutable",
+      "difficulty": "Medium",
+      "acceptance": "58.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-2d-immutable"
+    },
+    {
+      "id": 120,
+      "title": "Triangle",
+      "difficulty": "Medium",
+      "acceptance": "59.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/triangle"
+    },
+    {
+      "id": 36,
+      "title": "Valid Sudoku",
+      "difficulty": "Medium",
+      "acceptance": "64.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-sudoku"
+    },
+    {
+      "id": 49,
+      "title": "Group Anagrams",
+      "difficulty": "Medium",
+      "acceptance": "72.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "company": "Larsen Toubro",
+  "questions": [
+    {
+      "id": 3079,
+      "title": "Find the Sum of Encrypted Integers",
+      "difficulty": "Easy",
+      "acceptance": "74.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-sum-of-encrypted-integers"
+    },
+    {
+      "id": 3105,
+      "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+      "difficulty": "Easy",
+      "acceptance": "64.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray"
+    }
+  ]
+}

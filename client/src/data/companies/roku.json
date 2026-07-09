@@ -1,0 +1,141 @@
+{
+  "company": "Roku",
+  "questions": [
+    {
+      "id": 394,
+      "title": "Decode String",
+      "difficulty": "Medium",
+      "acceptance": "62.6%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-string"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 844,
+      "title": "Backspace String Compare",
+      "difficulty": "Easy",
+      "acceptance": "49.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/backspace-string-compare"
+    },
+    {
+      "id": 43,
+      "title": "Multiply Strings",
+      "difficulty": "Medium",
+      "acceptance": "44.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/multiply-strings"
+    },
+    {
+      "id": 628,
+      "title": "Maximum Product of Three Numbers",
+      "difficulty": "Easy",
+      "acceptance": "45.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-three-numbers"
+    },
+    {
+      "id": 1004,
+      "title": "Max Consecutive Ones III",
+      "difficulty": "Medium",
+      "acceptance": "67.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones-iii"
+    },
+    {
+      "id": 864,
+      "title": "Shortest Path to Get All Keys",
+      "difficulty": "Hard",
+      "acceptance": "54.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-path-to-get-all-keys"
+    },
+    {
+      "id": 679,
+      "title": "24 Game",
+      "difficulty": "Hard",
+      "acceptance": "59.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/24-game"
+    },
+    {
+      "id": 680,
+      "title": "Valid Palindrome II",
+      "difficulty": "Easy",
+      "acceptance": "44.3%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome-ii"
+    },
+    {
+      "id": 347,
+      "title": "Top K Frequent Elements",
+      "difficulty": "Medium",
+      "acceptance": "66.4%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements"
+    },
+    {
+      "id": 678,
+      "title": "Valid Parenthesis String",
+      "difficulty": "Medium",
+      "acceptance": "40.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parenthesis-string"
+    },
+    {
+      "id": 135,
+      "title": "Candy",
+      "difficulty": "Hard",
+      "acceptance": "48.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/candy"
+    },
+    {
+      "id": 695,
+      "title": "Max Area of Island",
+      "difficulty": "Medium",
+      "acceptance": "74.0%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/max-area-of-island"
+    },
+    {
+      "id": 983,
+      "title": "Minimum Cost For Tickets",
+      "difficulty": "Medium",
+      "acceptance": "67.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-for-tickets"
+    },
+    {
+      "id": 15,
+      "title": "3Sum",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum"
+    },
+    {
+      "id": 987,
+      "title": "Vertical Order Traversal of a Binary Tree",
+      "difficulty": "Hard",
+      "acceptance": "53.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree"
+    },
+    {
+      "id": 735,
+      "title": "Asteroid Collision",
+      "difficulty": "Medium",
+      "acceptance": "47.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/asteroid-collision"
+    }
+  ]
+}

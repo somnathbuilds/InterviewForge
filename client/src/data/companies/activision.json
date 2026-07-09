@@ -1,0 +1,29 @@
+{
+  "company": "Activision",
+  "questions": [
+    {
+      "id": 1694,
+      "title": "Reformat Phone Number",
+      "difficulty": "Easy",
+      "acceptance": "67.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/reformat-phone-number"
+    },
+    {
+      "id": 394,
+      "title": "Decode String",
+      "difficulty": "Medium",
+      "acceptance": "62.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-string"
+    },
+    {
+      "id": 2964,
+      "title": "Number of Divisible Triplet Sums",
+      "difficulty": "Medium",
+      "acceptance": "67.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-divisible-triplet-sums"
+    }
+  ]
+}

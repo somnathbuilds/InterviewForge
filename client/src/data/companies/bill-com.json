@@ -1,0 +1,13 @@
+{
+  "company": "Bill Com",
+  "questions": [
+    {
+      "id": 1962,
+      "title": "Remove Stones to Minimize the Total",
+      "difficulty": "Medium",
+      "acceptance": "65.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-stones-to-minimize-the-total"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "company": "Etsy",
+  "questions": [
+    {
+      "id": 1582,
+      "title": "Special Positions in a Binary Matrix",
+      "difficulty": "Easy",
+      "acceptance": "72.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/special-positions-in-a-binary-matrix"
+    }
+  ]
+}

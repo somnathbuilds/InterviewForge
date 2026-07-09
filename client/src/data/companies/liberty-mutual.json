@@ -1,0 +1,13 @@
+{
+  "company": "Liberty Mutual",
+  "questions": [
+    {
+      "id": 2296,
+      "title": "Design a Text Editor",
+      "difficulty": "Hard",
+      "acceptance": "50.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-a-text-editor"
+    }
+  ]
+}

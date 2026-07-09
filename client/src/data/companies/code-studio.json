@@ -1,0 +1,13 @@
+{
+  "company": "Code Studio",
+  "questions": [
+    {
+      "id": 1991,
+      "title": "Find the Middle Index in Array",
+      "difficulty": "Easy",
+      "acceptance": "69.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-middle-index-in-array"
+    }
+  ]
+}

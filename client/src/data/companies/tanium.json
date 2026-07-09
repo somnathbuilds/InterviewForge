@@ -1,0 +1,21 @@
+{
+  "company": "Tanium",
+  "questions": [
+    {
+      "id": 1306,
+      "title": "Jump Game III",
+      "difficulty": "Medium",
+      "acceptance": "70.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-iii"
+    },
+    {
+      "id": 917,
+      "title": "Reverse Only Letters",
+      "difficulty": "Easy",
+      "acceptance": "68.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-only-letters"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "company": "Viasat",
+  "questions": [
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 110,
+      "title": "Balanced Binary Tree",
+      "difficulty": "Easy",
+      "acceptance": "58.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/balanced-binary-tree"
+    }
+  ]
+}

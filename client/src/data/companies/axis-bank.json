@@ -1,0 +1,13 @@
+{
+  "company": "Axis Bank",
+  "questions": [
+    {
+      "id": 3495,
+      "title": "Minimum Operations to Make Array Elements Zero",
+      "difficulty": "Hard",
+      "acceptance": "60.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero"
+    }
+  ]
+}

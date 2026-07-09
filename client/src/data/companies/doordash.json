@@ -1,0 +1,645 @@
+{
+  "company": "Doordash",
+  "questions": [
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 986,
+      "title": "Interval List Intersections",
+      "difficulty": "Medium",
+      "acceptance": "73.0%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/interval-list-intersections"
+    },
+    {
+      "id": 987,
+      "title": "Vertical Order Traversal of a Binary Tree",
+      "difficulty": "Hard",
+      "acceptance": "53.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree"
+    },
+    {
+      "id": 31,
+      "title": "Next Permutation",
+      "difficulty": "Medium",
+      "acceptance": "45.3%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/next-permutation"
+    },
+    {
+      "id": 37,
+      "title": "Sudoku Solver",
+      "difficulty": "Hard",
+      "acceptance": "65.5%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/sudoku-solver"
+    },
+    {
+      "id": 45,
+      "title": "Jump Game II",
+      "difficulty": "Medium",
+      "acceptance": "42.9%",
+      "frequency": "25.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-ii"
+    },
+    {
+      "id": 55,
+      "title": "Jump Game",
+      "difficulty": "Medium",
+      "acceptance": "40.9%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game"
+    },
+    {
+      "id": 84,
+      "title": "Largest Rectangle in Histogram",
+      "difficulty": "Hard",
+      "acceptance": "49.9%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-rectangle-in-histogram"
+    },
+    {
+      "id": 1166,
+      "title": "Design File System",
+      "difficulty": "Medium",
+      "acceptance": "65.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-file-system"
+    },
+    {
+      "id": 124,
+      "title": "Binary Tree Maximum Path Sum",
+      "difficulty": "Hard",
+      "acceptance": "42.3%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-maximum-path-sum"
+    },
+    {
+      "id": 2049,
+      "title": "Count Nodes With the Highest Score",
+      "difficulty": "Medium",
+      "acceptance": "52.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-nodes-with-the-highest-score"
+    },
+    {
+      "id": 2065,
+      "title": "Maximum Path Quality of a Graph",
+      "difficulty": "Hard",
+      "acceptance": "62.2%",
+      "frequency": "25.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-path-quality-of-a-graph"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 164,
+      "title": "Maximum Gap",
+      "difficulty": "Medium",
+      "acceptance": "52.1%",
+      "frequency": "25.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-gap"
+    },
+    {
+      "id": 200,
+      "title": "Number of Islands",
+      "difficulty": "Medium",
+      "acceptance": "64.4%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands"
+    },
+    {
+      "id": 208,
+      "title": "Implement Trie (Prefix Tree)",
+      "difficulty": "Medium",
+      "acceptance": "69.5%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/implement-trie-prefix-tree"
+    },
+    {
+      "id": 210,
+      "title": "Course Schedule II",
+      "difficulty": "Medium",
+      "acceptance": "55.5%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii"
+    },
+    {
+      "id": 211,
+      "title": "Design Add and Search Words Data Structure",
+      "difficulty": "Medium",
+      "acceptance": "48.5%",
+      "frequency": "25.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-add-and-search-words-data-structure"
+    },
+    {
+      "id": 212,
+      "title": "Word Search II",
+      "difficulty": "Hard",
+      "acceptance": "38.5%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-search-ii"
+    },
+    {
+      "id": 224,
+      "title": "Basic Calculator",
+      "difficulty": "Hard",
+      "acceptance": "46.9%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/basic-calculator"
+    },
+    {
+      "id": 1143,
+      "title": "Longest Common Subsequence",
+      "difficulty": "Medium",
+      "acceptance": "59.2%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-subsequence"
+    },
+    {
+      "id": 227,
+      "title": "Basic Calculator II",
+      "difficulty": "Medium",
+      "acceptance": "46.9%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/basic-calculator-ii"
+    },
+    {
+      "id": 239,
+      "title": "Sliding Window Maximum",
+      "difficulty": "Hard",
+      "acceptance": "48.8%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum"
+    },
+    {
+      "id": 1173,
+      "title": "Immediate Food Delivery I",
+      "difficulty": "Easy",
+      "acceptance": "80.6%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/immediate-food-delivery-i"
+    },
+    {
+      "id": 1174,
+      "title": "Immediate Food Delivery II",
+      "difficulty": "Medium",
+      "acceptance": "56.0%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/immediate-food-delivery-ii"
+    },
+    {
+      "id": 1944,
+      "title": "Number of Visible People in a Queue",
+      "difficulty": "Hard",
+      "acceptance": "73.1%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-visible-people-in-a-queue"
+    },
+    {
+      "id": 286,
+      "title": "Walls and Gates",
+      "difficulty": "Medium",
+      "acceptance": "64.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/walls-and-gates"
+    },
+    {
+      "id": 296,
+      "title": "Best Meeting Point",
+      "difficulty": "Hard",
+      "acceptance": "61.4%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/best-meeting-point"
+    },
+    {
+      "id": 297,
+      "title": "Serialize and Deserialize Binary Tree",
+      "difficulty": "Hard",
+      "acceptance": "60.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree"
+    },
+    {
+      "id": 317,
+      "title": "Shortest Distance from All Buildings",
+      "difficulty": "Hard",
+      "acceptance": "44.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-distance-from-all-buildings"
+    },
+    {
+      "id": 1235,
+      "title": "Maximum Profit in Job Scheduling",
+      "difficulty": "Hard",
+      "acceptance": "54.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-profit-in-job-scheduling"
+    },
+    {
+      "id": 329,
+      "title": "Longest Increasing Path in a Matrix",
+      "difficulty": "Hard",
+      "acceptance": "56.6%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix"
+    },
+    {
+      "id": 1268,
+      "title": "Search Suggestions System",
+      "difficulty": "Medium",
+      "acceptance": "65.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/search-suggestions-system"
+    },
+    {
+      "id": 1359,
+      "title": "Count All Valid Pickup and Delivery Options",
+      "difficulty": "Hard",
+      "acceptance": "64.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options"
+    },
+    {
+      "id": 1347,
+      "title": "Minimum Number of Steps to Make Two Strings Anagram",
+      "difficulty": "Medium",
+      "acceptance": "82.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram"
+    },
+    {
+      "id": 1730,
+      "title": "Shortest Path to Get Food",
+      "difficulty": "Medium",
+      "acceptance": "57.2%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-path-to-get-food"
+    },
+    {
+      "id": 556,
+      "title": "Next Greater Element III",
+      "difficulty": "Medium",
+      "acceptance": "35.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-iii"
+    },
+    {
+      "id": 588,
+      "title": "Design In-Memory File System",
+      "difficulty": "Hard",
+      "acceptance": "48.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-in-memory-file-system"
+    },
+    {
+      "id": 2565,
+      "title": "Subsequence With the Minimum Score",
+      "difficulty": "Hard",
+      "acceptance": "33.3%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/subsequence-with-the-minimum-score"
+    },
+    {
+      "id": 658,
+      "title": "Find K Closest Elements",
+      "difficulty": "Medium",
+      "acceptance": "49.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-k-closest-elements"
+    },
+    {
+      "id": 2611,
+      "title": "Mice and Cheese",
+      "difficulty": "Medium",
+      "acceptance": "48.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/mice-and-cheese"
+    },
+    {
+      "id": 735,
+      "title": "Asteroid Collision",
+      "difficulty": "Medium",
+      "acceptance": "47.9%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/asteroid-collision"
+    },
+    {
+      "id": 772,
+      "title": "Basic Calculator III",
+      "difficulty": "Hard",
+      "acceptance": "53.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/basic-calculator-iii"
+    },
+    {
+      "id": 778,
+      "title": "Swim in Rising Water",
+      "difficulty": "Hard",
+      "acceptance": "67.8%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/swim-in-rising-water"
+    },
+    {
+      "id": 826,
+      "title": "Most Profit Assigning Work",
+      "difficulty": "Medium",
+      "acceptance": "56.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/most-profit-assigning-work"
+    },
+    {
+      "id": 827,
+      "title": "Making A Large Island",
+      "difficulty": "Hard",
+      "acceptance": "56.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/making-a-large-island"
+    },
+    {
+      "id": 1779,
+      "title": "Find Nearest Point That Has the Same X or Y Coordinate",
+      "difficulty": "Easy",
+      "acceptance": "70.0%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate"
+    },
+    {
+      "id": 859,
+      "title": "Buddy Strings",
+      "difficulty": "Easy",
+      "acceptance": "34.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/buddy-strings"
+    },
+    {
+      "id": 1790,
+      "title": "Check if One String Swap Can Make Strings Equal",
+      "difficulty": "Easy",
+      "acceptance": "49.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal"
+    },
+    {
+      "id": 875,
+      "title": "Koko Eating Bananas",
+      "difficulty": "Medium",
+      "acceptance": "50.0%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/koko-eating-bananas"
+    },
+    {
+      "id": 1834,
+      "title": "Single-Threaded CPU",
+      "difficulty": "Medium",
+      "acceptance": "47.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/single-threaded-cpu"
+    },
+    {
+      "id": 1905,
+      "title": "Count Sub Islands",
+      "difficulty": "Medium",
+      "acceptance": "73.0%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-sub-islands"
+    },
+    {
+      "id": 695,
+      "title": "Max Area of Island",
+      "difficulty": "Medium",
+      "acceptance": "74.0%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/max-area-of-island"
+    },
+    {
+      "id": 1472,
+      "title": "Design Browser History",
+      "difficulty": "Medium",
+      "acceptance": "78.3%",
+      "frequency": "25.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-browser-history"
+    },
+    {
+      "id": 460,
+      "title": "LFU Cache",
+      "difficulty": "Hard",
+      "acceptance": "49.2%",
+      "frequency": "25.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/lfu-cache"
+    },
+    {
+      "id": 542,
+      "title": "01 Matrix",
+      "difficulty": "Medium",
+      "acceptance": "53.9%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/01-matrix"
+    },
+    {
+      "id": 1152,
+      "title": "Analyze User Website Visit Pattern",
+      "difficulty": "Medium",
+      "acceptance": "44.3%",
+      "frequency": "25.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/analyze-user-website-visit-pattern"
+    },
+    {
+      "id": 49,
+      "title": "Group Anagrams",
+      "difficulty": "Medium",
+      "acceptance": "72.6%",
+      "frequency": "25.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams"
+    },
+    {
+      "id": 314,
+      "title": "Binary Tree Vertical Order Traversal",
+      "difficulty": "Medium",
+      "acceptance": "57.8%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-vertical-order-traversal"
+    },
+    {
+      "id": 1664,
+      "title": "Ways to Make a Fair Array",
+      "difficulty": "Medium",
+      "acceptance": "66.9%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/ways-to-make-a-fair-array"
+    },
+    {
+      "id": 1087,
+      "title": "Brace Expansion",
+      "difficulty": "Medium",
+      "acceptance": "66.9%",
+      "frequency": "25.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/brace-expansion"
+    },
+    {
+      "id": 924,
+      "title": "Minimize Malware Spread",
+      "difficulty": "Hard",
+      "acceptance": "43.2%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimize-malware-spread"
+    },
+    {
+      "id": 209,
+      "title": "Minimum Size Subarray Sum",
+      "difficulty": "Medium",
+      "acceptance": "51.7%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-size-subarray-sum"
+    },
+    {
+      "id": 480,
+      "title": "Sliding Window Median",
+      "difficulty": "Hard",
+      "acceptance": "39.0%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-median"
+    },
+    {
+      "id": 18,
+      "title": "4Sum",
+      "difficulty": "Medium",
+      "acceptance": "40.6%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/4sum"
+    },
+    {
+      "id": 304,
+      "title": "Range Sum Query 2D - Immutable",
+      "difficulty": "Medium",
+      "acceptance": "58.3%",
+      "frequency": "25.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-2d-immutable"
+    },
+    {
+      "id": 380,
+      "title": "Insert Delete GetRandom O(1)",
+      "difficulty": "Medium",
+      "acceptance": "55.4%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+    },
+    {
+      "id": 23,
+      "title": "Merge k Sorted Lists",
+      "difficulty": "Hard",
+      "acceptance": "59.6%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists"
+    },
+    {
+      "id": 839,
+      "title": "Similar String Groups",
+      "difficulty": "Hard",
+      "acceptance": "56.3%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/similar-string-groups"
+    },
+    {
+      "id": 5,
+      "title": "Longest Palindromic Substring",
+      "difficulty": "Medium",
+      "acceptance": "37.8%",
+      "frequency": "25.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring"
+    },
+    {
+      "id": 207,
+      "title": "Course Schedule",
+      "difficulty": "Medium",
+      "acceptance": "51.4%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule"
+    },
+    {
+      "id": 854,
+      "title": "K-Similar Strings",
+      "difficulty": "Hard",
+      "acceptance": "40.9%",
+      "frequency": "25.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/k-similar-strings"
+    },
+    {
+      "id": 13,
+      "title": "Roman to Integer",
+      "difficulty": "Easy",
+      "acceptance": "66.6%",
+      "frequency": "25.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/roman-to-integer"
+    },
+    {
+      "id": 3123,
+      "title": "Find Edges in Shortest Paths",
+      "difficulty": "Hard",
+      "acceptance": "46.7%",
+      "frequency": "25.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-edges-in-shortest-paths"
+    },
+    {
+      "id": 12,
+      "title": "Integer to Roman",
+      "difficulty": "Medium",
+      "acceptance": "71.0%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/integer-to-roman"
+    },
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals"
+    },
+    {
+      "id": 994,
+      "title": "Rotting Oranges",
+      "difficulty": "Medium",
+      "acceptance": "58.7%",
+      "frequency": "25.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/rotting-oranges"
+    },
+    {
+      "id": 456,
+      "title": "132 Pattern",
+      "difficulty": "Medium",
+      "acceptance": "34.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/132-pattern"
+    },
+    {
+      "id": 2,
+      "title": "Add Two Numbers",
+      "difficulty": "Medium",
+      "acceptance": "48.5%",
+      "frequency": "25.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers"
+    },
+    {
+      "id": 543,
+      "title": "Diameter of Binary Tree",
+      "difficulty": "Easy",
+      "acceptance": "65.5%",
+      "frequency": "25.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/diameter-of-binary-tree"
+    }
+  ]
+}

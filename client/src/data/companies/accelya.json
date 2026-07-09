@@ -1,0 +1,13 @@
+{
+  "company": "Accelya",
+  "questions": [
+    {
+      "id": 2951,
+      "title": "Find the Peaks",
+      "difficulty": "Easy",
+      "acceptance": "75.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-peaks"
+    }
+  ]
+}

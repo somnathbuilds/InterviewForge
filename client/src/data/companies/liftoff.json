@@ -1,0 +1,37 @@
+{
+  "company": "Liftoff",
+  "questions": [
+    {
+      "id": 528,
+      "title": "Random Pick with Weight",
+      "difficulty": "Medium",
+      "acceptance": "49.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/random-pick-with-weight"
+    },
+    {
+      "id": 498,
+      "title": "Diagonal Traverse",
+      "difficulty": "Medium",
+      "acceptance": "67.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/diagonal-traverse"
+    },
+    {
+      "id": 1424,
+      "title": "Diagonal Traverse II",
+      "difficulty": "Medium",
+      "acceptance": "58.3%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/diagonal-traverse-ii"
+    },
+    {
+      "id": 52,
+      "title": "N-Queens II",
+      "difficulty": "Hard",
+      "acceptance": "78.7%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/n-queens-ii"
+    }
+  ]
+}

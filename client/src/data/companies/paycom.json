@@ -1,0 +1,21 @@
+{
+  "company": "Paycom",
+  "questions": [
+    {
+      "id": 217,
+      "title": "Contains Duplicate",
+      "difficulty": "Easy",
+      "acceptance": "64.4%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate"
+    },
+    {
+      "id": 1200,
+      "title": "Minimum Absolute Difference",
+      "difficulty": "Easy",
+      "acceptance": "75.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-absolute-difference"
+    }
+  ]
+}

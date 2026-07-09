@@ -1,0 +1,13 @@
+{
+  "company": "Helix",
+  "questions": [
+    {
+      "id": 696,
+      "title": "Count Binary Substrings",
+      "difficulty": "Easy",
+      "acceptance": "70.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-binary-substrings"
+    }
+  ]
+}

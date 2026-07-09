@@ -1,0 +1,13 @@
+{
+  "company": "Interactive Brokers",
+  "questions": [
+    {
+      "id": 2303,
+      "title": "Calculate Amount Paid in Taxes",
+      "difficulty": "Easy",
+      "acceptance": "69.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/calculate-amount-paid-in-taxes"
+    }
+  ]
+}

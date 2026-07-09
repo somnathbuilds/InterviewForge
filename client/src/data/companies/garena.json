@@ -1,0 +1,21 @@
+{
+  "company": "Garena",
+  "questions": [
+    {
+      "id": 810,
+      "title": "Chalkboard XOR Game",
+      "difficulty": "Hard",
+      "acceptance": "66.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/chalkboard-xor-game"
+    },
+    {
+      "id": 15,
+      "title": "3Sum",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum"
+    }
+  ]
+}

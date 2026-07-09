@@ -1,0 +1,13 @@
+{
+  "company": "Affinity",
+  "questions": [
+    {
+      "id": 1106,
+      "title": "Parsing A Boolean Expression",
+      "difficulty": "Hard",
+      "acceptance": "69.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/parsing-a-boolean-expression"
+    }
+  ]
+}

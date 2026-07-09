@@ -1,0 +1,141 @@
+{
+  "company": "Akuna Capital",
+  "questions": [
+    {
+      "id": 677,
+      "title": "Map Sum Pairs",
+      "difficulty": "Medium",
+      "acceptance": "57.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/map-sum-pairs"
+    },
+    {
+      "id": 740,
+      "title": "Delete and Earn",
+      "difficulty": "Medium",
+      "acceptance": "57.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-and-earn"
+    },
+    {
+      "id": 741,
+      "title": "Cherry Pickup",
+      "difficulty": "Hard",
+      "acceptance": "39.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/cherry-pickup"
+    },
+    {
+      "id": 743,
+      "title": "Network Delay Time",
+      "difficulty": "Medium",
+      "acceptance": "60.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/network-delay-time"
+    },
+    {
+      "id": 1649,
+      "title": "Create Sorted Array through Instructions",
+      "difficulty": "Hard",
+      "acceptance": "41.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/create-sorted-array-through-instructions"
+    },
+    {
+      "id": 1665,
+      "title": "Minimum Initial Energy to Finish Tasks",
+      "difficulty": "Hard",
+      "acceptance": "76.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks"
+    },
+    {
+      "id": 1177,
+      "title": "Can Make Palindrome from Substring",
+      "difficulty": "Medium",
+      "acceptance": "41.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/can-make-palindrome-from-substring"
+    },
+    {
+      "id": 1425,
+      "title": "Constrained Subsequence Sum",
+      "difficulty": "Hard",
+      "acceptance": "56.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/constrained-subsequence-sum"
+    },
+    {
+      "id": 1223,
+      "title": "Dice Roll Simulation",
+      "difficulty": "Hard",
+      "acceptance": "50.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/dice-roll-simulation"
+    },
+    {
+      "id": 1819,
+      "title": "Number of Different Subsequences GCDs",
+      "difficulty": "Hard",
+      "acceptance": "45.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-different-subsequences-gcds"
+    },
+    {
+      "id": 1319,
+      "title": "Number of Operations to Make Network Connected",
+      "difficulty": "Medium",
+      "acceptance": "66.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-operations-to-make-network-connected"
+    },
+    {
+      "id": 1326,
+      "title": "Minimum Number of Taps to Open to Water a Garden",
+      "difficulty": "Hard",
+      "acceptance": "51.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden"
+    },
+    {
+      "id": 1338,
+      "title": "Reduce Array Size to The Half",
+      "difficulty": "Medium",
+      "acceptance": "69.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/reduce-array-size-to-the-half"
+    },
+    {
+      "id": 1370,
+      "title": "Increasing Decreasing String",
+      "difficulty": "Easy",
+      "acceptance": "77.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/increasing-decreasing-string"
+    },
+    {
+      "id": 2497,
+      "title": "Maximum Star Sum of a Graph",
+      "difficulty": "Medium",
+      "acceptance": "42.4%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-star-sum-of-a-graph"
+    },
+    {
+      "id": 1192,
+      "title": "Critical Connections in a Network",
+      "difficulty": "Hard",
+      "acceptance": "59.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/critical-connections-in-a-network"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    }
+  ]
+}

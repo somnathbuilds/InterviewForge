@@ -1,0 +1,13 @@
+{
+  "company": "Hotstar",
+  "questions": [
+    {
+      "id": 927,
+      "title": "Three Equal Parts",
+      "difficulty": "Hard",
+      "acceptance": "41.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/three-equal-parts"
+    }
+  ]
+}

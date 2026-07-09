@@ -1,0 +1,21 @@
+{
+  "company": "Cred",
+  "questions": [
+    {
+      "id": 3005,
+      "title": "Count Elements With Maximum Frequency",
+      "difficulty": "Easy",
+      "acceptance": "79.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-elements-with-maximum-frequency"
+    },
+    {
+      "id": 424,
+      "title": "Longest Repeating Character Replacement",
+      "difficulty": "Medium",
+      "acceptance": "59.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-repeating-character-replacement"
+    }
+  ]
+}

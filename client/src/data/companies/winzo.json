@@ -1,0 +1,13 @@
+{
+  "company": "Winzo",
+  "questions": [
+    {
+      "id": 632,
+      "title": "Smallest Range Covering Elements from K Lists",
+      "difficulty": "Hard",
+      "acceptance": "70.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists"
+    }
+  ]
+}

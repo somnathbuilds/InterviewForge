@@ -1,0 +1,21 @@
+{
+  "company": "Grubhub",
+  "questions": [
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals"
+    },
+    {
+      "id": 695,
+      "title": "Max Area of Island",
+      "difficulty": "Medium",
+      "acceptance": "74.0%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/max-area-of-island"
+    }
+  ]
+}

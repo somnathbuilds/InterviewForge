@@ -1,0 +1,13 @@
+{
+  "company": "Moneylion",
+  "questions": [
+    {
+      "id": 2811,
+      "title": "Check if it is Possible to Split Array",
+      "difficulty": "Medium",
+      "acceptance": "34.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-it-is-possible-to-split-array"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "company": "Veritas",
+  "questions": [
+    {
+      "id": 2381,
+      "title": "Shifting Letters II",
+      "difficulty": "Medium",
+      "acceptance": "53.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/shifting-letters-ii"
+    }
+  ]
+}

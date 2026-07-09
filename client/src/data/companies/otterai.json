@@ -1,0 +1,37 @@
+{
+  "company": "Otterai",
+  "questions": [
+    {
+      "id": 407,
+      "title": "Trapping Rain Water II",
+      "difficulty": "Hard",
+      "acceptance": "64.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water-ii"
+    },
+    {
+      "id": 403,
+      "title": "Frog Jump",
+      "difficulty": "Hard",
+      "acceptance": "47.3%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/frog-jump"
+    },
+    {
+      "id": 139,
+      "title": "Word Break",
+      "difficulty": "Medium",
+      "acceptance": "49.5%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break"
+    },
+    {
+      "id": 2625,
+      "title": "Flatten Deeply Nested Array",
+      "difficulty": "Medium",
+      "acceptance": "65.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/flatten-deeply-nested-array"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "company": "Canva",
+  "questions": [
+    {
+      "id": 227,
+      "title": "Basic Calculator II",
+      "difficulty": "Medium",
+      "acceptance": "46.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/basic-calculator-ii"
+    },
+    {
+      "id": 224,
+      "title": "Basic Calculator",
+      "difficulty": "Hard",
+      "acceptance": "46.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/basic-calculator"
+    }
+  ]
+}

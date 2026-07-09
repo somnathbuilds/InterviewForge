@@ -1,0 +1,125 @@
+{
+  "company": "Openai",
+  "questions": [
+    {
+      "id": 71,
+      "title": "Simplify Path",
+      "difficulty": "Medium",
+      "acceptance": "50.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/simplify-path"
+    },
+    {
+      "id": 631,
+      "title": "Design Excel Sum Formula",
+      "difficulty": "Hard",
+      "acceptance": "39.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-excel-sum-formula"
+    },
+    {
+      "id": 1242,
+      "title": "Web Crawler Multithreaded",
+      "difficulty": "Medium",
+      "acceptance": "51.2%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/web-crawler-multithreaded"
+    },
+    {
+      "id": 2408,
+      "title": "Design SQL",
+      "difficulty": "Medium",
+      "acceptance": "64.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-sql"
+    },
+    {
+      "id": 981,
+      "title": "Time Based Key-Value Store",
+      "difficulty": "Medium",
+      "acceptance": "49.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/time-based-key-value-store"
+    },
+    {
+      "id": 341,
+      "title": "Flatten Nested List Iterator",
+      "difficulty": "Medium",
+      "acceptance": "65.7%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/flatten-nested-list-iterator"
+    },
+    {
+      "id": 271,
+      "title": "Encode and Decode Strings",
+      "difficulty": "Medium",
+      "acceptance": "51.6%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/encode-and-decode-strings"
+    },
+    {
+      "id": 2502,
+      "title": "Design Memory Allocator",
+      "difficulty": "Medium",
+      "acceptance": "50.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-memory-allocator"
+    },
+    {
+      "id": 2373,
+      "title": "Largest Local Values in a Matrix",
+      "difficulty": "Easy",
+      "acceptance": "87.7%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-local-values-in-a-matrix"
+    },
+    {
+      "id": 735,
+      "title": "Asteroid Collision",
+      "difficulty": "Medium",
+      "acceptance": "47.9%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/asteroid-collision"
+    },
+    {
+      "id": 751,
+      "title": "IP to CIDR",
+      "difficulty": "Medium",
+      "acceptance": "53.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/ip-to-cidr"
+    },
+    {
+      "id": 42,
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "acceptance": "67.4%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water"
+    },
+    {
+      "id": 3484,
+      "title": "Design Spreadsheet",
+      "difficulty": "Medium",
+      "acceptance": "74.1%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-spreadsheet"
+    },
+    {
+      "id": 994,
+      "title": "Rotting Oranges",
+      "difficulty": "Medium",
+      "acceptance": "58.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/rotting-oranges"
+    },
+    {
+      "id": 362,
+      "title": "Design Hit Counter",
+      "difficulty": "Medium",
+      "acceptance": "69.7%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-hit-counter"
+    }
+  ]
+}

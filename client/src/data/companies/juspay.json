@@ -1,0 +1,141 @@
+{
+  "company": "Juspay",
+  "questions": [
+    {
+      "id": 2360,
+      "title": "Longest Cycle in a Graph",
+      "difficulty": "Hard",
+      "acceptance": "50.7%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-cycle-in-a-graph"
+    },
+    {
+      "id": 2359,
+      "title": "Find Closest Node to Given Two Nodes",
+      "difficulty": "Medium",
+      "acceptance": "53.0%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-closest-node-to-given-two-nodes"
+    },
+    {
+      "id": 2374,
+      "title": "Node With Highest Edge Score",
+      "difficulty": "Medium",
+      "acceptance": "49.4%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/node-with-highest-edge-score"
+    },
+    {
+      "id": 1993,
+      "title": "Operations on Tree",
+      "difficulty": "Medium",
+      "acceptance": "45.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/operations-on-tree"
+    },
+    {
+      "id": 73,
+      "title": "Set Matrix Zeroes",
+      "difficulty": "Medium",
+      "acceptance": "62.9%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/set-matrix-zeroes"
+    },
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+      "id": 3409,
+      "title": "Longest Subsequence With Decreasing Adjacent Difference",
+      "difficulty": "Medium",
+      "acceptance": "16.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference"
+    },
+    {
+      "id": 1857,
+      "title": "Largest Color Value in a Directed Graph",
+      "difficulty": "Hard",
+      "acceptance": "57.3%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-color-value-in-a-directed-graph"
+    },
+    {
+      "id": 3515,
+      "title": "Shortest Path in a Weighted Tree",
+      "difficulty": "Hard",
+      "acceptance": "42.3%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-path-in-a-weighted-tree"
+    },
+    {
+      "id": 239,
+      "title": "Sliding Window Maximum",
+      "difficulty": "Hard",
+      "acceptance": "48.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum"
+    },
+    {
+      "id": 1717,
+      "title": "Maximum Score From Removing Substrings",
+      "difficulty": "Medium",
+      "acceptance": "66.5%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-score-from-removing-substrings"
+    },
+    {
+      "id": 134,
+      "title": "Gas Station",
+      "difficulty": "Medium",
+      "acceptance": "48.0%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/gas-station"
+    },
+    {
+      "id": 735,
+      "title": "Asteroid Collision",
+      "difficulty": "Medium",
+      "acceptance": "47.9%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/asteroid-collision"
+    },
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals"
+    },
+    {
+      "id": 3842,
+      "title": "Toggle Light Bulbs",
+      "difficulty": "Easy",
+      "acceptance": "72.0%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/toggle-light-bulbs"
+    },
+    {
+      "id": 152,
+      "title": "Maximum Product Subarray",
+      "difficulty": "Medium",
+      "acceptance": "36.4%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-subarray"
+    }
+  ]
+}

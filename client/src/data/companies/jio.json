@@ -1,0 +1,61 @@
+{
+  "company": "Jio",
+  "questions": [
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 3013,
+      "title": "Divide an Array Into Subarrays With Minimum Cost II",
+      "difficulty": "Hard",
+      "acceptance": "54.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii"
+    },
+    {
+      "id": 3030,
+      "title": "Find the Grid of Region Average",
+      "difficulty": "Medium",
+      "acceptance": "43.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-grid-of-region-average"
+    },
+    {
+      "id": 3372,
+      "title": "Maximize the Number of Target Nodes After Connecting Trees I",
+      "difficulty": "Medium",
+      "acceptance": "69.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i"
+    },
+    {
+      "id": 3373,
+      "title": "Maximize the Number of Target Nodes After Connecting Trees II",
+      "difficulty": "Hard",
+      "acceptance": "73.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii"
+    },
+    {
+      "id": 206,
+      "title": "Reverse Linked List",
+      "difficulty": "Easy",
+      "acceptance": "80.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list"
+    },
+    {
+      "id": 49,
+      "title": "Group Anagrams",
+      "difficulty": "Medium",
+      "acceptance": "72.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams"
+    }
+  ]
+}

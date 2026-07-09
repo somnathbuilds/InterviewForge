@@ -1,0 +1,13 @@
+{
+  "company": "Syfe",
+  "questions": [
+    {
+      "id": 1560,
+      "title": "Most Visited Sector in a Circular Track",
+      "difficulty": "Easy",
+      "acceptance": "60.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/most-visited-sector-in-a-circular-track"
+    }
+  ]
+}

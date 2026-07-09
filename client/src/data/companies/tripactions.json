@@ -1,0 +1,13 @@
+{
+  "company": "Tripactions",
+  "questions": [
+    {
+      "id": 706,
+      "title": "Design HashMap",
+      "difficulty": "Easy",
+      "acceptance": "66.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-hashmap"
+    }
+  ]
+}

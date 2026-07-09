@@ -1,0 +1,45 @@
+{
+  "company": "Github",
+  "questions": [
+    {
+      "id": 2849,
+      "title": "Determine if a Cell Is Reachable at a Given Time",
+      "difficulty": "Medium",
+      "acceptance": "37.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time"
+    },
+    {
+      "id": 645,
+      "title": "Set Mismatch",
+      "difficulty": "Easy",
+      "acceptance": "43.6%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/set-mismatch"
+    },
+    {
+      "id": 263,
+      "title": "Ugly Number",
+      "difficulty": "Easy",
+      "acceptance": "43.5%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/ugly-number"
+    },
+    {
+      "id": 1531,
+      "title": "String Compression II",
+      "difficulty": "Hard",
+      "acceptance": "52.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/string-compression-ii"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    }
+  ]
+}

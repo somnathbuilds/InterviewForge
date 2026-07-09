@@ -1,0 +1,13 @@
+{
+  "company": "Fidessa",
+  "questions": [
+    {
+      "id": 888,
+      "title": "Fair Candy Swap",
+      "difficulty": "Easy",
+      "acceptance": "65.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/fair-candy-swap"
+    }
+  ]
+}

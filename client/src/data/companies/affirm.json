@@ -1,0 +1,85 @@
+{
+  "company": "Affirm",
+  "questions": [
+    {
+      "id": 3076,
+      "title": "Shortest Uncommon Substring in an Array",
+      "difficulty": "Medium",
+      "acceptance": "50.6%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array"
+    },
+    {
+      "id": 49,
+      "title": "Group Anagrams",
+      "difficulty": "Medium",
+      "acceptance": "72.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams"
+    },
+    {
+      "id": 362,
+      "title": "Design Hit Counter",
+      "difficulty": "Medium",
+      "acceptance": "69.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-hit-counter"
+    },
+    {
+      "id": 380,
+      "title": "Insert Delete GetRandom O(1)",
+      "difficulty": "Medium",
+      "acceptance": "55.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+    },
+    {
+      "id": 381,
+      "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+      "difficulty": "Hard",
+      "acceptance": "36.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed"
+    },
+    {
+      "id": 443,
+      "title": "String Compression",
+      "difficulty": "Medium",
+      "acceptance": "60.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/string-compression"
+    },
+    {
+      "id": 736,
+      "title": "Parse Lisp Expression",
+      "difficulty": "Hard",
+      "acceptance": "53.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/parse-lisp-expression"
+    },
+    {
+      "id": 242,
+      "title": "Valid Anagram",
+      "difficulty": "Easy",
+      "acceptance": "68.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram"
+    },
+    {
+      "id": 322,
+      "title": "Coin Change",
+      "difficulty": "Medium",
+      "acceptance": "48.4%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/coin-change"
+    },
+    {
+      "id": 465,
+      "title": "Optimal Account Balancing",
+      "difficulty": "Hard",
+      "acceptance": "50.5%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/optimal-account-balancing"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "company": "Philips",
+  "questions": [
+    {
+      "id": 982,
+      "title": "Triples with Bitwise AND Equal To Zero",
+      "difficulty": "Hard",
+      "acceptance": "60.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero"
+    },
+    {
+      "id": 151,
+      "title": "Reverse Words in a String",
+      "difficulty": "Medium",
+      "acceptance": "56.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-words-in-a-string"
+    }
+  ]
+}

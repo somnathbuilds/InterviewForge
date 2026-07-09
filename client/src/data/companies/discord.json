@@ -1,0 +1,13 @@
+{
+  "company": "Discord",
+  "questions": [
+    {
+      "id": 2301,
+      "title": "Match Substring After Replacement",
+      "difficulty": "Hard",
+      "acceptance": "43.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/match-substring-after-replacement"
+    }
+  ]
+}

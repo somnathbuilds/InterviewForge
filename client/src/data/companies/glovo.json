@@ -1,0 +1,21 @@
+{
+  "company": "Glovo",
+  "questions": [
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 895,
+      "title": "Maximum Frequency Stack",
+      "difficulty": "Hard",
+      "acceptance": "66.8%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-frequency-stack"
+    }
+  ]
+}

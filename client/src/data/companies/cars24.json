@@ -1,0 +1,29 @@
+{
+  "company": "Cars24",
+  "questions": [
+    {
+      "id": 781,
+      "title": "Rabbits in Forest",
+      "difficulty": "Medium",
+      "acceptance": "58.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/rabbits-in-forest"
+    },
+    {
+      "id": 198,
+      "title": "House Robber",
+      "difficulty": "Medium",
+      "acceptance": "53.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/house-robber"
+    },
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "company": "Fico",
+  "questions": [
+    {
+      "id": 3042,
+      "title": "Count Prefix and Suffix Pairs I",
+      "difficulty": "Easy",
+      "acceptance": "77.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-i"
+    }
+  ]
+}

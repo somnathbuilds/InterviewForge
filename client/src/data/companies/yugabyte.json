@@ -1,0 +1,21 @@
+{
+  "company": "Yugabyte",
+  "questions": [
+    {
+      "id": 882,
+      "title": "Reachable Nodes In Subdivided Graph",
+      "difficulty": "Hard",
+      "acceptance": "52.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/reachable-nodes-in-subdivided-graph"
+    },
+    {
+      "id": 410,
+      "title": "Split Array Largest Sum",
+      "difficulty": "Hard",
+      "acceptance": "60.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum"
+    }
+  ]
+}

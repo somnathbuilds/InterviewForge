@@ -1,0 +1,13 @@
+{
+  "company": "Cleartrip",
+  "questions": [
+    {
+      "id": 1368,
+      "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+      "difficulty": "Hard",
+      "acceptance": "71.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid"
+    }
+  ]
+}

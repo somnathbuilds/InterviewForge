@@ -1,0 +1,13 @@
+{
+  "company": "Reliance Retails",
+  "questions": [
+    {
+      "id": 1572,
+      "title": "Matrix Diagonal Sum",
+      "difficulty": "Easy",
+      "acceptance": "84.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/matrix-diagonal-sum"
+    }
+  ]
+}

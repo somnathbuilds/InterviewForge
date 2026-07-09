@@ -1,0 +1,53 @@
+{
+  "company": "Rokt",
+  "questions": [
+    {
+      "id": 408,
+      "title": "Valid Word Abbreviation",
+      "difficulty": "Easy",
+      "acceptance": "37.0%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-word-abbreviation"
+    },
+    {
+      "id": 227,
+      "title": "Basic Calculator II",
+      "difficulty": "Medium",
+      "acceptance": "46.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/basic-calculator-ii"
+    },
+    {
+      "id": 224,
+      "title": "Basic Calculator",
+      "difficulty": "Hard",
+      "acceptance": "46.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/basic-calculator"
+    },
+    {
+      "id": 1472,
+      "title": "Design Browser History",
+      "difficulty": "Medium",
+      "acceptance": "78.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-browser-history"
+    },
+    {
+      "id": 10,
+      "title": "Regular Expression Matching",
+      "difficulty": "Hard",
+      "acceptance": "31.0%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/regular-expression-matching"
+    },
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "44.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses"
+    }
+  ]
+}

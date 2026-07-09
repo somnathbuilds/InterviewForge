@@ -1,0 +1,13 @@
+{
+  "company": "Moengage",
+  "questions": [
+    {
+      "id": 1897,
+      "title": "Redistribute Characters to Make All Strings Equal",
+      "difficulty": "Easy",
+      "acceptance": "66.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "company": "Moloco",
+  "questions": [
+    {
+      "id": 1381,
+      "title": "Design a Stack With Increment Operation",
+      "difficulty": "Medium",
+      "acceptance": "79.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-a-stack-with-increment-operation"
+    },
+    {
+      "id": 42,
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "acceptance": "67.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water"
+    },
+    {
+      "id": 1048,
+      "title": "Longest String Chain",
+      "difficulty": "Medium",
+      "acceptance": "63.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-string-chain"
+    },
+    {
+      "id": 540,
+      "title": "Single Element in a Sorted Array",
+      "difficulty": "Medium",
+      "acceptance": "59.3%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/single-element-in-a-sorted-array"
+    },
+    {
+      "id": 1438,
+      "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+      "difficulty": "Medium",
+      "acceptance": "57.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit"
+    },
+    {
+      "id": 200,
+      "title": "Number of Islands",
+      "difficulty": "Medium",
+      "acceptance": "64.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 827,
+      "title": "Making A Large Island",
+      "difficulty": "Hard",
+      "acceptance": "56.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/making-a-large-island"
+    },
+    {
+      "id": 130,
+      "title": "Surrounded Regions",
+      "difficulty": "Medium",
+      "acceptance": "45.3%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/surrounded-regions"
+    },
+    {
+      "id": 2116,
+      "title": "Check if a Parentheses String Can Be Valid",
+      "difficulty": "Medium",
+      "acceptance": "45.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid"
+    },
+    {
+      "id": 210,
+      "title": "Course Schedule II",
+      "difficulty": "Medium",
+      "acceptance": "55.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii"
+    },
+    {
+      "id": 394,
+      "title": "Decode String",
+      "difficulty": "Medium",
+      "acceptance": "62.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-string"
+    },
+    {
+      "id": 76,
+      "title": "Minimum Window Substring",
+      "difficulty": "Hard",
+      "acceptance": "47.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-window-substring"
+    },
+    {
+      "id": 305,
+      "title": "Number of Islands II",
+      "difficulty": "Hard",
+      "acceptance": "40.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands-ii"
+    }
+  ]
+}

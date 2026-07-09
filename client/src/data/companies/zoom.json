@@ -1,0 +1,37 @@
+{
+  "company": "Zoom",
+  "questions": [
+    {
+      "id": 1141,
+      "title": "User Activity for the Past 30 Days I",
+      "difficulty": "Easy",
+      "acceptance": "50.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/user-activity-for-the-past-30-days-i"
+    },
+    {
+      "id": 1142,
+      "title": "User Activity for the Past 30 Days II",
+      "difficulty": "Easy",
+      "acceptance": "35.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/user-activity-for-the-past-30-days-ii"
+    },
+    {
+      "id": 212,
+      "title": "Word Search II",
+      "difficulty": "Hard",
+      "acceptance": "38.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-search-ii"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    }
+  ]
+}

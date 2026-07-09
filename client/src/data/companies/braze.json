@@ -1,0 +1,13 @@
+{
+  "company": "Braze",
+  "questions": [
+    {
+      "id": 723,
+      "title": "Candy Crush",
+      "difficulty": "Medium",
+      "acceptance": "77.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/candy-crush"
+    }
+  ]
+}

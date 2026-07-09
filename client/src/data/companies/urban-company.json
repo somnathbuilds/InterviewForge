@@ -1,0 +1,53 @@
+{
+  "company": "Urban Company",
+  "questions": [
+    {
+      "id": 135,
+      "title": "Candy",
+      "difficulty": "Hard",
+      "acceptance": "48.5%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/candy"
+    },
+    {
+      "id": 42,
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "acceptance": "67.4%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water"
+    },
+    {
+      "id": 162,
+      "title": "Find Peak Element",
+      "difficulty": "Medium",
+      "acceptance": "47.0%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-peak-element"
+    },
+    {
+      "id": 417,
+      "title": "Pacific Atlantic Water Flow",
+      "difficulty": "Medium",
+      "acceptance": "61.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/pacific-atlantic-water-flow"
+    },
+    {
+      "id": 1653,
+      "title": "Minimum Deletions to Make String Balanced",
+      "difficulty": "Medium",
+      "acceptance": "68.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-deletions-to-make-string-balanced"
+    },
+    {
+      "id": 399,
+      "title": "Evaluate Division",
+      "difficulty": "Medium",
+      "acceptance": "64.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-division"
+    }
+  ]
+}

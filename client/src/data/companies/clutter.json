@@ -1,0 +1,13 @@
+{
+  "company": "Clutter",
+  "questions": [
+    {
+      "id": 1181,
+      "title": "Before and After Puzzle",
+      "difficulty": "Medium",
+      "acceptance": "51.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/before-and-after-puzzle"
+    }
+  ]
+}

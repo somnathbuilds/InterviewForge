@@ -1,0 +1,13 @@
+{
+  "company": "Deepmind",
+  "questions": [
+    {
+      "id": 1146,
+      "title": "Snapshot Array",
+      "difficulty": "Medium",
+      "acceptance": "36.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/snapshot-array"
+    }
+  ]
+}

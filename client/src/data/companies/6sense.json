@@ -1,0 +1,61 @@
+{
+  "company": "6sense",
+  "questions": [
+    {
+      "id": 2571,
+      "title": "Minimum Operations to Reduce an Integer to 0",
+      "difficulty": "Medium",
+      "acceptance": "62.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0"
+    },
+    {
+      "id": 1105,
+      "title": "Filling Bookcase Shelves",
+      "difficulty": "Medium",
+      "acceptance": "68.6%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/filling-bookcase-shelves"
+    },
+    {
+      "id": 1894,
+      "title": "Find the Student that Will Replace the Chalk",
+      "difficulty": "Medium",
+      "acceptance": "53.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk"
+    },
+    {
+      "id": 1497,
+      "title": "Check If Array Pairs Are Divisible by k",
+      "difficulty": "Medium",
+      "acceptance": "46.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k"
+    },
+    {
+      "id": 250,
+      "title": "Count Univalue Subtrees",
+      "difficulty": "Medium",
+      "acceptance": "57.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-univalue-subtrees"
+    },
+    {
+      "id": 968,
+      "title": "Binary Tree Cameras",
+      "difficulty": "Hard",
+      "acceptance": "47.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-cameras"
+    },
+    {
+      "id": 528,
+      "title": "Random Pick with Weight",
+      "difficulty": "Medium",
+      "acceptance": "49.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/random-pick-with-weight"
+    }
+  ]
+}

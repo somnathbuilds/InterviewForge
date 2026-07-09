@@ -1,0 +1,29 @@
+{
+  "company": "Navi",
+  "questions": [
+    {
+      "id": 2616,
+      "title": "Minimize the Maximum Difference of Pairs",
+      "difficulty": "Medium",
+      "acceptance": "51.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs"
+    },
+    {
+      "id": 42,
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "acceptance": "67.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water"
+    },
+    {
+      "id": 55,
+      "title": "Jump Game",
+      "difficulty": "Medium",
+      "acceptance": "40.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game"
+    }
+  ]
+}

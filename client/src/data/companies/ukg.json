@@ -1,0 +1,93 @@
+{
+  "company": "Ukg",
+  "questions": [
+    {
+      "id": 761,
+      "title": "Special Binary String",
+      "difficulty": "Hard",
+      "acceptance": "79.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/special-binary-string"
+    },
+    {
+      "id": 3138,
+      "title": "Minimum Length of Anagram Concatenation",
+      "difficulty": "Medium",
+      "acceptance": "39.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation"
+    },
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 3380,
+      "title": "Maximum Area Rectangle With Point Constraints I",
+      "difficulty": "Medium",
+      "acceptance": "51.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i"
+    },
+    {
+      "id": 3382,
+      "title": "Maximum Area Rectangle With Point Constraints II",
+      "difficulty": "Hard",
+      "acceptance": "24.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii"
+    },
+    {
+      "id": 2539,
+      "title": "Count the Number of Good Subsequences",
+      "difficulty": "Medium",
+      "acceptance": "48.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-good-subsequences"
+    },
+    {
+      "id": 3136,
+      "title": "Valid Word",
+      "difficulty": "Easy",
+      "acceptance": "50.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-word"
+    },
+    {
+      "id": 3511,
+      "title": "Make a Positive Array",
+      "difficulty": "Medium",
+      "acceptance": "36.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/make-a-positive-array"
+    },
+    {
+      "id": 2592,
+      "title": "Maximize Greatness of an Array",
+      "difficulty": "Medium",
+      "acceptance": "61.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-greatness-of-an-array"
+    },
+    {
+      "id": 125,
+      "title": "Valid Palindrome",
+      "difficulty": "Easy",
+      "acceptance": "53.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    }
+  ]
+}

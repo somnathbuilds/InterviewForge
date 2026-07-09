@@ -1,0 +1,13 @@
+{
+  "company": "Glassdoor",
+  "questions": [
+    {
+      "id": 908,
+      "title": "Smallest Range I",
+      "difficulty": "Easy",
+      "acceptance": "73.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-range-i"
+    }
+  ]
+}

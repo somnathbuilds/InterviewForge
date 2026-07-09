@@ -1,0 +1,77 @@
+{
+  "company": "Axon",
+  "questions": [
+    {
+      "id": 380,
+      "title": "Insert Delete GetRandom O(1)",
+      "difficulty": "Medium",
+      "acceptance": "55.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+    },
+    {
+      "id": 981,
+      "title": "Time Based Key-Value Store",
+      "difficulty": "Medium",
+      "acceptance": "49.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/time-based-key-value-store"
+    },
+    {
+      "id": 13,
+      "title": "Roman to Integer",
+      "difficulty": "Easy",
+      "acceptance": "66.6%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/roman-to-integer"
+    },
+    {
+      "id": 973,
+      "title": "K Closest Points to Origin",
+      "difficulty": "Medium",
+      "acceptance": "69.0%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/k-closest-points-to-origin"
+    },
+    {
+      "id": 125,
+      "title": "Valid Palindrome",
+      "difficulty": "Easy",
+      "acceptance": "53.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome"
+    },
+    {
+      "id": 1396,
+      "title": "Design Underground System",
+      "difficulty": "Medium",
+      "acceptance": "74.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-underground-system"
+    },
+    {
+      "id": 97,
+      "title": "Interleaving String",
+      "difficulty": "Medium",
+      "acceptance": "44.0%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/interleaving-string"
+    },
+    {
+      "id": 72,
+      "title": "Edit Distance",
+      "difficulty": "Medium",
+      "acceptance": "60.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/edit-distance"
+    },
+    {
+      "id": 636,
+      "title": "Exclusive Time of Functions",
+      "difficulty": "Medium",
+      "acceptance": "66.2%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/exclusive-time-of-functions"
+    }
+  ]
+}

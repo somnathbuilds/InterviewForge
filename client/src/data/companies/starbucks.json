@@ -1,0 +1,21 @@
+{
+  "company": "Starbucks",
+  "questions": [
+    {
+      "id": 1174,
+      "title": "Immediate Food Delivery II",
+      "difficulty": "Medium",
+      "acceptance": "56.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/immediate-food-delivery-ii"
+    },
+    {
+      "id": 1352,
+      "title": "Product of the Last K Numbers",
+      "difficulty": "Medium",
+      "acceptance": "62.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-the-last-k-numbers"
+    }
+  ]
+}

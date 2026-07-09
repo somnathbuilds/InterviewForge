@@ -1,0 +1,13 @@
+{
+  "company": "Allincall",
+  "questions": [
+    {
+      "id": 1725,
+      "title": "Number Of Rectangles That Can Form The Largest Square",
+      "difficulty": "Easy",
+      "acceptance": "79.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "company": "Motive",
+  "questions": [
+    {
+      "id": 628,
+      "title": "Maximum Product of Three Numbers",
+      "difficulty": "Easy",
+      "acceptance": "45.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-three-numbers"
+    },
+    {
+      "id": 525,
+      "title": "Contiguous Array",
+      "difficulty": "Medium",
+      "acceptance": "51.4%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/contiguous-array"
+    },
+    {
+      "id": 88,
+      "title": "Merge Sorted Array",
+      "difficulty": "Easy",
+      "acceptance": "54.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array"
+    },
+    {
+      "id": 678,
+      "title": "Valid Parenthesis String",
+      "difficulty": "Medium",
+      "acceptance": "40.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parenthesis-string"
+    },
+    {
+      "id": 240,
+      "title": "Search a 2D Matrix II",
+      "difficulty": "Medium",
+      "acceptance": "57.3%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix-ii"
+    },
+    {
+      "id": 1004,
+      "title": "Max Consecutive Ones III",
+      "difficulty": "Medium",
+      "acceptance": "67.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones-iii"
+    },
+    {
+      "id": 49,
+      "title": "Group Anagrams",
+      "difficulty": "Medium",
+      "acceptance": "72.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams"
+    },
+    {
+      "id": 93,
+      "title": "Restore IP Addresses",
+      "difficulty": "Medium",
+      "acceptance": "56.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/restore-ip-addresses"
+    },
+    {
+      "id": 772,
+      "title": "Basic Calculator III",
+      "difficulty": "Hard",
+      "acceptance": "53.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/basic-calculator-iii"
+    },
+    {
+      "id": 227,
+      "title": "Basic Calculator II",
+      "difficulty": "Medium",
+      "acceptance": "46.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/basic-calculator-ii"
+    }
+  ]
+}

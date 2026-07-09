@@ -1,0 +1,21 @@
+{
+  "company": "Quantiphi",
+  "questions": [
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 875,
+      "title": "Koko Eating Bananas",
+      "difficulty": "Medium",
+      "acceptance": "50.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/koko-eating-bananas"
+    }
+  ]
+}

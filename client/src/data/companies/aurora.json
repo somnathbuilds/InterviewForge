@@ -1,0 +1,93 @@
+{
+  "company": "Aurora",
+  "questions": [
+    {
+      "id": 694,
+      "title": "Number of Distinct Islands",
+      "difficulty": "Medium",
+      "acceptance": "62.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-distinct-islands"
+    },
+    {
+      "id": 543,
+      "title": "Diameter of Binary Tree",
+      "difficulty": "Easy",
+      "acceptance": "65.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/diameter-of-binary-tree"
+    },
+    {
+      "id": 212,
+      "title": "Word Search II",
+      "difficulty": "Hard",
+      "acceptance": "38.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-search-ii"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 1610,
+      "title": "Maximum Number of Visible Points",
+      "difficulty": "Hard",
+      "acceptance": "38.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-visible-points"
+    },
+    {
+      "id": 488,
+      "title": "Zuma Game",
+      "difficulty": "Hard",
+      "acceptance": "29.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/zuma-game"
+    },
+    {
+      "id": 305,
+      "title": "Number of Islands II",
+      "difficulty": "Hard",
+      "acceptance": "40.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands-ii"
+    },
+    {
+      "id": 341,
+      "title": "Flatten Nested List Iterator",
+      "difficulty": "Medium",
+      "acceptance": "65.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/flatten-nested-list-iterator"
+    },
+    {
+      "id": 253,
+      "title": "Meeting Rooms II",
+      "difficulty": "Medium",
+      "acceptance": "52.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/meeting-rooms-ii"
+    },
+    {
+      "id": 239,
+      "title": "Sliding Window Maximum",
+      "difficulty": "Hard",
+      "acceptance": "48.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum"
+    },
+    {
+      "id": 210,
+      "title": "Course Schedule II",
+      "difficulty": "Medium",
+      "acceptance": "55.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii"
+    }
+  ]
+}

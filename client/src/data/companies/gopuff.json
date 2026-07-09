@@ -1,0 +1,21 @@
+{
+  "company": "Gopuff",
+  "questions": [
+    {
+      "id": 513,
+      "title": "Find Bottom Left Tree Value",
+      "difficulty": "Medium",
+      "acceptance": "72.3%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-bottom-left-tree-value"
+    },
+    {
+      "id": 1353,
+      "title": "Maximum Number of Events That Can Be Attended",
+      "difficulty": "Medium",
+      "acceptance": "39.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended"
+    }
+  ]
+}

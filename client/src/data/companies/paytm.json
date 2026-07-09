@@ -1,0 +1,237 @@
+{
+  "company": "Paytm",
+  "questions": [
+    {
+      "id": 11,
+      "title": "Container With Most Water",
+      "difficulty": "Medium",
+      "acceptance": "60.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/container-with-most-water"
+    },
+    {
+      "id": 42,
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "acceptance": "67.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water"
+    },
+    {
+      "id": 2903,
+      "title": "Find Indices With Index and Value Difference I",
+      "difficulty": "Easy",
+      "acceptance": "60.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-indices-with-index-and-value-difference-i"
+    },
+    {
+      "id": 2905,
+      "title": "Find Indices With Index and Value Difference II",
+      "difficulty": "Medium",
+      "acceptance": "32.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii"
+    },
+    {
+      "id": 1047,
+      "title": "Remove All Adjacent Duplicates In String",
+      "difficulty": "Easy",
+      "acceptance": "73.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string"
+    },
+    {
+      "id": 142,
+      "title": "Linked List Cycle II",
+      "difficulty": "Medium",
+      "acceptance": "57.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii"
+    },
+    {
+      "id": 155,
+      "title": "Min Stack",
+      "difficulty": "Medium",
+      "acceptance": "58.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/min-stack"
+    },
+    {
+      "id": 2401,
+      "title": "Longest Nice Subarray",
+      "difficulty": "Medium",
+      "acceptance": "64.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-nice-subarray"
+    },
+    {
+      "id": 2439,
+      "title": "Minimize Maximum of Array",
+      "difficulty": "Medium",
+      "acceptance": "46.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimize-maximum-of-array"
+    },
+    {
+      "id": 2475,
+      "title": "Number of Unequal Triplets in Array",
+      "difficulty": "Easy",
+      "acceptance": "73.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-unequal-triplets-in-array"
+    },
+    {
+      "id": 206,
+      "title": "Reverse Linked List",
+      "difficulty": "Easy",
+      "acceptance": "80.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list"
+    },
+    {
+      "id": 2950,
+      "title": "Number of Divisible Substrings",
+      "difficulty": "Medium",
+      "acceptance": "74.6%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-divisible-substrings"
+    },
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "44.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses"
+    },
+    {
+      "id": 5,
+      "title": "Longest Palindromic Substring",
+      "difficulty": "Medium",
+      "acceptance": "37.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring"
+    },
+    {
+      "id": 33,
+      "title": "Search in Rotated Sorted Array",
+      "difficulty": "Medium",
+      "acceptance": "44.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+    },
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+      "id": 74,
+      "title": "Search a 2D Matrix",
+      "difficulty": "Medium",
+      "acceptance": "53.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix"
+    },
+    {
+      "id": 316,
+      "title": "Remove Duplicate Letters",
+      "difficulty": "Medium",
+      "acceptance": "53.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicate-letters"
+    },
+    {
+      "id": 312,
+      "title": "Burst Balloons",
+      "difficulty": "Hard",
+      "acceptance": "63.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/burst-balloons"
+    },
+    {
+      "id": 3711,
+      "title": "Maximum Transactions Without Negative Balance",
+      "difficulty": "Medium",
+      "acceptance": "46.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-transactions-without-negative-balance"
+    },
+    {
+      "id": 1094,
+      "title": "Car Pooling",
+      "difficulty": "Medium",
+      "acceptance": "56.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/car-pooling"
+    },
+    {
+      "id": 128,
+      "title": "Longest Consecutive Sequence",
+      "difficulty": "Medium",
+      "acceptance": "47.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-consecutive-sequence"
+    },
+    {
+      "id": 2721,
+      "title": "Execute Asynchronous Functions in Parallel",
+      "difficulty": "Medium",
+      "acceptance": "78.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/execute-asynchronous-functions-in-parallel"
+    },
+    {
+      "id": 443,
+      "title": "String Compression",
+      "difficulty": "Medium",
+      "acceptance": "60.0%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/string-compression"
+    },
+    {
+      "id": 3816,
+      "title": "Lexicographically Smallest String After Deleting Duplicate Characters",
+      "difficulty": "Hard",
+      "acceptance": "20.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-string-after-deleting-duplicate-characters"
+    },
+    {
+      "id": 264,
+      "title": "Ugly Number II",
+      "difficulty": "Medium",
+      "acceptance": "49.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/ugly-number-ii"
+    },
+    {
+      "id": 287,
+      "title": "Find the Duplicate Number",
+      "difficulty": "Medium",
+      "acceptance": "64.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-duplicate-number"
+    },
+    {
+      "id": 121,
+      "title": "Best Time to Buy and Sell Stock",
+      "difficulty": "Easy",
+      "acceptance": "56.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+    }
+  ]
+}

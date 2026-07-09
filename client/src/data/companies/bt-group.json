@@ -1,0 +1,13 @@
+{
+  "company": "Bt Group",
+  "questions": [
+    {
+      "id": 2974,
+      "title": "Minimum Number Game",
+      "difficulty": "Easy",
+      "acceptance": "85.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-game"
+    }
+  ]
+}

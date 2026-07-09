@@ -1,0 +1,21 @@
+{
+  "company": "Zulily",
+  "questions": [
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "44.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses"
+    },
+    {
+      "id": 45,
+      "title": "Jump Game II",
+      "difficulty": "Medium",
+      "acceptance": "42.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-ii"
+    }
+  ]
+}

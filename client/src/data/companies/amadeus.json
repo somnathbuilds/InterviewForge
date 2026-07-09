@@ -1,0 +1,21 @@
+{
+  "company": "Amadeus",
+  "questions": [
+    {
+      "id": 2079,
+      "title": "Watering Plants",
+      "difficulty": "Medium",
+      "acceptance": "79.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/watering-plants"
+    },
+    {
+      "id": 242,
+      "title": "Valid Anagram",
+      "difficulty": "Easy",
+      "acceptance": "68.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram"
+    }
+  ]
+}

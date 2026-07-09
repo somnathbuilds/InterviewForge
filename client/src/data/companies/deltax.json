@@ -1,0 +1,29 @@
+{
+  "company": "Deltax",
+  "questions": [
+    {
+      "id": 13,
+      "title": "Roman to Integer",
+      "difficulty": "Easy",
+      "acceptance": "66.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/roman-to-integer"
+    },
+    {
+      "id": 241,
+      "title": "Different Ways to Add Parentheses",
+      "difficulty": "Medium",
+      "acceptance": "73.3%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/different-ways-to-add-parentheses"
+    },
+    {
+      "id": 815,
+      "title": "Bus Routes",
+      "difficulty": "Hard",
+      "acceptance": "47.3%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/bus-routes"
+    }
+  ]
+}

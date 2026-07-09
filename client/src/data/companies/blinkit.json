@@ -1,0 +1,53 @@
+{
+  "company": "Blinkit",
+  "questions": [
+    {
+      "id": 540,
+      "title": "Single Element in a Sorted Array",
+      "difficulty": "Medium",
+      "acceptance": "59.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/single-element-in-a-sorted-array"
+    },
+    {
+      "id": 53,
+      "title": "Maximum Subarray",
+      "difficulty": "Medium",
+      "acceptance": "53.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray"
+    },
+    {
+      "id": 239,
+      "title": "Sliding Window Maximum",
+      "difficulty": "Hard",
+      "acceptance": "48.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum"
+    },
+    {
+      "id": 2385,
+      "title": "Amount of Time for Binary Tree to Be Infected",
+      "difficulty": "Medium",
+      "acceptance": "65.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected"
+    },
+    {
+      "id": 49,
+      "title": "Group Anagrams",
+      "difficulty": "Medium",
+      "acceptance": "72.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams"
+    },
+    {
+      "id": 1626,
+      "title": "Best Team With No Conflicts",
+      "difficulty": "Medium",
+      "acceptance": "50.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/best-team-with-no-conflicts"
+    }
+  ]
+}

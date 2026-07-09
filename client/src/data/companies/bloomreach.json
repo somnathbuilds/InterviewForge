@@ -1,0 +1,13 @@
+{
+  "company": "Bloomreach",
+  "questions": [
+    {
+      "id": 1111,
+      "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
+      "difficulty": "Medium",
+      "acceptance": "71.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings"
+    }
+  ]
+}

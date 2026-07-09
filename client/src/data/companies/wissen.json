@@ -1,0 +1,21 @@
+{
+  "company": "Wissen",
+  "questions": [
+    {
+      "id": 128,
+      "title": "Longest Consecutive Sequence",
+      "difficulty": "Medium",
+      "acceptance": "47.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-consecutive-sequence"
+    },
+    {
+      "id": 74,
+      "title": "Search a 2D Matrix",
+      "difficulty": "Medium",
+      "acceptance": "53.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix"
+    }
+  ]
+}

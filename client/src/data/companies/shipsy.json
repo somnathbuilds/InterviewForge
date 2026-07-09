@@ -1,0 +1,13 @@
+{
+  "company": "Shipsy",
+  "questions": [
+    {
+      "id": 15,
+      "title": "3Sum",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum"
+    }
+  ]
+}

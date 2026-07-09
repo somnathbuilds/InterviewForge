@@ -1,0 +1,309 @@
+{
+  "company": "Docusign",
+  "questions": [
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals"
+    },
+    {
+      "id": 138,
+      "title": "Copy List with Random Pointer",
+      "difficulty": "Medium",
+      "acceptance": "62.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/copy-list-with-random-pointer"
+    },
+    {
+      "id": 208,
+      "title": "Implement Trie (Prefix Tree)",
+      "difficulty": "Medium",
+      "acceptance": "69.5%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/implement-trie-prefix-tree"
+    },
+    {
+      "id": 347,
+      "title": "Top K Frequent Elements",
+      "difficulty": "Medium",
+      "acceptance": "66.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements"
+    },
+    {
+      "id": 1797,
+      "title": "Design Authentication Manager",
+      "difficulty": "Medium",
+      "acceptance": "58.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-authentication-manager"
+    },
+    {
+      "id": 171,
+      "title": "Excel Sheet Column Number",
+      "difficulty": "Easy",
+      "acceptance": "67.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/excel-sheet-column-number"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 295,
+      "title": "Find Median from Data Stream",
+      "difficulty": "Hard",
+      "acceptance": "54.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-median-from-data-stream"
+    },
+    {
+      "id": 285,
+      "title": "Inorder Successor in BST",
+      "difficulty": "Medium",
+      "acceptance": "51.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/inorder-successor-in-bst"
+    },
+    {
+      "id": 934,
+      "title": "Shortest Bridge",
+      "difficulty": "Medium",
+      "acceptance": "59.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-bridge"
+    },
+    {
+      "id": 380,
+      "title": "Insert Delete GetRandom O(1)",
+      "difficulty": "Medium",
+      "acceptance": "55.4%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+    },
+    {
+      "id": 1448,
+      "title": "Count Good Nodes in Binary Tree",
+      "difficulty": "Medium",
+      "acceptance": "73.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-good-nodes-in-binary-tree"
+    },
+    {
+      "id": 211,
+      "title": "Design Add and Search Words Data Structure",
+      "difficulty": "Medium",
+      "acceptance": "48.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/design-add-and-search-words-data-structure"
+    },
+    {
+      "id": 726,
+      "title": "Number of Atoms",
+      "difficulty": "Hard",
+      "acceptance": "65.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-atoms"
+    },
+    {
+      "id": 213,
+      "title": "House Robber II",
+      "difficulty": "Medium",
+      "acceptance": "44.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/house-robber-ii"
+    },
+    {
+      "id": 12,
+      "title": "Integer to Roman",
+      "difficulty": "Medium",
+      "acceptance": "71.0%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/integer-to-roman"
+    },
+    {
+      "id": 1268,
+      "title": "Search Suggestions System",
+      "difficulty": "Medium",
+      "acceptance": "65.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/search-suggestions-system"
+    },
+    {
+      "id": 253,
+      "title": "Meeting Rooms II",
+      "difficulty": "Medium",
+      "acceptance": "52.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/meeting-rooms-ii"
+    },
+    {
+      "id": 200,
+      "title": "Number of Islands",
+      "difficulty": "Medium",
+      "acceptance": "64.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands"
+    },
+    {
+      "id": 23,
+      "title": "Merge k Sorted Lists",
+      "difficulty": "Hard",
+      "acceptance": "59.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists"
+    },
+    {
+      "id": 3588,
+      "title": "Find Maximum Area of a Triangle",
+      "difficulty": "Medium",
+      "acceptance": "29.5%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-maximum-area-of-a-triangle"
+    },
+    {
+      "id": 337,
+      "title": "House Robber III",
+      "difficulty": "Medium",
+      "acceptance": "55.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/house-robber-iii"
+    },
+    {
+      "id": 1368,
+      "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+      "difficulty": "Hard",
+      "acceptance": "71.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid"
+    },
+    {
+      "id": 424,
+      "title": "Longest Repeating Character Replacement",
+      "difficulty": "Medium",
+      "acceptance": "59.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-repeating-character-replacement"
+    },
+    {
+      "id": 127,
+      "title": "Word Ladder",
+      "difficulty": "Hard",
+      "acceptance": "45.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-ladder"
+    },
+    {
+      "id": 359,
+      "title": "Logger Rate Limiter",
+      "difficulty": "Easy",
+      "acceptance": "76.8%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/logger-rate-limiter"
+    },
+    {
+      "id": 21,
+      "title": "Merge Two Sorted Lists",
+      "difficulty": "Easy",
+      "acceptance": "68.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists"
+    },
+    {
+      "id": 621,
+      "title": "Task Scheduler",
+      "difficulty": "Medium",
+      "acceptance": "63.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/task-scheduler"
+    },
+    {
+      "id": 49,
+      "title": "Group Anagrams",
+      "difficulty": "Medium",
+      "acceptance": "72.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams"
+    },
+    {
+      "id": 2326,
+      "title": "Spiral Matrix IV",
+      "difficulty": "Medium",
+      "acceptance": "82.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix-iv"
+    },
+    {
+      "id": 2115,
+      "title": "Find All Possible Recipes from Given Supplies",
+      "difficulty": "Medium",
+      "acceptance": "56.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies"
+    },
+    {
+      "id": 102,
+      "title": "Binary Tree Level Order Traversal",
+      "difficulty": "Medium",
+      "acceptance": "72.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal"
+    },
+    {
+      "id": 42,
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "acceptance": "67.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water"
+    },
+    {
+      "id": 3883,
+      "title": "Count Non Decreasing Arrays With Given Digit Sums",
+      "difficulty": "Hard",
+      "acceptance": "41.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-non-decreasing-arrays-with-given-digit-sums"
+    },
+    {
+      "id": 1235,
+      "title": "Maximum Profit in Job Scheduling",
+      "difficulty": "Hard",
+      "acceptance": "54.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-profit-in-job-scheduling"
+    },
+    {
+      "id": 162,
+      "title": "Find Peak Element",
+      "difficulty": "Medium",
+      "acceptance": "47.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-peak-element"
+    },
+    {
+      "id": 721,
+      "title": "Accounts Merge",
+      "difficulty": "Medium",
+      "acceptance": "61.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/accounts-merge"
+    }
+  ]
+}

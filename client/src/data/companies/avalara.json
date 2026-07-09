@@ -1,0 +1,13 @@
+{
+  "company": "Avalara",
+  "questions": [
+    {
+      "id": 2117,
+      "title": "Abbreviating the Product of a Range",
+      "difficulty": "Hard",
+      "acceptance": "24.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/abbreviating-the-product-of-a-range"
+    }
+  ]
+}

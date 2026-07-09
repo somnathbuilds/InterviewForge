@@ -1,0 +1,253 @@
+{
+  "company": "Netflix",
+  "questions": [
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+      "id": 41,
+      "title": "First Missing Positive",
+      "difficulty": "Hard",
+      "acceptance": "42.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/first-missing-positive"
+    },
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 210,
+      "title": "Course Schedule II",
+      "difficulty": "Medium",
+      "acceptance": "55.5%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii"
+    },
+    {
+      "id": 228,
+      "title": "Summary Ranges",
+      "difficulty": "Easy",
+      "acceptance": "54.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/summary-ranges"
+    },
+    {
+      "id": 253,
+      "title": "Meeting Rooms II",
+      "difficulty": "Medium",
+      "acceptance": "52.7%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/meeting-rooms-ii"
+    },
+    {
+      "id": 332,
+      "title": "Reconstruct Itinerary",
+      "difficulty": "Hard",
+      "acceptance": "44.6%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/reconstruct-itinerary"
+    },
+    {
+      "id": 347,
+      "title": "Top K Frequent Elements",
+      "difficulty": "Medium",
+      "acceptance": "66.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements"
+    },
+    {
+      "id": 359,
+      "title": "Logger Rate Limiter",
+      "difficulty": "Easy",
+      "acceptance": "76.8%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/logger-rate-limiter"
+    },
+    {
+      "id": 981,
+      "title": "Time Based Key-Value Store",
+      "difficulty": "Medium",
+      "acceptance": "49.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/time-based-key-value-store"
+    },
+    {
+      "id": 219,
+      "title": "Contains Duplicate II",
+      "difficulty": "Easy",
+      "acceptance": "51.3%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-ii"
+    },
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "44.2%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses"
+    },
+    {
+      "id": 2622,
+      "title": "Cache With Time Limit",
+      "difficulty": "Medium",
+      "acceptance": "76.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/cache-with-time-limit"
+    },
+    {
+      "id": 322,
+      "title": "Coin Change",
+      "difficulty": "Medium",
+      "acceptance": "48.4%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/coin-change"
+    },
+    {
+      "id": 139,
+      "title": "Word Break",
+      "difficulty": "Medium",
+      "acceptance": "49.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break"
+    },
+    {
+      "id": 79,
+      "title": "Word Search",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-search"
+    },
+    {
+      "id": 743,
+      "title": "Network Delay Time",
+      "difficulty": "Medium",
+      "acceptance": "60.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/network-delay-time"
+    },
+    {
+      "id": 875,
+      "title": "Koko Eating Bananas",
+      "difficulty": "Medium",
+      "acceptance": "50.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/koko-eating-bananas"
+    },
+    {
+      "id": 217,
+      "title": "Contains Duplicate",
+      "difficulty": "Easy",
+      "acceptance": "64.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate"
+    },
+    {
+      "id": 220,
+      "title": "Contains Duplicate III",
+      "difficulty": "Hard",
+      "acceptance": "24.8%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-iii"
+    },
+    {
+      "id": 904,
+      "title": "Fruit Into Baskets",
+      "difficulty": "Medium",
+      "acceptance": "51.1%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/fruit-into-baskets"
+    },
+    {
+      "id": 169,
+      "title": "Majority Element",
+      "difficulty": "Easy",
+      "acceptance": "66.3%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element"
+    },
+    {
+      "id": 797,
+      "title": "All Paths From Source to Target",
+      "difficulty": "Medium",
+      "acceptance": "83.6%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/all-paths-from-source-to-target"
+    },
+    {
+      "id": 1136,
+      "title": "Parallel Courses",
+      "difficulty": "Medium",
+      "acceptance": "62.2%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/parallel-courses"
+    },
+    {
+      "id": 8,
+      "title": "String to Integer (atoi)",
+      "difficulty": "Medium",
+      "acceptance": "21.0%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/string-to-integer-atoi"
+    },
+    {
+      "id": 718,
+      "title": "Maximum Length of Repeated Subarray",
+      "difficulty": "Medium",
+      "acceptance": "51.4%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-length-of-repeated-subarray"
+    },
+    {
+      "id": 1146,
+      "title": "Snapshot Array",
+      "difficulty": "Medium",
+      "acceptance": "36.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/snapshot-array"
+    },
+    {
+      "id": 460,
+      "title": "LFU Cache",
+      "difficulty": "Hard",
+      "acceptance": "49.2%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/lfu-cache"
+    },
+    {
+      "id": 162,
+      "title": "Find Peak Element",
+      "difficulty": "Medium",
+      "acceptance": "47.0%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-peak-element"
+    },
+    {
+      "id": 242,
+      "title": "Valid Anagram",
+      "difficulty": "Easy",
+      "acceptance": "68.1%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram"
+    }
+  ]
+}

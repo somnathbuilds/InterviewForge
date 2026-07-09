@@ -1,0 +1,413 @@
+{
+  "company": "Anduril",
+  "questions": [
+    {
+      "id": 49,
+      "title": "Group Anagrams",
+      "difficulty": "Medium",
+      "acceptance": "72.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams"
+    },
+    {
+      "id": 1610,
+      "title": "Maximum Number of Visible Points",
+      "difficulty": "Hard",
+      "acceptance": "38.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-visible-points"
+    },
+    {
+      "id": 475,
+      "title": "Heaters",
+      "difficulty": "Medium",
+      "acceptance": "41.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/heaters"
+    },
+    {
+      "id": 951,
+      "title": "Flip Equivalent Binary Trees",
+      "difficulty": "Medium",
+      "acceptance": "69.5%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/flip-equivalent-binary-trees"
+    },
+    {
+      "id": 739,
+      "title": "Daily Temperatures",
+      "difficulty": "Medium",
+      "acceptance": "68.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/daily-temperatures"
+    },
+    {
+      "id": 114,
+      "title": "Flatten Binary Tree to Linked List",
+      "difficulty": "Medium",
+      "acceptance": "70.7%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list"
+    },
+    {
+      "id": 243,
+      "title": "Shortest Word Distance",
+      "difficulty": "Easy",
+      "acceptance": "66.3%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-word-distance"
+    },
+    {
+      "id": 1268,
+      "title": "Search Suggestions System",
+      "difficulty": "Medium",
+      "acceptance": "65.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/search-suggestions-system"
+    },
+    {
+      "id": 200,
+      "title": "Number of Islands",
+      "difficulty": "Medium",
+      "acceptance": "64.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands"
+    },
+    {
+      "id": 289,
+      "title": "Game of Life",
+      "difficulty": "Medium",
+      "acceptance": "72.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/game-of-life"
+    },
+    {
+      "id": 207,
+      "title": "Course Schedule",
+      "difficulty": "Medium",
+      "acceptance": "51.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule"
+    },
+    {
+      "id": 244,
+      "title": "Shortest Word Distance II",
+      "difficulty": "Medium",
+      "acceptance": "62.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-word-distance-ii"
+    },
+    {
+      "id": 295,
+      "title": "Find Median from Data Stream",
+      "difficulty": "Hard",
+      "acceptance": "54.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-median-from-data-stream"
+    },
+    {
+      "id": 33,
+      "title": "Search in Rotated Sorted Array",
+      "difficulty": "Medium",
+      "acceptance": "44.9%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+    },
+    {
+      "id": 283,
+      "title": "Move Zeroes",
+      "difficulty": "Easy",
+      "acceptance": "63.8%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/move-zeroes"
+    },
+    {
+      "id": 210,
+      "title": "Course Schedule II",
+      "difficulty": "Medium",
+      "acceptance": "55.5%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii"
+    },
+    {
+      "id": 909,
+      "title": "Snakes and Ladders",
+      "difficulty": "Medium",
+      "acceptance": "48.1%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/snakes-and-ladders"
+    },
+    {
+      "id": 287,
+      "title": "Find the Duplicate Number",
+      "difficulty": "Medium",
+      "acceptance": "64.3%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-duplicate-number"
+    },
+    {
+      "id": 708,
+      "title": "Insert into a Sorted Circular Linked List",
+      "difficulty": "Medium",
+      "acceptance": "38.6%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list"
+    },
+    {
+      "id": 981,
+      "title": "Time Based Key-Value Store",
+      "difficulty": "Medium",
+      "acceptance": "49.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/time-based-key-value-store"
+    },
+    {
+      "id": 54,
+      "title": "Spiral Matrix",
+      "difficulty": "Medium",
+      "acceptance": "56.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix"
+    },
+    {
+      "id": 1024,
+      "title": "Video Stitching",
+      "difficulty": "Medium",
+      "acceptance": "52.7%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/video-stitching"
+    },
+    {
+      "id": 529,
+      "title": "Minesweeper",
+      "difficulty": "Medium",
+      "acceptance": "68.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minesweeper"
+    },
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals"
+    },
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "acceptance": "44.2%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses"
+    },
+    {
+      "id": 23,
+      "title": "Merge k Sorted Lists",
+      "difficulty": "Hard",
+      "acceptance": "59.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists"
+    },
+    {
+      "id": 827,
+      "title": "Making A Large Island",
+      "difficulty": "Hard",
+      "acceptance": "56.6%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/making-a-large-island"
+    },
+    {
+      "id": 694,
+      "title": "Number of Distinct Islands",
+      "difficulty": "Medium",
+      "acceptance": "62.8%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-distinct-islands"
+    },
+    {
+      "id": 994,
+      "title": "Rotting Oranges",
+      "difficulty": "Medium",
+      "acceptance": "58.7%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/rotting-oranges"
+    },
+    {
+      "id": 818,
+      "title": "Race Car",
+      "difficulty": "Hard",
+      "acceptance": "44.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/race-car"
+    },
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 443,
+      "title": "String Compression",
+      "difficulty": "Medium",
+      "acceptance": "60.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/string-compression"
+    },
+    {
+      "id": 253,
+      "title": "Meeting Rooms II",
+      "difficulty": "Medium",
+      "acceptance": "52.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/meeting-rooms-ii"
+    },
+    {
+      "id": 2244,
+      "title": "Minimum Rounds to Complete All Tasks",
+      "difficulty": "Medium",
+      "acceptance": "63.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks"
+    },
+    {
+      "id": 150,
+      "title": "Evaluate Reverse Polish Notation",
+      "difficulty": "Medium",
+      "acceptance": "57.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-reverse-polish-notation"
+    },
+    {
+      "id": 721,
+      "title": "Accounts Merge",
+      "difficulty": "Medium",
+      "acceptance": "61.3%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/accounts-merge"
+    },
+    {
+      "id": 647,
+      "title": "Palindromic Substrings",
+      "difficulty": "Medium",
+      "acceptance": "72.8%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/palindromic-substrings"
+    },
+    {
+      "id": 953,
+      "title": "Verifying an Alien Dictionary",
+      "difficulty": "Easy",
+      "acceptance": "56.0%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/verifying-an-alien-dictionary"
+    },
+    {
+      "id": 1091,
+      "title": "Shortest Path in Binary Matrix",
+      "difficulty": "Medium",
+      "acceptance": "51.5%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-path-in-binary-matrix"
+    },
+    {
+      "id": 695,
+      "title": "Max Area of Island",
+      "difficulty": "Medium",
+      "acceptance": "74.0%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/max-area-of-island"
+    },
+    {
+      "id": 838,
+      "title": "Push Dominoes",
+      "difficulty": "Medium",
+      "acceptance": "63.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/push-dominoes"
+    },
+    {
+      "id": 1828,
+      "title": "Queries on Number of Points Inside a Circle",
+      "difficulty": "Medium",
+      "acceptance": "86.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle"
+    },
+    {
+      "id": 314,
+      "title": "Binary Tree Vertical Order Traversal",
+      "difficulty": "Medium",
+      "acceptance": "57.8%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-vertical-order-traversal"
+    },
+    {
+      "id": 140,
+      "title": "Word Break II",
+      "difficulty": "Hard",
+      "acceptance": "55.6%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break-ii"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "acceptance": "47.4%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 701,
+      "title": "Insert into a Binary Search Tree",
+      "difficulty": "Medium",
+      "acceptance": "73.5%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-into-a-binary-search-tree"
+    },
+    {
+      "id": 48,
+      "title": "Rotate Image",
+      "difficulty": "Medium",
+      "acceptance": "80.1%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image"
+    },
+    {
+      "id": 1762,
+      "title": "Buildings With an Ocean View",
+      "difficulty": "Medium",
+      "acceptance": "80.9%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/buildings-with-an-ocean-view"
+    },
+    {
+      "id": 130,
+      "title": "Surrounded Regions",
+      "difficulty": "Medium",
+      "acceptance": "45.3%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/surrounded-regions"
+    },
+    {
+      "id": 198,
+      "title": "House Robber",
+      "difficulty": "Medium",
+      "acceptance": "53.2%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/house-robber"
+    },
+    {
+      "id": 1087,
+      "title": "Brace Expansion",
+      "difficulty": "Medium",
+      "acceptance": "66.9%",
+      "frequency": "37.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/brace-expansion"
+    }
+  ]
+}

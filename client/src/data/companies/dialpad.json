@@ -1,0 +1,29 @@
+{
+  "company": "Dialpad",
+  "questions": [
+    {
+      "id": 2484,
+      "title": "Count Palindromic Subsequences",
+      "difficulty": "Hard",
+      "acceptance": "41.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-palindromic-subsequences"
+    },
+    {
+      "id": 242,
+      "title": "Valid Anagram",
+      "difficulty": "Easy",
+      "acceptance": "68.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram"
+    },
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    }
+  ]
+}

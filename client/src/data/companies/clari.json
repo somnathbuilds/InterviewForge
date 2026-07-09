@@ -1,0 +1,29 @@
+{
+  "company": "Clari",
+  "questions": [
+    {
+      "id": 2196,
+      "title": "Create Binary Tree From Descriptions",
+      "difficulty": "Medium",
+      "acceptance": "81.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/create-binary-tree-from-descriptions"
+    },
+    {
+      "id": 96,
+      "title": "Unique Binary Search Trees",
+      "difficulty": "Medium",
+      "acceptance": "63.7%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-binary-search-trees"
+    },
+    {
+      "id": 1875,
+      "title": "Group Employees of the Same Salary",
+      "difficulty": "Medium",
+      "acceptance": "65.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/group-employees-of-the-same-salary"
+    }
+  ]
+}

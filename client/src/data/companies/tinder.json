@@ -1,0 +1,29 @@
+{
+  "company": "Tinder",
+  "questions": [
+    {
+      "id": 295,
+      "title": "Find Median from Data Stream",
+      "difficulty": "Hard",
+      "acceptance": "54.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-median-from-data-stream"
+    },
+    {
+      "id": 703,
+      "title": "Kth Largest Element in a Stream",
+      "difficulty": "Easy",
+      "acceptance": "61.0%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-a-stream"
+    },
+    {
+      "id": 68,
+      "title": "Text Justification",
+      "difficulty": "Hard",
+      "acceptance": "51.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/text-justification"
+    }
+  ]
+}

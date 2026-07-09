@@ -1,0 +1,21 @@
+{
+  "company": "Netease",
+  "questions": [
+    {
+      "id": 826,
+      "title": "Most Profit Assigning Work",
+      "difficulty": "Medium",
+      "acceptance": "56.2%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/most-profit-assigning-work"
+    },
+    {
+      "id": 664,
+      "title": "Strange Printer",
+      "difficulty": "Hard",
+      "acceptance": "60.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/strange-printer"
+    }
+  ]
+}

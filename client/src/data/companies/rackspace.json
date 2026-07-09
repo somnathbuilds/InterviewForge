@@ -1,0 +1,13 @@
+{
+  "company": "Rackspace",
+  "questions": [
+    {
+      "id": 473,
+      "title": "Matchsticks to Square",
+      "difficulty": "Medium",
+      "acceptance": "41.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/matchsticks-to-square"
+    }
+  ]
+}

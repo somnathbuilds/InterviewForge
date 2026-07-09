@@ -1,0 +1,13 @@
+{
+  "company": "Radius",
+  "questions": [
+    {
+      "id": 724,
+      "title": "Find Pivot Index",
+      "difficulty": "Easy",
+      "acceptance": "62.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-pivot-index"
+    }
+  ]
+}

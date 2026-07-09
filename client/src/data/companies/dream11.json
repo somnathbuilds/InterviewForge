@@ -1,0 +1,109 @@
+{
+  "company": "Dream11",
+  "questions": [
+    {
+      "id": 1475,
+      "title": "Final Prices With a Special Discount in a Shop",
+      "difficulty": "Easy",
+      "acceptance": "84.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop"
+    },
+    {
+      "id": 931,
+      "title": "Minimum Falling Path Sum",
+      "difficulty": "Medium",
+      "acceptance": "60.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-falling-path-sum"
+    },
+    {
+      "id": 1642,
+      "title": "Furthest Building You Can Reach",
+      "difficulty": "Medium",
+      "acceptance": "50.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/furthest-building-you-can-reach"
+    },
+    {
+      "id": 134,
+      "title": "Gas Station",
+      "difficulty": "Medium",
+      "acceptance": "48.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/gas-station"
+    },
+    {
+      "id": 15,
+      "title": "3Sum",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum"
+    },
+    {
+      "id": 2222,
+      "title": "Number of Ways to Select Buildings",
+      "difficulty": "Medium",
+      "acceptance": "50.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-select-buildings"
+    },
+    {
+      "id": 1526,
+      "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+      "difficulty": "Hard",
+      "acceptance": "78.2%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array"
+    },
+    {
+      "id": 416,
+      "title": "Partition Equal Subset Sum",
+      "difficulty": "Medium",
+      "acceptance": "49.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-equal-subset-sum"
+    },
+    {
+      "id": 735,
+      "title": "Asteroid Collision",
+      "difficulty": "Medium",
+      "acceptance": "47.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/asteroid-collision"
+    },
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+      "id": 994,
+      "title": "Rotting Oranges",
+      "difficulty": "Medium",
+      "acceptance": "58.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/rotting-oranges"
+    },
+    {
+      "id": 16,
+      "title": "3Sum Closest",
+      "difficulty": "Medium",
+      "acceptance": "48.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum-closest"
+    },
+    {
+      "id": 11,
+      "title": "Container With Most Water",
+      "difficulty": "Medium",
+      "acceptance": "60.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/container-with-most-water"
+    }
+  ]
+}

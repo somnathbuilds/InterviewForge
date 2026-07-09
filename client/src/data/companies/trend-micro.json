@@ -1,0 +1,13 @@
+{
+  "company": "Trend Micro",
+  "questions": [
+    {
+      "id": 1488,
+      "title": "Avoid Flood in The City",
+      "difficulty": "Medium",
+      "acceptance": "39.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/avoid-flood-in-the-city"
+    }
+  ]
+}

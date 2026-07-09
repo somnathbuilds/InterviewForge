@@ -1,0 +1,29 @@
+{
+  "company": "Teradata",
+  "questions": [
+    {
+      "id": 1885,
+      "title": "Count Pairs in Two Arrays",
+      "difficulty": "Medium",
+      "acceptance": "60.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-pairs-in-two-arrays"
+    },
+    {
+      "id": 546,
+      "title": "Remove Boxes",
+      "difficulty": "Hard",
+      "acceptance": "49.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-boxes"
+    },
+    {
+      "id": 3766,
+      "title": "Minimum Operations to Make Binary Palindrome",
+      "difficulty": "Medium",
+      "acceptance": "52.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-binary-palindrome"
+    }
+  ]
+}

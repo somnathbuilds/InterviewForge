@@ -1,0 +1,13 @@
+{
+  "company": "Zillow",
+  "questions": [
+    {
+      "id": 48,
+      "title": "Rotate Image",
+      "difficulty": "Medium",
+      "acceptance": "80.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image"
+    }
+  ]
+}

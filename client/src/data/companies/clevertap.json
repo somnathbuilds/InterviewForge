@@ -1,0 +1,61 @@
+{
+  "company": "Clevertap",
+  "questions": [
+    {
+      "id": 1283,
+      "title": "Find the Smallest Divisor Given a Threshold",
+      "difficulty": "Medium",
+      "acceptance": "65.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold"
+    },
+    {
+      "id": 442,
+      "title": "Find All Duplicates in an Array",
+      "difficulty": "Medium",
+      "acceptance": "76.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-duplicates-in-an-array"
+    },
+    {
+      "id": 179,
+      "title": "Largest Number",
+      "difficulty": "Medium",
+      "acceptance": "43.1%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-number"
+    },
+    {
+      "id": 990,
+      "title": "Satisfiability of Equality Equations",
+      "difficulty": "Medium",
+      "acceptance": "51.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/satisfiability-of-equality-equations"
+    },
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals"
+    },
+    {
+      "id": 125,
+      "title": "Valid Palindrome",
+      "difficulty": "Easy",
+      "acceptance": "53.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome"
+    },
+    {
+      "id": 127,
+      "title": "Word Ladder",
+      "difficulty": "Hard",
+      "acceptance": "45.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-ladder"
+    }
+  ]
+}

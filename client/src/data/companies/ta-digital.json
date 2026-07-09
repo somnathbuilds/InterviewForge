@@ -1,0 +1,13 @@
+{
+  "company": "Ta Digital",
+  "questions": [
+    {
+      "id": 2959,
+      "title": "Number of Possible Sets of Closing Branches",
+      "difficulty": "Hard",
+      "acceptance": "51.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-possible-sets-of-closing-branches"
+    }
+  ]
+}

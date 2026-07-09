@@ -1,0 +1,69 @@
+{
+  "company": "Info Edge",
+  "questions": [
+    {
+      "id": 2058,
+      "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+      "difficulty": "Medium",
+      "acceptance": "69.5%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points"
+    },
+    {
+      "id": 3334,
+      "title": "Find the Maximum Factor Score of Array",
+      "difficulty": "Medium",
+      "acceptance": "41.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-maximum-factor-score-of-array"
+    },
+    {
+      "id": 5,
+      "title": "Longest Palindromic Substring",
+      "difficulty": "Medium",
+      "acceptance": "37.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring"
+    },
+    {
+      "id": 815,
+      "title": "Bus Routes",
+      "difficulty": "Hard",
+      "acceptance": "47.3%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/bus-routes"
+    },
+    {
+      "id": 1476,
+      "title": "Subrectangle Queries",
+      "difficulty": "Medium",
+      "acceptance": "86.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/subrectangle-queries"
+    },
+    {
+      "id": 3265,
+      "title": "Count Almost Equal Pairs I",
+      "difficulty": "Medium",
+      "acceptance": "38.3%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-almost-equal-pairs-i"
+    },
+    {
+      "id": 2032,
+      "title": "Two Out of Three",
+      "difficulty": "Easy",
+      "acceptance": "77.6%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-out-of-three"
+    },
+    {
+      "id": 75,
+      "title": "Sort Colors",
+      "difficulty": "Medium",
+      "acceptance": "69.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "company": "Gusto",
+  "questions": [
+    {
+      "id": 273,
+      "title": "Integer to English Words",
+      "difficulty": "Hard",
+      "acceptance": "35.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/integer-to-english-words"
+    },
+    {
+      "id": 616,
+      "title": "Add Bold Tag in String",
+      "difficulty": "Medium",
+      "acceptance": "51.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/add-bold-tag-in-string"
+    },
+    {
+      "id": 981,
+      "title": "Time Based Key-Value Store",
+      "difficulty": "Medium",
+      "acceptance": "49.9%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/time-based-key-value-store"
+    },
+    {
+      "id": 198,
+      "title": "House Robber",
+      "difficulty": "Medium",
+      "acceptance": "53.2%",
+      "frequency": "50.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/house-robber"
+    },
+    {
+      "id": 2591,
+      "title": "Distribute Money to Maximum Children",
+      "difficulty": "Easy",
+      "acceptance": "20.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/distribute-money-to-maximum-children"
+    }
+  ]
+}

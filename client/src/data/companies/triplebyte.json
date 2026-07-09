@@ -1,0 +1,13 @@
+{
+  "company": "Triplebyte",
+  "questions": [
+    {
+      "id": 712,
+      "title": "Minimum ASCII Delete Sum for Two Strings",
+      "difficulty": "Medium",
+      "acceptance": "71.0%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings"
+    }
+  ]
+}

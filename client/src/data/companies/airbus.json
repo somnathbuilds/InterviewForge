@@ -1,0 +1,37 @@
+{
+  "company": "Airbus",
+  "questions": [
+    {
+      "id": 3164,
+      "title": "Find the Number of Good Pairs II",
+      "difficulty": "Medium",
+      "acceptance": "26.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-number-of-good-pairs-ii"
+    },
+    {
+      "id": 3162,
+      "title": "Find the Number of Good Pairs I",
+      "difficulty": "Easy",
+      "acceptance": "86.4%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-number-of-good-pairs-i"
+    },
+    {
+      "id": 3224,
+      "title": "Minimum Array Changes to Make Differences Equal",
+      "difficulty": "Medium",
+      "acceptance": "24.6%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal"
+    },
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "acceptance": "57.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum"
+    }
+  ]
+}

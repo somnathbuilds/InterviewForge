@@ -1,0 +1,45 @@
+{
+  "company": "Htc",
+  "questions": [
+    {
+      "id": 787,
+      "title": "Cheapest Flights Within K Stops",
+      "difficulty": "Medium",
+      "acceptance": "41.8%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/cheapest-flights-within-k-stops"
+    },
+    {
+      "id": 1512,
+      "title": "Number of Good Pairs",
+      "difficulty": "Easy",
+      "acceptance": "89.8%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-good-pairs"
+    },
+    {
+      "id": 509,
+      "title": "Fibonacci Number",
+      "difficulty": "Easy",
+      "acceptance": "74.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number"
+    },
+    {
+      "id": 118,
+      "title": "Pascal's Triangle",
+      "difficulty": "Easy",
+      "acceptance": "78.9%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle"
+    },
+    {
+      "id": 605,
+      "title": "Can Place Flowers",
+      "difficulty": "Easy",
+      "acceptance": "29.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/can-place-flowers"
+    }
+  ]
+}

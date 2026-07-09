@@ -1,0 +1,13 @@
+{
+  "company": "Fast",
+  "questions": [
+    {
+      "id": 204,
+      "title": "Count Primes",
+      "difficulty": "Medium",
+      "acceptance": "36.1%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-primes"
+    }
+  ]
+}

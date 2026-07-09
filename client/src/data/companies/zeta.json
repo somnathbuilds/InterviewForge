@@ -1,0 +1,253 @@
+{
+  "company": "Zeta",
+  "questions": [
+    {
+      "id": 621,
+      "title": "Task Scheduler",
+      "difficulty": "Medium",
+      "acceptance": "63.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/task-scheduler"
+    },
+    {
+      "id": 2896,
+      "title": "Apply Operations to Make Two Strings Equal",
+      "difficulty": "Medium",
+      "acceptance": "27.7%",
+      "frequency": "100.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/apply-operations-to-make-two-strings-equal"
+    },
+    {
+      "id": 502,
+      "title": "IPO",
+      "difficulty": "Hard",
+      "acceptance": "53.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/ipo"
+    },
+    {
+      "id": 503,
+      "title": "Next Greater Element II",
+      "difficulty": "Medium",
+      "acceptance": "68.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-ii"
+    },
+    {
+      "id": 25,
+      "title": "Reverse Nodes in k-Group",
+      "difficulty": "Hard",
+      "acceptance": "66.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-nodes-in-k-group"
+    },
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "acceptance": "39.1%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+      "id": 1011,
+      "title": "Capacity To Ship Packages Within D Days",
+      "difficulty": "Medium",
+      "acceptance": "73.9%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days"
+    },
+    {
+      "id": 42,
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "acceptance": "67.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water"
+    },
+    {
+      "id": 250,
+      "title": "Count Univalue Subtrees",
+      "difficulty": "Medium",
+      "acceptance": "57.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/count-univalue-subtrees"
+    },
+    {
+      "id": 380,
+      "title": "Insert Delete GetRandom O(1)",
+      "difficulty": "Medium",
+      "acceptance": "55.4%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+    },
+    {
+      "id": 76,
+      "title": "Minimum Window Substring",
+      "difficulty": "Hard",
+      "acceptance": "47.5%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-window-substring"
+    },
+    {
+      "id": 410,
+      "title": "Split Array Largest Sum",
+      "difficulty": "Hard",
+      "acceptance": "60.4%",
+      "frequency": "87.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum"
+    },
+    {
+      "id": 402,
+      "title": "Remove K Digits",
+      "difficulty": "Medium",
+      "acceptance": "36.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-k-digits"
+    },
+    {
+      "id": 85,
+      "title": "Maximal Rectangle",
+      "difficulty": "Hard",
+      "acceptance": "58.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximal-rectangle"
+    },
+    {
+      "id": 132,
+      "title": "Palindrome Partitioning II",
+      "difficulty": "Hard",
+      "acceptance": "37.1%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-partitioning-ii"
+    },
+    {
+      "id": 475,
+      "title": "Heaters",
+      "difficulty": "Medium",
+      "acceptance": "41.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/heaters"
+    },
+    {
+      "id": 546,
+      "title": "Remove Boxes",
+      "difficulty": "Hard",
+      "acceptance": "49.4%",
+      "frequency": "75.0%",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-boxes"
+    },
+    {
+      "id": 53,
+      "title": "Maximum Subarray",
+      "difficulty": "Medium",
+      "acceptance": "53.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray"
+    },
+    {
+      "id": 2115,
+      "title": "Find All Possible Recipes from Given Supplies",
+      "difficulty": "Medium",
+      "acceptance": "56.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies"
+    },
+    {
+      "id": 239,
+      "title": "Sliding Window Maximum",
+      "difficulty": "Hard",
+      "acceptance": "48.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum"
+    },
+    {
+      "id": 2616,
+      "title": "Minimize the Maximum Difference of Pairs",
+      "difficulty": "Medium",
+      "acceptance": "51.0%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs"
+    },
+    {
+      "id": 968,
+      "title": "Binary Tree Cameras",
+      "difficulty": "Hard",
+      "acceptance": "47.9%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-cameras"
+    },
+    {
+      "id": 698,
+      "title": "Partition to K Equal Sum Subsets",
+      "difficulty": "Medium",
+      "acceptance": "38.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets"
+    },
+    {
+      "id": 375,
+      "title": "Guess Number Higher or Lower II",
+      "difficulty": "Medium",
+      "acceptance": "52.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/guess-number-higher-or-lower-ii"
+    },
+    {
+      "id": 2381,
+      "title": "Shifting Letters II",
+      "difficulty": "Medium",
+      "acceptance": "53.7%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/shifting-letters-ii"
+    },
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "acceptance": "51.8%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals"
+    },
+    {
+      "id": 4,
+      "title": "Median of Two Sorted Arrays",
+      "difficulty": "Hard",
+      "acceptance": "46.6%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays"
+    },
+    {
+      "id": 979,
+      "title": "Distribute Coins in Binary Tree",
+      "difficulty": "Medium",
+      "acceptance": "77.3%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/distribute-coins-in-binary-tree"
+    },
+    {
+      "id": 139,
+      "title": "Word Break",
+      "difficulty": "Medium",
+      "acceptance": "49.5%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break"
+    },
+    {
+      "id": 3607,
+      "title": "Power Grid Maintenance",
+      "difficulty": "Medium",
+      "acceptance": "56.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/power-grid-maintenance"
+    },
+    {
+      "id": 198,
+      "title": "House Robber",
+      "difficulty": "Medium",
+      "acceptance": "53.2%",
+      "frequency": "62.5%",
+      "leetcodeUrl": "https://leetcode.com/problems/house-robber"
+    }
+  ]
+}
