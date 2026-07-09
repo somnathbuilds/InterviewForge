@@ -2,15 +2,18 @@ import logo from "../../assets/images/logo.png";
 
 function Navbar() {
   return (
-    <nav className="flex items-center justify-between px-10 py-4 border-b border-gray-200 bg-white">
+    <nav className="sticky top-0 z-50 flex items-center justify-between px-10 py-4 border-b border-gray-200 bg-white shadow-sm">
 
       {/* Left Section */}
-      <div className="flex items-center">
+      <div className="flex items-center gap-3">
         <img
           src={logo}
-          alt="InterviewForge"
-          className="h-12 w-12 object-contain"
+          alt="InterviewForge Logo"
+          className="h-10 w-10"
         />
+        <h1 className="text-2xl font-bold text-blue-600">
+          InterviewForge
+        </h1>
       </div>
 
       {/* Center Section */}
