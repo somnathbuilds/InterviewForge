@@ -1,18 +1,39 @@
-import { recentActivities } from "../../../data/activityData";
+import { useProgress } from "../../../context/ProgressContext";
 
 function RecentActivity() {
+  const { dashboardStats } = useProgress();
+  const activities = dashboardStats.recentlySolved || [];
+
   const getBadgeColor = (color) => {
     switch (color) {
+      case "emerald":
+        return "bg-emerald-500";
+      case "amber":
+        return "bg-amber-500";
+      case "rose":
+        return "bg-rose-500";
       case "blue":
         return "bg-blue-600";
-      case "indigo":
-        return "bg-indigo-600";
-      case "violet":
-        return "bg-violet-600";
       default:
         return "bg-slate-600";
     }
   };
+
+  const formattedActivities = activities.length > 0
+    ? activities.map((q) => ({
+        time: new Date(q.solvedAt).toLocaleDateString(undefined, { month: "short", day: "numeric", hour: "2-digit", minute: "2-digit" }),
+        title: q.name,
+        desc: `Solved on ${q.company || "General"} track • Topic: ${q.topic} • Difficulty: ${q.difficulty}`,
+        badgeColor: q.difficulty === "Easy" ? "emerald" : q.difficulty === "Medium" ? "amber" : "rose"
+      }))
+    : [
+        {
+          time: "Just Now",
+          title: "Get Started!",
+          desc: "Solve coding questions on the DSA dashboard or Company preparation tracker to log progress.",
+          badgeColor: "blue"
+        }
+      ];
 
   return (
     <div className="bg-white border border-slate-200/80 rounded-2xl p-6 shadow-sm hover:shadow-md transition-all duration-300 flex flex-col justify-between h-full">
@@ -28,7 +49,7 @@ function RecentActivity() {
 
         {/* Timeline body */}
         <div className="relative border-l-2 border-slate-100 pl-6 ml-2.5 space-y-6">
-          {recentActivities.map((act, idx) => (
+          {formattedActivities.map((act, idx) => (
             <div key={idx} className="relative">
               {/* Timing Bullet node */}
               <span className={`absolute -left-[31px] top-1.5 w-2.5 h-2.5 rounded-full ring-4 ring-white ${getBadgeColor(act.badgeColor)}`}></span>
@@ -41,7 +62,7 @@ function RecentActivity() {
                 <h4 className="text-xs sm:text-sm font-bold text-slate-800 mt-1 leading-tight">
                   {act.title}
                 </h4>
-                <p className="text-slate-500 text-xs mt-1 leading-relaxed">
+                <p className="text-slate-550 text-xs mt-1 leading-relaxed">
                   {act.desc}
                 </p>
               </div>

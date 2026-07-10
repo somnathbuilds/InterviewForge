@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
+import { useProgress } from "../../context/ProgressContext";
 
 // Load all company JSON files dynamically from src/data/companies using Vite's glob import
 const companyModules = import.meta.glob("../../data/companies/*.json", { eager: true });
@@ -110,9 +111,7 @@ Object.entries(companyModules).forEach(([filePath, module]) => {
         acceptance: q.acceptance || "50%",
         frequency: q.frequency || "50%",
         companies: [companyName],
-        leetcodeUrl: q.leetcodeUrl,
-        favorite: false,
-        solved: false
+        leetcodeUrl: q.leetcodeUrl
       });
     } else {
       const existing = allProblemsMap.get(key);
@@ -131,31 +130,15 @@ const dynamicTopics = ["All", ...new Set(compiledProblemsList.map((p) => p.topic
 const uniqueDifficulties = ["All", "Easy", "Medium", "Hard"];
 
 function DSADashboard() {
-  const [problems, setProblems] = useState(compiledProblemsList);
+  const { solvedIds, favoriteIds, toggleSolved, toggleFavorite } = useProgress();
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedDifficulty, setSelectedDifficulty] = useState("All");
   const [selectedTopic, setSelectedTopic] = useState("All");
   const [selectedCompany, setSelectedCompany] = useState("All");
   const [visibleCount, setVisibleCount] = useState(50);
 
-  const handleToggleFavorite = (id) => {
-    setProblems(
-      problems.map((prob) =>
-        prob.id === id ? { ...prob, favorite: !prob.favorite } : prob
-      )
-    );
-  };
-
-  const handleToggleSolved = (id) => {
-    setProblems(
-      problems.map((prob) =>
-        prob.id === id ? { ...prob, solved: !prob.solved } : prob
-      )
-    );
-  };
-
   // Combined Multi-Filter
-  const filteredProblems = problems.filter((prob) => {
+  const filteredProblems = compiledProblemsList.filter((prob) => {
     const matchesSearch = prob.name.toLowerCase().includes(searchQuery.toLowerCase());
     const matchesDifficulty = selectedDifficulty === "All" || prob.difficulty === selectedDifficulty;
     const matchesTopic = selectedTopic === "All" || prob.topic === selectedTopic;
@@ -263,7 +246,7 @@ function DSADashboard() {
         </div>
       </div>
 
-      {/* Stats Cards - Height reduced by 25-30% and compact padding */}
+      {/* Stats Cards showing dynamic counts after filters */}
       <div className="grid grid-cols-2 lg:grid-cols-4 gap-3">
         <div className="bg-white border border-slate-200/80 rounded-2xl py-3.5 px-4 shadow-sm">
           <span className="text-[9px] font-bold text-slate-400 uppercase tracking-widest">Total Syllabus</span>
@@ -301,107 +284,112 @@ function DSADashboard() {
               </tr>
             </thead>
             <tbody className="divide-y divide-slate-100/85">
-              {displayedProblems.map((prob) => (
-                <tr key={prob.id} className="hover:bg-slate-50/50 transition">
-                  <td className="px-6 py-3.5 whitespace-nowrap">
-                    <button
-                      onClick={() => handleToggleSolved(prob.id)}
-                      className="w-4.5 h-4.5 rounded flex items-center justify-center transition border cursor-pointer border-slate-300"
-                      style={prob.solved ? { backgroundColor: "#10b981", borderColor: "#10b981", color: "#fff" } : {}}
-                    >
-                      {prob.solved && (
-                        <svg className="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="3">
-                          <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
-                        </svg>
-                      )}
-                    </button>
-                  </td>
-                  <td className="px-6 py-3.5">
-                    <span className={`text-xs font-semibold leading-tight ${prob.solved ? "text-slate-400 line-through font-medium" : "text-slate-800"}`}>
-                      {prob.name}
-                    </span>
-                  </td>
-                  <td className="px-6 py-3.5 whitespace-nowrap">
-                    <span className={`text-[9px] font-bold px-2 py-0.5 rounded-full border leading-none ${
-                      prob.difficulty === "Easy"
-                        ? "bg-emerald-50 text-emerald-700 border-emerald-100"
-                        : prob.difficulty === "Medium"
-                        ? "bg-amber-50 text-amber-700 border-amber-100"
-                        : "bg-rose-50 text-rose-700 border-rose-100"
-                    }`}>
-                      {prob.difficulty}
-                    </span>
-                  </td>
-                  <td className="px-6 py-3.5 whitespace-nowrap">
-                    <span className="text-[11px] text-slate-500 font-medium">
-                      {prob.topic}
-                    </span>
-                  </td>
-                  <td className="px-6 py-3.5 whitespace-nowrap">
-                    <span className="text-xs font-semibold text-slate-600">
-                      {prob.acceptance}
-                    </span>
-                  </td>
-                  <td className="px-6 py-3.5 whitespace-nowrap">
-                    <span className="text-xs font-semibold text-slate-655">
-                      {prob.frequency}
-                    </span>
-                  </td>
-                  <td className="px-6 py-3.5">
-                    <div className="flex flex-wrap gap-1 max-w-xs">
-                      {prob.companies.slice(0, 4).map((company, cidx) => (
-                        <span
-                          key={cidx}
-                          onClick={() => setSelectedCompany(company)}
-                          className="text-[8px] font-bold bg-slate-100 hover:bg-blue-50 text-slate-600 hover:text-blue-600 px-1.5 py-0.5 rounded transition cursor-pointer select-none border border-transparent hover:border-blue-100"
-                          title={`Filter by ${company}`}
+              {displayedProblems.map((prob) => {
+                const isSolved = solvedIds.includes(prob.id);
+                const isFavorite = favoriteIds.includes(prob.id);
+
+                return (
+                  <tr key={prob.id} className="hover:bg-slate-50/50 transition">
+                    <td className="px-6 py-3.5 whitespace-nowrap">
+                      <button
+                        onClick={() => toggleSolved(prob, !isSolved)}
+                        className="w-4.5 h-4.5 rounded flex items-center justify-center transition border cursor-pointer border-slate-300"
+                        style={isSolved ? { backgroundColor: "#10b981", borderColor: "#10b981", color: "#fff" } : {}}
+                      >
+                        {isSolved && (
+                          <svg className="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="3">
+                            <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
+                          </svg>
+                        )}
+                      </button>
+                    </td>
+                    <td className="px-6 py-3.5">
+                      <span className={`text-xs font-semibold leading-tight ${isSolved ? "text-slate-400 line-through font-medium" : "text-slate-800"}`}>
+                        {prob.name}
+                      </span>
+                    </td>
+                    <td className="px-6 py-3.5 whitespace-nowrap">
+                      <span className={`text-[9px] font-bold px-2 py-0.5 rounded-full border leading-none ${
+                        prob.difficulty === "Easy"
+                          ? "bg-emerald-50 text-emerald-700 border-emerald-100"
+                          : prob.difficulty === "Medium"
+                          ? "bg-amber-50 text-amber-700 border-amber-100"
+                          : "bg-rose-50 text-rose-700 border-rose-100"
+                      }`}>
+                        {prob.difficulty}
+                      </span>
+                    </td>
+                    <td className="px-6 py-3.5 whitespace-nowrap">
+                      <span className="text-[11px] text-slate-500 font-medium">
+                        {prob.topic}
+                      </span>
+                    </td>
+                    <td className="px-6 py-3.5 whitespace-nowrap">
+                      <span className="text-xs font-semibold text-slate-600">
+                        {prob.acceptance}
+                      </span>
+                    </td>
+                    <td className="px-6 py-3.5 whitespace-nowrap">
+                      <span className="text-xs font-semibold text-slate-655">
+                        {prob.frequency}
+                      </span>
+                    </td>
+                    <td className="px-6 py-3.5">
+                      <div className="flex flex-wrap gap-1 max-w-xs">
+                        {prob.companies.slice(0, 4).map((company, cidx) => (
+                          <span
+                            key={cidx}
+                            onClick={() => setSelectedCompany(company)}
+                            className="text-[8px] font-bold bg-slate-100 hover:bg-blue-50 text-slate-600 hover:text-blue-600 px-1.5 py-0.5 rounded transition cursor-pointer select-none border border-transparent hover:border-blue-100"
+                            title={`Filter by ${company}`}
+                          >
+                            {company}
+                          </span>
+                        ))}
+                        {prob.companies.length > 4 && (
+                          <span className="text-[8px] font-semibold text-slate-400 px-0.5 self-center">
+                            +{prob.companies.length - 4}
+                          </span>
+                        )}
+                      </div>
+                    </td>
+                    <td className="px-6 py-3.5 whitespace-nowrap">
+                      <button
+                        onClick={() => toggleFavorite(prob, !isFavorite)}
+                        className="text-slate-300 hover:text-amber-400 transition cursor-pointer active:scale-95"
+                      >
+                        {isFavorite ? (
+                          <svg className="w-4.5 h-4.5 text-amber-400" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                          </svg>
+                        ) : (
+                          <svg className="w-4.5 h-4.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
+                            <path strokeLinecap="round" strokeLinejoin="round" d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z" />
+                          </svg>
+                        )}
+                      </button>
+                    </td>
+                    <td className="px-6 py-3.5 whitespace-nowrap">
+                      <div className="flex items-center gap-1.5">
+                        <Link
+                          to={`/dsa/problem/${prob.id}`}
+                          className="text-[11px] bg-blue-600 hover:bg-blue-700 text-white font-bold px-3 py-1.5 rounded-lg transition inline-block select-none active:scale-95 shadow-sm hover:shadow"
                         >
-                          {company}
-                        </span>
-                      ))}
-                      {prob.companies.length > 4 && (
-                        <span className="text-[8px] font-semibold text-slate-400 px-0.5 self-center">
-                          +{prob.companies.length - 4}
-                        </span>
-                      )}
-                    </div>
-                  </td>
-                  <td className="px-6 py-3.5 whitespace-nowrap">
-                    <button
-                      onClick={() => handleToggleFavorite(prob.id)}
-                      className="text-slate-300 hover:text-amber-400 transition cursor-pointer active:scale-95"
-                    >
-                      {prob.favorite ? (
-                        <svg className="w-4.5 h-4.5 text-amber-400" fill="currentColor" viewBox="0 0 20 20">
-                          <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
-                        </svg>
-                      ) : (
-                        <svg className="w-4.5 h-4.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
-                          <path strokeLinecap="round" strokeLinejoin="round" d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z" />
-                        </svg>
-                      )}
-                    </button>
-                  </td>
-                  <td className="px-6 py-3.5 whitespace-nowrap">
-                    <div className="flex items-center gap-1.5">
-                      <Link
-                        to={`/dsa/problem/${prob.id}`}
-                        className="text-[11px] bg-blue-600 hover:bg-blue-700 text-white font-bold px-3 py-1.5 rounded-lg transition inline-block select-none active:scale-95 shadow-sm hover:shadow"
-                      >
-                        View Details
-                      </Link>
-                      <a
-                        href={prob.leetcodeUrl}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="text-[11px] bg-slate-50 hover:bg-blue-50 text-slate-655 hover:text-blue-600 border border-slate-200/80 hover:border-blue-100 font-bold px-3 py-1.5 rounded-lg transition inline-block select-none"
-                      >
-                        Solve on LeetCode
-                      </a>
-                    </div>
-                  </td>
-                </tr>
-              ))}
+                          View Details
+                        </Link>
+                        <a
+                          href={prob.leetcodeUrl}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="text-[11px] bg-slate-50 hover:bg-blue-50 text-slate-655 hover:text-blue-600 border border-slate-200/80 hover:border-blue-100 font-bold px-3 py-1.5 rounded-lg transition inline-block select-none"
+                        >
+                          Solve on LeetCode
+                        </a>
+                      </div>
+                    </td>
+                  </tr>
+                );
+              })}
             </tbody>
           </table>
         </div>

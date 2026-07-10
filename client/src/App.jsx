@@ -14,6 +14,7 @@ import DSASheets from "./pages/DSA/DSASheets";
 import DSAProblemDetails from "./pages/DSA/DSAProblemDetails";
 import DSACompanyQuestions from "./pages/DSA/DSACompanyQuestions";
 import { AuthProvider } from "./context/AuthContext";
+import { ProgressProvider } from "./context/ProgressContext";
 import ProtectedRoute from "./components/ProtectedRoute";
 import {
   AptitudePage,
@@ -26,8 +27,9 @@ import {
 function App() {
   return (
     <AuthProvider>
-      <Router>
-        <Routes>
+      <ProgressProvider>
+        <Router>
+          <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/login" element={<Login />} />
           <Route path="/register" element={<Register />} />
@@ -52,6 +54,7 @@ function App() {
           <Route path="/settings" element={<ProtectedRoute><DashboardLayout><SettingsPage /></DashboardLayout></ProtectedRoute>} />
         </Routes>
       </Router>
+      </ProgressProvider>
     </AuthProvider>
   );
 }

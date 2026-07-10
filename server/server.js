@@ -19,6 +19,7 @@ app.use(cors());
 
 // Mount routers
 app.use("/api/auth", require("./routes/authRoutes"));
+app.use("/api/progress", require("./routes/progressRoutes"));
 
 // Default root status check
 app.get("/", (req, res) => {

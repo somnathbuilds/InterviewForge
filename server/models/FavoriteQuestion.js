@@ -29,9 +29,10 @@ const FavoriteQuestionSchema = new mongoose.Schema(
       type: String,
       required: true
     },
-    company: {
-      type: String,
-      required: true
+    companies: {
+      type: [String],
+      required: true,
+      default: []
     }
   },
   {

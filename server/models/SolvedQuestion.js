@@ -29,10 +29,10 @@ const SolvedQuestionSchema = new mongoose.Schema(
       type: String,
       required: true
     },
-    company: {
-      type: String,
+    companies: {
+      type: [String],
       required: true,
-      index: true
+      default: []
     }
   },
   {

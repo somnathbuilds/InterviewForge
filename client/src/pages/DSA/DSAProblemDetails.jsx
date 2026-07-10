@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { useParams } from "react-router-dom";
+import { useProgress } from "../../context/ProgressContext";
 
 // Load all company JSON files dynamically from src/data/companies using Vite's glob import
 const companyModules = import.meta.glob("../../data/companies/*.json", { eager: true });
@@ -125,6 +126,7 @@ const compiledProblemsList = Array.from(allProblemsMap.values());
 
 function DSAProblemDetails() {
   const { id } = useParams();
+  const { solvedIds, favoriteIds, notes, toggleSolved, toggleFavorite, saveNote } = useProgress();
 
   // Find problem matching ID
   const problem = compiledProblemsList.find((p) => String(p.id) === String(id)) || compiledProblemsList[0] || {
@@ -143,34 +145,21 @@ function DSAProblemDetails() {
     `class Solution {\npublic:\n    vector<int> solveProblem(vector<int>& nums) {\n        // Write your solution logic here\n        return {};\n    }\n};`
   );
 
-  // Persistence local states for note, favorite and solved toggles
-  const [prevId, setPrevId] = useState(id);
-  const [noteText, setNoteText] = useState(() => localStorage.getItem(`notes_${problem.id}`) || "");
-  const [isFavorite, setIsFavorite] = useState(() => localStorage.getItem(`fav_${problem.id}`) === "true");
-  const [isSolved, setIsSolved] = useState(() => localStorage.getItem(`solved_${problem.id}`) === "true");
-
-  if (id !== prevId) {
-    setPrevId(id);
-    setNoteText(localStorage.getItem(`notes_${problem.id}`) || "");
-    setIsFavorite(localStorage.getItem(`fav_${problem.id}`) === "true");
-    setIsSolved(localStorage.getItem(`solved_${problem.id}`) === "true");
-  }
+  // Sync statuses with global Context states loaded from MongoDB
+  const isSolved = solvedIds.includes(problem.id);
+  const isFavorite = favoriteIds.includes(problem.id);
+  const noteText = notes[problem.id] || "";
 
   const handleNoteChange = (text) => {
-    setNoteText(text);
-    localStorage.setItem(`notes_${problem.id}`, text);
+    saveNote(problem, text);
   };
 
   const handleToggleFavorite = () => {
-    const nextVal = !isFavorite;
-    setIsFavorite(nextVal);
-    localStorage.setItem(`fav_${problem.id}`, String(nextVal));
+    toggleFavorite(problem, !isFavorite);
   };
 
   const handleToggleSolved = () => {
-    const nextVal = !isSolved;
-    setIsSolved(nextVal);
-    localStorage.setItem(`solved_${problem.id}`, String(nextVal));
+    toggleSolved(problem, !isSolved);
   };
 
   const descriptionPlaceholder = `Given the problem constraints, implement an optimal solution algorithm. Analyze complexity limits: standard target execution is time complexity O(N) and space complexity O(1). Verify edge cases such as empty values, array limits, or duplicate inputs.`;

@@ -1,13 +1,136 @@
-import { useState } from "react";
-import { dsaProblems } from "../../data/dsaData";
+import { useProgress } from "../../context/ProgressContext";
+import { Link } from "react-router-dom";
+
+// Load all company JSON files dynamically from src/data/companies using Vite's glob import
+const companyModules = import.meta.glob("../../data/companies/*.json", { eager: true });
+
+// Assign category tags to questions based on keywords in their title
+function classifyTopic(title) {
+  const lower = title.toLowerCase();
+  if (
+    lower.includes("sum") ||
+    lower.includes("anagram") ||
+    lower.includes("duplicate") ||
+    lower.includes("subarrays") ||
+    lower.includes("array") ||
+    lower.includes("matrix") ||
+    lower.includes("rotate")
+  ) {
+    return "Arrays & Hashing";
+  }
+  if (
+    lower.includes("linked list") ||
+    lower.includes("reverse list") ||
+    lower.includes("palindrome list") ||
+    lower.includes("merge list") ||
+    lower.includes("node")
+  ) {
+    return "Linked List";
+  }
+  if (
+    lower.includes("substring") ||
+    lower.includes("string") ||
+    lower.includes("palindrome") ||
+    lower.includes("anagram")
+  ) {
+    return "Strings";
+  }
+  if (
+    lower.includes("tree") ||
+    lower.includes("bst") ||
+    lower.includes("binary") ||
+    lower.includes("postorder") ||
+    lower.includes("preorder") ||
+    lower.includes("inorder") ||
+    lower.includes("serialize")
+  ) {
+    return "Trees & BST";
+  }
+  if (
+    lower.includes("graph") ||
+    lower.includes("island") ||
+    lower.includes("path") ||
+    lower.includes("cycle") ||
+    lower.includes("course") ||
+    lower.includes("dfs") ||
+    lower.includes("bfs")
+  ) {
+    return "Graphs";
+  }
+  if (
+    lower.includes("dp") ||
+    lower.includes("stock") ||
+    lower.includes("subsequence") ||
+    lower.includes("knapsack") ||
+    lower.includes("climb") ||
+    lower.includes("coin") ||
+    lower.includes("longest common")
+  ) {
+    return "Dynamic Programming";
+  }
+  if (
+    lower.includes("search") ||
+    lower.includes("binary search") ||
+    lower.includes("find")
+  ) {
+    return "Searching";
+  }
+  if (
+    lower.includes("sort") ||
+    lower.includes("sorted")
+  ) {
+    return "Sorting";
+  }
+  if (
+    lower.includes("stack") ||
+    lower.includes("queue") ||
+    lower.includes("parentheses")
+  ) {
+    return "Stack & Queue";
+  }
+  return "General Algorithms";
+}
+
+// Compile a single de-duplicated dataset from all company files
+const allProblemsMap = new Map();
+
+Object.entries(companyModules).forEach(([filePath, module]) => {
+  const fileKey = filePath.split("/").pop().replace(".json", "");
+  const companyName = module.default ? module.default.company : (module.company || fileKey);
+  const questions = module.default ? module.default.questions : (module.questions || []);
+
+  questions.forEach((q) => {
+    const key = q.leetcodeUrl || q.title;
+    if (!allProblemsMap.has(key)) {
+      allProblemsMap.set(key, {
+        id: q.id,
+        name: q.title,
+        difficulty: q.difficulty,
+        topic: classifyTopic(q.title),
+        acceptance: q.acceptance || "50%",
+        frequency: q.frequency || "50%",
+        companies: [companyName],
+        leetcodeUrl: q.leetcodeUrl
+      });
+    } else {
+      const existing = allProblemsMap.get(key);
+      if (!existing.companies.includes(companyName)) {
+        existing.companies.push(companyName);
+      }
+    }
+  });
+});
+
+const compiledProblemsList = Array.from(allProblemsMap.values());
 
 function DSAFavorites() {
-  const [problems, setProblems] = useState(
-    dsaProblems.filter((p) => p.favorite)
-  );
+  const { favoriteIds, toggleFavorite } = useProgress();
 
-  const handleRemoveFavorite = (id) => {
-    setProblems(problems.filter((p) => p.id !== id));
+  // Filter compiled problems list to only include favorited items
+  const problems = compiledProblemsList.filter((p) => favoriteIds.includes(p.id));
+
+  const handleRemoveFavorite = (prob) => {
+    toggleFavorite(prob, false);
   };
 
   return (
@@ -21,7 +144,7 @@ function DSAFavorites() {
         <h1 className="text-2xl sm:text-3xl font-extrabold text-slate-800 tracking-tight mt-3">
           Bookmarked Questions
         </h1>
-        <p className="text-slate-500 text-xs sm:text-sm">
+        <p className="text-slate-550 text-xs sm:text-sm">
           A list of your favorite starred and flagged DSA problems for quick revision.
         </p>
       </div>
@@ -66,20 +189,33 @@ function DSAFavorites() {
                     </td>
                     <td className="px-6 py-4.5">
                       <div className="flex flex-wrap gap-1.5 max-w-xs">
-                        {prob.companies.map((company, cidx) => (
+                        {prob.companies.slice(0, 5).map((company, cidx) => (
                           <span key={cidx} className="text-[9px] font-semibold bg-slate-100 text-slate-600 px-2 py-0.5 rounded">
                             {company}
                           </span>
                         ))}
+                        {prob.companies.length > 5 && (
+                          <span className="text-[9px] font-semibold text-slate-400 px-0.5 self-center">
+                            +{prob.companies.length - 5}
+                          </span>
+                        )}
                       </div>
                     </td>
                     <td className="px-6 py-4.5 whitespace-nowrap">
-                      <button
-                        onClick={() => handleRemoveFavorite(prob.id)}
-                        className="text-rose-600 hover:text-rose-700 text-xs font-bold transition cursor-pointer select-none"
-                      >
-                        Remove Star
-                      </button>
+                      <div className="flex items-center gap-3">
+                        <Link
+                          to={`/dsa/problem/${prob.id}`}
+                          className="text-[11px] bg-blue-600 hover:bg-blue-700 text-white font-bold px-3 py-1.5 rounded-lg transition inline-block select-none active:scale-95 shadow-sm hover:shadow"
+                        >
+                          View Details
+                        </Link>
+                        <button
+                          onClick={() => handleRemoveFavorite(prob)}
+                          className="text-rose-600 hover:text-rose-700 text-xs font-bold transition cursor-pointer select-none"
+                        >
+                          Remove Star
+                        </button>
+                      </div>
                     </td>
                   </tr>
                 ))}

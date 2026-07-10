@@ -1,6 +1,10 @@
-import { progressStats } from "../../../data/dashboardData";
+import { useProgress } from "../../../context/ProgressContext";
+import { useAuth } from "../../../context/AuthContext";
 
 function ProgressOverview() {
+  const { user } = useAuth();
+  const { dashboardStats } = useProgress();
+
   const getIcon = (type) => {
     switch (type) {
       case "dsa":
@@ -32,9 +36,40 @@ function ProgressOverview() {
     }
   };
 
+  const cards = [
+    {
+      title: "DSA Practice",
+      value: `${dashboardStats.totalSolved} Problems`,
+      description: "Algorithm syllabus completed",
+      type: "dsa",
+      progress: dashboardStats.progressPercentage
+    },
+    {
+      title: "Favorite Problems",
+      value: `${dashboardStats.totalFavorites} Starred`,
+      description: "Bookmarked interview questions",
+      type: "mocks",
+      progress: null
+    },
+    {
+      title: "Preparation Streak",
+      value: `🔥 ${dashboardStats.currentStreak} Day Streak`,
+      description: "Consistent learning daily",
+      type: "aptitude",
+      progress: null
+    },
+    {
+      title: "Interview Readiness",
+      value: `${dashboardStats.progressPercentage}% Match`,
+      description: `${user?.targetCompany || "General"} preparation track`,
+      type: "core",
+      progress: dashboardStats.progressPercentage
+    }
+  ];
+
   return (
     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-      {progressStats.map((card, idx) => (
+      {cards.map((card, idx) => (
         <div
           key={idx}
           className="group bg-white border border-slate-200/80 rounded-2xl p-6 shadow-sm hover:shadow-md hover:-translate-y-1 transition-all duration-300 flex flex-col justify-between"
